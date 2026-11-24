@@ -6,8 +6,9 @@ categoria: tarifas-luz
 fecha: 2026-11-24
 actualizado: 2026-11-24
 publicado: true
-pilar: true
+pilar: false
 relacionados:
+  - tarifas-luz/tarifas-luz-compensacion-excedentes
   - placas-solares/cuantas-placas-casa-100m2
   - subvenciones/deduccion-irpf-placas-solares
   - subvenciones/bonificacion-ibi-placas-solares-madrid
