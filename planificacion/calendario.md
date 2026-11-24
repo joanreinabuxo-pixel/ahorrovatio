@@ -8,7 +8,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 |---|---|---|---|---|---|---|---|
 | 1 | L | 1 | Precio de las placas solares en España en 2026: cuánto cuesta y cuándo se amortiza | precio-placas-solares | placas-solares | precio placas solares | pendiente |
 | 2 | L | 19 | Aerotermia: qué es, cuánto cuesta y cuánto se ahorra frente al gas | que-es-aerotermia-precio | aerotermia | aerotermia que es precio | pendiente |
-| 3 | L | 37 | Mejores tarifas de luz con compensación de excedentes en 2026 | tarifas-luz-compensacion-excedentes | tarifas-luz | tarifas luz compensacion excedentes | verificado |
+| 3 | L | 37 | Tarifas de luz con compensación de excedentes en 2026: cómo funcionan y cómo elegir la mejor | tarifas-luz-compensacion-excedentes | tarifas-luz | tarifas luz compensacion excedentes | verificado |
 | 4 | L | 51 | Ayudas para placas solares y aerotermia en 2026: IRPF, IBI, ICIO y comunidades | ayudas-placas-solares-aerotermia | subvenciones | ayudas placas solares 2026 | pendiente |
 | 5 | L | 69 | Cómo bajar la factura de la luz en casa: guía completa | bajar-factura-luz | ahorro-hogar | bajar factura luz | verificado |
 | 6 | L | 2 | Cuántas placas solares necesito para una casa de 100 m² en España | cuantas-placas-casa-100m2 | placas-solares | cuantas placas solares necesito casa 100 m2 | verificado |
@@ -74,7 +74,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 66 | L+37 (laborable) | 16 | Errores más frecuentes del inversor Huawei y cómo solucionarlos | errores-inversor-huawei | placas-solares | errores inversor huawei | pendiente |
 | 67 | L+38 (laborable) | 17 | Placas solares en una segunda residencia: ¿compensa? | placas-solares-segunda-residencia | placas-solares | placas solares segunda residencia | pendiente |
 | 68 | L+39 (laborable) | 18 | Placas solares con coche eléctrico: cuántas necesitas para cargarlo | placas-solares-coche-electrico | placas-solares | placas solares coche electrico | pendiente |
-| 69 | L+40 (laborable) | 32 | Aerotermia en verano: suelo refrescante vs fancoils | aerotermia-refrescar-verano | aerotermia | aerotermia refrescar verano | verificado |
+| 69 | L+40 (laborable) | 32 | Aerotermia en verano: suelo refrescante vs fancoils | aerotermia-refrescar-verano | aerotermia | aerotermia refrescar verano | pendiente |
 | 70 | L+41 (laborable) | 33 | Mantenimiento de la aerotermia: qué revisar y cuánto cuesta | mantenimiento-aerotermia | aerotermia | mantenimiento aerotermia precio | pendiente |
 | 71 | L+42 (laborable) | 34 | Ciclos cortos en la aerotermia: por qué arranca y para tanto | ciclos-cortos-aerotermia | aerotermia | ciclos cortos aerotermia | pendiente |
 | 72 | L+43 (laborable) | 35 | Aire acondicionado por conductos vs aerotermia con fancoils | conductos-vs-aerotermia-fancoils | aerotermia | conductos vs aerotermia fancoils | pendiente |
