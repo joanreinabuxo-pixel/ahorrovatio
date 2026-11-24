@@ -72,6 +72,7 @@ fuentes:
 <h2 id="tope">2. El tope mensual: el excedente que se pierde</h2>
 <p>El Real Decreto pone otra regla: el valor del excedente compensado <strong>no puede superar el valor de la energía comprada</strong> en el periodo de facturación, que no puede ser de más de un mes. Si te sobra, se pierde.</p>
 <p>Ejemplo de agosto con los precios de Endesa Solar Plus: compras 120 kWh (22,19 €) y viertes 550 kWh (33,00 €). Solo se compensan 22,19 € y se pierden <strong>10,81 €</strong>. Pasa sobre todo de mayo a septiembre, cuando más producen las placas y menos se consume.</p>
+<p>Para saber si te pasa, mira tus facturas de verano: si el término de energía queda a <strong>0 €</strong>, multiplica los kWh vertidos por el precio del excedente y resta lo compensado. Esa diferencia es lo que has perdido ese mes. Si te ocurre en tres o cuatro meses al año, merece la pena actuar; si solo te pasa en agosto y por poco, seguramente no.</p>
 <p>Lo tienes explicado con más casos en la guía de <a href="/tarifas-luz/tarifas-luz-compensacion-excedentes/">tarifas de luz con compensación de excedentes</a>.</p>
 
 <h2 id="pvpc">3. El caso del PVPC</h2>
