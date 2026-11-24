@@ -32,7 +32,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 24 | L | 7 | Kits solares para balcón: normativa en España y rentabilidad | kit-solar-balcon | placas-solares | kit solar balcon | verificado |
 | 25 | L | 54 | Bonificación del IBI por placas solares en Barcelona y área metropolitana | bonificacion-ibi-placas-solares-barcelona | subvenciones | bonificacion ibi placas solares barcelona | verificado |
 | 26 | L | 55 | Bonificación del IBI por placas solares en Valencia | bonificacion-ibi-placas-solares-valencia | subvenciones | bonificacion ibi placas solares valencia | verificado |
-| 27 | L | 59 | Certificado energético antes y después de la obra para el IRPF | certificado-energetico-irpf | subvenciones | certificado energetico irpf | pendiente |
+| 27 | L | 59 | Certificado energético antes y después de la obra para el IRPF | certificado-energetico-irpf | subvenciones | certificado energetico irpf | verificado |
 | 28 | L | 60 | Ayudas para aerotermia por comunidad autónoma | ayudas-aerotermia-comunidades | subvenciones | ayudas aerotermia comunidad autonoma | pendiente |
 | 29 | L | 61 | Certificados de Ahorro Energético (CAE): cuánto te devuelven | certificados-ahorro-energetico-cae | subvenciones | certificados ahorro energetico cae | pendiente |
 | 30 | L+1 (laborable) | 8 | Legalizar placas solares en España: boletín, CIE y trámites paso a paso | legalizar-placas-solares | placas-solares | legalizar placas solares | pendiente |
