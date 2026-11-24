@@ -30,7 +30,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 22 | L | 6 | Cómo calcular la amortización de una instalación fotovoltaica | amortizacion-placas-solares | placas-solares | amortizacion placas solares | verificado |
 | 23 | L | 4 | Placas solares en un piso o comunidad de vecinos: cómo hacerlo legalmente | placas-solares-comunidad-vecinos | placas-solares | placas solares comunidad de vecinos | verificado |
 | 24 | L | 7 | Kits solares para balcón: normativa en España y rentabilidad | kit-solar-balcon | placas-solares | kit solar balcon | verificado |
-| 25 | L | 54 | Bonificación del IBI por placas solares en Barcelona y área metropolitana | bonificacion-ibi-placas-solares-barcelona | subvenciones | bonificacion ibi placas solares barcelona | pendiente |
+| 25 | L | 54 | Bonificación del IBI por placas solares en Barcelona y área metropolitana | bonificacion-ibi-placas-solares-barcelona | subvenciones | bonificacion ibi placas solares barcelona | verificado |
 | 26 | L | 55 | Bonificación del IBI por placas solares en Valencia | bonificacion-ibi-placas-solares-valencia | subvenciones | bonificacion ibi placas solares valencia | pendiente |
 | 27 | L | 59 | Certificado energético antes y después de la obra para el IRPF | certificado-energetico-irpf | subvenciones | certificado energetico irpf | pendiente |
 | 28 | L | 60 | Ayudas para aerotermia por comunidad autónoma | ayudas-aerotermia-comunidades | subvenciones | ayudas aerotermia comunidad autonoma | pendiente |
