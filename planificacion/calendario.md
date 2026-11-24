@@ -35,7 +35,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 27 | L | 59 | Certificado energético antes y después de la obra para el IRPF | certificado-energetico-irpf | subvenciones | certificado energetico irpf | verificado |
 | 28 | L | 60 | Ayudas para aerotermia por comunidad autónoma | ayudas-aerotermia-comunidades | subvenciones | ayudas aerotermia comunidad autonoma | verificado |
 | 29 | L | 61 | Certificados de Ahorro Energético (CAE): cuánto te devuelven | certificados-ahorro-energetico-cae | subvenciones | certificados ahorro energetico cae | verificado |
-| 30 | L+1 (laborable) | 8 | Legalizar placas solares en España: boletín, CIE y trámites paso a paso | legalizar-placas-solares | placas-solares | legalizar placas solares | pendiente |
+| 30 | L+1 (laborable) | 8 | Legalizar placas solares en España: boletín, CIE y trámites paso a paso | legalizar-placas-solares | placas-solares | legalizar placas solares | verificado |
 | 31 | L+2 (laborable) | 9 | Placas solares de 450 W vs 550 W: cuál conviene en una vivienda | placas-450w-vs-550w | placas-solares | placas 450w o 550w | pendiente |
 | 32 | L+3 (laborable) | 10 | Microinversores vs inversor string: ventajas, precios y cuándo elegir cada uno | microinversores-vs-inversor-string | placas-solares | microinversores vs inversor | pendiente |
 | 33 | L+4 (laborable) | 11 | Placas solares en días nublados o de lluvia: cuánto producen de verdad | placas-solares-dias-nublados | placas-solares | placas solares dias nublados | pendiente |
