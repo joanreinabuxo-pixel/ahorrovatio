@@ -3,8 +3,16 @@ import { getCollection, type CollectionEntry } from 'astro:content';
 export type Articulo = CollectionEntry<'articulos'>;
 
 // Fecha de hoy en Madrid (AAAA-MM-DD) para la publicación programada.
+// Se monta a mano con formatToParts para no depender del formato regional del servidor.
 function hoyMadrid(): string {
-  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Madrid' }).format(new Date());
+  try {
+    const p = new Intl.DateTimeFormat('en-US', { timeZone: 'Europe/Madrid', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
+    const v = (t: string) => p.find((x) => x.type === t)?.value ?? '';
+    const r = `${v('year')}-${v('month')}-${v('day')}`;
+    if (/^\d{4}-\d{2}-\d{2}$/.test(r)) return r;
+  } catch {}
+  // Plan B: hora UTC + 1 h (Madrid en invierno).
+  return new Date(Date.now() + 3600_000).toISOString().slice(0, 10);
 }
 const dia = (d: Date) => d.toISOString().slice(0, 10);
 
