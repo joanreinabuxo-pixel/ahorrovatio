@@ -19,7 +19,7 @@ faq:
   - q: "¿Qué pasa con el excedente que sobra cada mes?"
     a: "<p>Si el valor del excedente supera el de la energía comprada, la diferencia se pierde, porque el Real Decreto 244/2019 no permite pasar el sobrante al mes siguiente. Una batería virtual del mercado libre puede guardarlo en euros.</p>"
   - q: "¿Compensa poner una batería física para no verter?"
-    a: "<p>Hoy, solo por el ahorro, cuesta mucho que salga a cuenta. El InformeSolar 2025 sitúa una instalación de 5 kWp en unos 6.000 € y con batería en unos 11.500 €. En mi ejemplo, la batería tardaría décadas en pagarse. Puede tener sentido por otros motivos, como tener energía en un corte de luz.</p>"
+    a: "<p>Hoy, solo por el ahorro, cuesta mucho que salga a cuenta. El InformeSolar 2025 sitúa una instalación tipo sin batería (5 kW) en unos 6.000 € y una con batería (6,8 kW) en unos 11.500 €. En mi ejemplo, una batería de unos 4.500 € tardaría décadas en pagarse, más que los 15-20 años que la OCU da de vida a las de litio.</p>"
 fuentes:
   - nombre: "BOE — Real Decreto 244/2019, que regula el autoconsumo de energía eléctrica (texto consolidado)"
     url: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089"
@@ -29,6 +29,8 @@ fuentes:
     url: "https://www.endesa.com/es/luz-y-gas/catalogo-solar/endesa-solar-plus-bateria-virtual"
   - nombre: "Red Eléctrica — Boletín mensual de mayo de 2026"
     url: "https://www.ree.es/sites/default/files/publication/2026/06/downloadable/boletin-mensual-mayo-2026.pdf"
+  - nombre: "OCU — Baterías físicas para sistemas solares (12/03/2026)"
+    url: "https://www.ocu.org/vivienda-y-energia/paneles-fotovoltaicos/consejos/baterias-fisicas-sistemas-solares"
   - nombre: "Energías Renovables — Un autoconsumo tipo cuesta 6.000 euros (InformeSolar 2025)"
     url: "https://www.energias-renovables.com/autoconsumo/un-autoconsumo-tipo-cuesta-6-000-euros-20260115"
 ---
@@ -106,7 +108,7 @@ fuentes:
 <ul>
 <li><strong>Mover consumos: siempre.</strong> No cuesta dinero y cada kWh vale unas tres veces más.</li>
 <li><strong>Batería virtual: si pierdes excedente.</strong> Si en agosto pierdes 10,81 € como en el ejemplo, una cuota de 2 €/mes se paga con un solo mes. Si nunca llegas al tope, no te aporta nada.</li>
-<li><strong>Batería física: difícil solo por el ahorro.</strong> El InformeSolar 2025 sitúa una instalación tipo de 5 kWp en unos 6.000 € y con batería en unos 11.500 €. Si la batería te permitiera aprovechar 3 kWh al día que antes vertías, ahorrarías unos 137 € al año (1.095 kWh × 0,1249 €). Con unos 5.500 € de diferencia, tardaría unos 40 años, más que la vida de la batería. Es un supuesto, pero muestra el orden de magnitud.</li>
+<li><strong>Batería física: difícil solo por el ahorro.</strong> Si una batería te permitiera aprovechar 3 kWh al día que antes vertías, con un 90 % de eficiencia ahorrarías unos 117 € al año. Con un precio supuesto de 4.500 €, tardaría unos 39 años, más que su vida útil. Hago la cuenta completa en <a href="/placas-solares/bateria-fisica-o-virtual/">batería física o virtual</a>.</li>
 <li><strong>Vender la energía como productor: casi nunca en una casa.</strong> El Real Decreto 244/2019 permite la modalidad con excedentes no acogida a compensación, pero implica darse de alta como productor, con más trámites y obligaciones fiscales.</li>
 </ul>
 
