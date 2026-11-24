@@ -25,7 +25,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 17 | L | 39 | Cómo entender la factura de la luz con autoconsumo | factura-luz-autoconsumo | tarifas-luz | factura luz autoconsumo | verificado |
 | 18 | L | 40 | PVPC vs mercado libre: cuál conviene si tienes placas | pvpc-vs-mercado-libre-placas | tarifas-luz | pvpc o mercado libre con placas | verificado |
 | 19 | L | 41 | Por qué te pagan tan poco por los excedentes y cómo evitarlo | excedentes-placas-solares-precio | tarifas-luz | excedentes placas solares precio | verificado |
-| 20 | L | 3 | Cuántas placas solares necesito si tengo aerotermia | cuantas-placas-con-aerotermia | placas-solares | cuantas placas solares necesito con aerotermia | pendiente |
+| 20 | L | 3 | Cuántas placas solares necesito si tengo aerotermia | cuantas-placas-con-aerotermia | placas-solares | cuantas placas solares necesito con aerotermia | verificado |
 | 21 | L | 5 | ¿Merece la pena poner batería física en 2026 o es mejor la batería virtual? | bateria-fisica-o-virtual | placas-solares | bateria fisica o virtual | pendiente |
 | 22 | L | 6 | Cómo calcular la amortización de una instalación fotovoltaica | amortizacion-placas-solares | placas-solares | amortizacion placas solares | pendiente |
 | 23 | L | 4 | Placas solares en un piso o comunidad de vecinos: cómo hacerlo legalmente | placas-solares-comunidad-vecinos | placas-solares | placas solares comunidad de vecinos | pendiente |
