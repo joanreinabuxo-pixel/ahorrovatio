@@ -23,7 +23,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 15 | L | 71 | Qué electrodomésticos gastan más luz (tabla con euros al año) | electrodomesticos-que-mas-gastan | ahorro-hogar | electrodomesticos que mas gastan | verificado |
 | 16 | L | 72 | Consumo fantasma: cuánto gastan los aparatos en standby | consumo-fantasma-standby | ahorro-hogar | consumo fantasma standby | verificado |
 | 17 | L | 39 | Cómo entender la factura de la luz con autoconsumo | factura-luz-autoconsumo | tarifas-luz | factura luz autoconsumo | verificado |
-| 18 | L | 40 | PVPC vs mercado libre: cuál conviene si tienes placas | pvpc-vs-mercado-libre-placas | tarifas-luz | pvpc o mercado libre con placas | pendiente |
+| 18 | L | 40 | PVPC vs mercado libre: cuál conviene si tienes placas | pvpc-vs-mercado-libre-placas | tarifas-luz | pvpc o mercado libre con placas | verificado |
 | 19 | L | 41 | Por qué te pagan tan poco por los excedentes y cómo evitarlo | excedentes-placas-solares-precio | tarifas-luz | excedentes placas solares precio | pendiente |
 | 20 | L | 3 | Cuántas placas solares necesito si tengo aerotermia | cuantas-placas-con-aerotermia | placas-solares | cuantas placas solares necesito con aerotermia | pendiente |
 | 21 | L | 5 | ¿Merece la pena poner batería física en 2026 o es mejor la batería virtual? | bateria-fisica-o-virtual | placas-solares | bateria fisica o virtual | pendiente |
