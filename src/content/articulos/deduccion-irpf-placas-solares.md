@@ -6,8 +6,9 @@ categoria: subvenciones
 fecha: 2026-11-24
 actualizado: 2026-11-24
 publicado: true
-pilar: true
+pilar: false
 relacionados:
+  - subvenciones/ayudas-placas-solares-aerotermia
   - subvenciones/bonificacion-ibi-placas-solares-madrid
   - placas-solares/cuantas-placas-casa-100m2
   - aerotermia/aerotermia-radiadores-convencionales

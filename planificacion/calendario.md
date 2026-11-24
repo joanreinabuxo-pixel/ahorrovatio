@@ -9,7 +9,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 1 | L | 1 | Precio de las placas solares en España en 2026: cuánto cuesta y cuándo se amortiza | precio-placas-solares | placas-solares | precio placas solares | pendiente |
 | 2 | L | 19 | Aerotermia: qué es, cuánto cuesta y cuánto se ahorra frente al gas | que-es-aerotermia-precio | aerotermia | aerotermia que es precio | pendiente |
 | 3 | L | 37 | Tarifas de luz con compensación de excedentes en 2026: cómo funcionan y cómo elegir la mejor | tarifas-luz-compensacion-excedentes | tarifas-luz | tarifas luz compensacion excedentes | verificado |
-| 4 | L | 51 | Ayudas para placas solares y aerotermia en 2026: IRPF, IBI, ICIO y comunidades | ayudas-placas-solares-aerotermia | subvenciones | ayudas placas solares 2026 | pendiente |
+| 4 | L | 51 | Ayudas para placas solares y aerotermia en 2026: IRPF, IBI, ICIO y comunidades | ayudas-placas-solares-aerotermia | subvenciones | ayudas placas solares 2026 | verificado |
 | 5 | L | 69 | Cómo bajar la factura de la luz en casa: guía completa | bajar-factura-luz | ahorro-hogar | bajar factura luz | verificado |
 | 6 | L | 2 | Cuántas placas solares necesito para una casa de 100 m² en España | cuantas-placas-casa-100m2 | placas-solares | cuantas placas solares necesito casa 100 m2 | verificado |
 | 7 | L | 20 | Aerotermia con radiadores convencionales: ¿funciona o es un error? | aerotermia-radiadores-convencionales | aerotermia | aerotermia con radiadores convencionales | verificado |
