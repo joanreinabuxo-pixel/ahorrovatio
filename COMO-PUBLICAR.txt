@@ -1,0 +1,31 @@
+AHORROVATIO.COM · CÓMO PUBLICAR UN ARTÍCULO NUEVO
+================================================
+
+1. Copia la carpeta  plantillas/articulo  dentro de su categoría y cámbiale el nombre.
+   El nombre de la carpeta será la dirección de la página. Ejemplo:
+   placas-solares/cuantas-placas-casa-100m2/   ->   ahorrovatio.com/placas-solares/cuantas-placas-casa-100m2/
+
+2. Abre el index.html de la carpeta nueva y:
+   - Cambia el <title>, la description, la URL "canonical" y el JSON-LD del principio.
+   - BORRA la línea <meta name="robots" content="noindex, follow">.
+   - Sustituye todos los textos entre [corchetes]. No borres las etiquetas < >.
+
+3. Enlaza el artículo:
+   - En la página de su categoría (p. ej. placas-solares/index.html), cambia la línea
+     "Próximamente" de ese título por un enlace.
+   - Si quieres, añade una tarjeta en "Guías destacadas" de la portada (index.html).
+   - Añade la URL al archivo sitemap.xml.
+
+4. Sube los cambios a tu repositorio de GitHub (GitHub Pages + Cloudflare lo publicarán en segundos).
+
+ANUNCIOS DE ADSENSE
+- Cada hueco publicitario es un <div class="ad ...">. Pega dentro el bloque de
+  anuncio que te da AdSense. La caja punteada desaparece sola.
+- Pega el script principal de AdSense en el <head> (hay un comentario preparado).
+- En ads.txt cambia pub-XXXXXXXXXXXXXXXX por tu ID de editor.
+- Activa en AdSense "Privacidad y mensajes > RGPD" (obligatorio en Europa) y en
+  main.js cambia  USE_GOOGLE_CMP = false  por  true.
+
+ANTES DE LANZAR EN PRODUCCIÓN
+- Rellena los [corchetes] en aviso-legal/, politica-privacidad/, sobre-nosotros/ y contacto/.
+- Configura los registros DNS en Cloudflare apuntando a las IPs de GitHub Pages (el archivo CNAME ya está listo).
