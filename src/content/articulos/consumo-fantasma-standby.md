@@ -48,6 +48,7 @@ fuentes:
 <li><a href="#ejemplo">Ejemplo: dos regletas</a></li>
 <li><a href="#cortar">Cómo cortarlo sin complicarte</a></li>
 <li><a href="#no">Lo que no conviene apagar</a></li>
+<li><a href="#compensa">Cuándo compensa comprar algo</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
@@ -122,7 +123,17 @@ fuentes:
 <li><strong>El microondas o el horno con reloj</strong>, si te molesta volver a poner la hora. Gastan poco; decide tú si merece la pena.</li>
 </ul>
 
-<h2 id="errores">7. Errores frecuentes</h2>
+<h2 id="compensa">7. Cuándo compensa comprar algo</h2>
+<p>Desenchufar a mano es gratis. Comprar regletas, temporizadores o enchufes inteligentes cuesta dinero, así que conviene hacer la cuenta antes:</p>
+<ol>
+<li>Suma el consumo en espera de los aparatos que vas a conectar a la regleta, con la tabla o con un enchufe medidor.</li>
+<li>Multiplícalo por el precio de tu kWh: es lo que ahorras al año si la apagas siempre.</li>
+<li>Divide el precio de la regleta entre ese ahorro: son los años que tarda en pagarse.</li>
+</ol>
+<p>En mi ejemplo, la regleta del salón ahorra unos 21 € al año. Si una regleta con interruptor te cuesta, por ejemplo, 10 €, se pagaría en medio año. Un enchufe inteligente más caro tardaría más, y además gasta algo él mismo para estar conectado. Para un solo cargador de móvil, en cambio, ningún aparato compensa: ahorrarías 5 céntimos al año.</p>
+<p>Regla práctica: compensa poner regleta donde se juntan tres o más aparatos con lucecita, y no compensa para aparatos sueltos que ya puedes desenchufar a mano.</p>
+
+<h2 id="errores">8. Errores frecuentes</h2>
 <ul>
 <li><strong>Obsesionarse con los cargadores.</strong> Gastan muy poco; la impresora o el equipo de música pesan mucho más.</li>
 <li><strong>Pensar que el mando apaga el aparato.</strong> Con el mando casi siempre se queda en espera.</li>
