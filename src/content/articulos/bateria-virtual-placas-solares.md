@@ -19,7 +19,7 @@ faq:
   - q: "¿Puedo usar el saldo en otra vivienda?"
     a: "<p>Depende de la compañía. Repsol indica que el saldo sirve para cualquier contrato que tengas con ella, incluida una segunda vivienda, e Iberdrola dice que se descuenta en cualquiera de tus contratos de energía si el titular es el mismo. Endesa lo aplica a las facturas del mismo punto de suministro.</p>"
   - q: "¿Qué pasa con el saldo si me cambio de compañía?"
-    a: "<p>Ninguna de las páginas oficiales que hemos revisado (Endesa, Repsol e Iberdrola) explica qué ocurre con el saldo acumulado si te das de baja. Pregúntalo por escrito antes de contratar y, si piensas cambiar, intenta gastar el saldo antes.</p>"
+    a: "<p>Ninguna de las páginas oficiales que he revisado (Endesa, Repsol e Iberdrola) explica qué ocurre con el saldo acumulado si te das de baja. Pregúntalo por escrito antes de contratar y, si piensas cambiar, intenta gastar el saldo antes.</p>"
   - q: "¿Me sale a cuenta si tengo pocos excedentes?"
     a: "<p>Si casi todo lo que producen tus placas lo consumes en el momento, el excedente que sobra cada mes es pequeño y la compensación normal ya lo absorbe. Una cuota fija mensual puede costarte más de lo que recuperas. La batería virtual tiene más sentido cuando en verano el excedente supera claramente lo que gastas en energía.</p>"
 fuentes:
@@ -82,7 +82,7 @@ fuentes:
 </div>
 
 <h2 id="comparativa">3. Qué ofrecen Endesa, Repsol e Iberdrola</h2>
-<p>Hemos revisado la página oficial de cada producto el 24 de noviembre de 2026. Donde la compañía no publica un dato, lo indicamos en lugar de rellenarlo con cifras de terceros:</p>
+<p>He revisado la página oficial de cada producto el 24 de noviembre de 2026. Donde la compañía no publica un dato, lo indico en lugar de rellenarlo con cifras de terceros:</p>
 <div class="table-scroll">
 <table class="table">
 <thead><tr><th></th><th>Endesa</th><th>Repsol</th><th>Iberdrola</th></tr></thead>
@@ -105,7 +105,7 @@ fuentes:
 <p>Estas condiciones cambian con frecuencia. Antes de contratar, vuelve a mirar la página de cada compañía (están enlazadas en las fuentes) y pide que te envíen la oferta completa por escrito.</p>
 
 <h2 id="otras">4. Otras comercializadoras</h2>
-<p>No son las únicas. Naturgy, Octopus Energy, Holaluz y Som Energia, entre otras, también tienen productos parecidos con nombres propios. No los incluimos en la tabla porque no hemos podido confirmar sus condiciones en una página oficial actualizada, y las cifras que circulan en comparadores no coinciden entre sí. Si te interesa alguna, aplica las mismas preguntas del apartado siguiente.</p>
+<p>No son las únicas. Naturgy, Octopus Energy, Holaluz y Som Energia, entre otras, también tienen productos parecidos con nombres propios. No los incluyo en la tabla porque no he podido confirmar sus condiciones en una página oficial actualizada, y las cifras que circulan en comparadores no coinciden entre sí. Si te interesa alguna, aplica las mismas preguntas del apartado siguiente.</p>
 <p>Para comparar el precio del kWh y de la potencia de cualquier oferta del mercado libre, el <a href="https://comparador.cnmc.gob.es/" target="_blank" rel="noopener">comparador oficial de la CNMC</a> es gratuito y no es de ninguna compañía.</p>
 
 <h2 id="letra-pequena">5. Cinco preguntas antes de contratar</h2>
@@ -129,7 +129,7 @@ fuentes:
 <li><strong>Con batería virtual:</strong> se descuentan los mismos 18 € y los 6 € pasan a la hucha para otro mes.</li>
 </ul>
 <p>Si pasa algo parecido de mayo a septiembre, podrías guardar unos 30 € en la temporada. Con una cuota de 2 € al mes más impuestos, pagarías algo más de 24 € al año solo por el servicio. La ganancia neta sería pequeña. En cambio, una casa con muchas placas y poco consumo diurno (por ejemplo, porque nadie está en casa por el día) puede acumular bastante más y ahí la batería virtual sí marca la diferencia.</p>
-<p>Por eso no hay una respuesta única: depende de cuánto excedente te sobra de verdad cada mes y de la cuota. Para estimar tu producción, puedes usar nuestra <a href="/calculadoras/">calculadora solar</a>.</p>
+<p>Por eso no hay una respuesta única: depende de cuánto excedente te sobra de verdad cada mes y de la cuota. Para estimar tu producción, puedes usar la <a href="/calculadoras/">calculadora solar</a>.</p>
 
 <h2 id="fisica">7. ¿Batería virtual o batería física?</h2>
 <p>Una batería física guarda la energía en tu casa para usarla por la noche, de modo que compras menos electricidad a la red. La batería virtual no evita que compres energía de noche: solo te devuelve, en euros, el valor del excedente.</p>

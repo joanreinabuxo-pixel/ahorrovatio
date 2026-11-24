@@ -17,7 +17,7 @@ const articulos = defineCollection({
     imagenAlt: z.string().optional(),
     relacionados: z.array(z.string()).default([]),
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
-    fuentes: z.array(z.object({ nombre: z.string(), url: z.string().default('') })).default([]),
+    fuentes: z.array(z.object({ nombre: z.string(), url: z.string().default(''), consultado: z.coerce.date().optional() })).default([]),
   }),
 });
 

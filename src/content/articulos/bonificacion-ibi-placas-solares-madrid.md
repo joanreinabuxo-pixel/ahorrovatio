@@ -72,7 +72,7 @@ fuentes:
 <p>Puedes consultar el texto completo en el <a href="https://www.madrid.es/FWProjects/contribuyente/contenidos/06InformacionDocumentacion/01OrdenanzasFiscales/03Publicaciones/OOFF.Libro2026.pdf" target="_blank" rel="noopener">libro oficial de ordenanzas fiscales 2026</a> del Ayuntamiento.</p>
 
 <h2 id="municipios">3. Tabla por municipios</h2>
-<p>Estos son los municipios cuya ordenanza de 2026 hemos podido revisar, a partir de la <a href="https://media.timtul.com/media/web_asprima/1.%20Ordenanzas%20Fiscales%202026_20260706110049.pdf" target="_blank" rel="noopener">recopilación de ordenanzas fiscales 2026 de ASPRIMA</a>:</p>
+<p>Estos son los municipios cuya ordenanza de 2026 he podido revisar, a partir de la <a href="https://media.timtul.com/media/web_asprima/1.%20Ordenanzas%20Fiscales%202026_20260706110049.pdf" target="_blank" rel="noopener">recopilación de ordenanzas fiscales 2026 de ASPRIMA</a>:</p>
 <table>
 <thead><tr><th>Municipio</th><th>Bonificación</th><th>Años</th><th>Condiciones clave</th></tr></thead>
 <tbody>

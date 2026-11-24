@@ -25,6 +25,7 @@ const relacionados = d.relacionados
 const masCat = todos.filter((a) => a.data.categoria === d.categoria && a.id !== art.id && !relacionados.includes(a)).slice(0, 3);
 const relFinal = [...relacionados, ...masCat].slice(0, 5);
 const fuentesFechas = actualizado.toISOString().slice(0, 10);
+const organismos = [...new Set(d.fuentes.map((f) => f.nombre.split(' — ')[0].trim()))].slice(0, 5);
 
 const schema: object[] = [
   {
@@ -57,7 +58,7 @@ if (d.faq.length) schema.push({
         <a class="kicker" href={`/${d.categoria}/`} style="margin-top:18px">{cat.h1}</a>
         <h1>{d.h1}</h1>
         <div class="byline"><span>Por <a href={SITE.autor.url}><strong>{SITE.autor.nombre}</strong></a></span><span>Actualizado: <time datetime={fuentesFechas}>{fechaLarga(actualizado)}</time></span><span>{minutos} min de lectura</span></div>
-        <p class="trust">Datos contrastados con fuentes oficiales, enlazadas al final del artículo. Revisado el {fechaLarga(actualizado)}.</p>
+        <p class="trust">{organismos.length > 0 ? <>Fuentes: {organismos.join(', ')}. </> : null}Enlazadas al final del artículo y revisadas el {fechaLarga(actualizado)}.</p>
       </header>
       {d.imagen && <img class="hero-img" src={d.imagen} alt={d.imagenAlt ?? d.h1} width="1200" height="675" loading="eager" fetchpriority="high" />}
       <div class="prose">
@@ -79,7 +80,7 @@ if (d.faq.length) schema.push({
         {d.fuentes.length > 0 && (
           <div class="sources">
             <h2>Fuentes</h2>
-            <ul>{d.fuentes.map((f) => <li>{f.url ? <a href={f.url} target="_blank" rel="noopener">{f.nombre}</a> : f.nombre}</li>)}</ul>
+            <ul>{d.fuentes.map((f) => <li>{f.url ? <a href={f.url} target="_blank" rel="noopener">{f.nombre}</a> : f.nombre} <span class="consultado">(consultado el {fechaLarga(f.consultado ?? actualizado)})</span></li>)}</ul>
           </div>
         )}
         <Compartir url={url} titulo={d.h1} />

@@ -578,3 +578,4 @@ h1 em, h2 em { color: var(--petrol); }
 .share a:hover, .share button:hover { background: rgba(0,0,0,.05); }
 .trust { font-size: .9rem; opacity: .85; margin-top: 10px; }
 .sources a { word-break: break-word; }
+.sources .consultado { color: var(--ink-mute); font-size: .88em; }
