@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+import { CATEGORIAS } from '../config';
+---
+<Base titulo="Página no encontrada" descripcion="La página que buscas no existe o ha cambiado de dirección." noindex>
+<main id="contenido">
+  <section class="page-hero"><div class="wrap">
+    <h1>Esta página no existe</h1>
+    <p class="lede">Puede que la dirección haya cambiado. Prueba con una de estas secciones:</p>
+  </div></section>
+  <div class="wrap"><div class="legal"><ul>
+    <li><a href="/">Portada</a></li>
+    {CATEGORIAS.map((c) => <li><a href={`/${c.slug}/`}>{c.nombre}</a></li>)}
+    <li><a href="/calculadoras/">Calculadora solar</a></li>
+  </ul></div></div>
+</main>
+</Base>

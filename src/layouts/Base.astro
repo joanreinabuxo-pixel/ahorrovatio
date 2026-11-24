@@ -1,0 +1,77 @@
+---
+import '@fontsource-variable/fraunces';
+import '@fontsource-variable/source-sans-3';
+import '../styles.css';
+import { SITE, ADSENSE, CATEGORIAS } from '../config';
+
+interface Props {
+  titulo: string;
+  descripcion: string;
+  tipo?: 'website' | 'article';
+  imagen?: string;
+  noindex?: boolean;
+  categoriaActual?: string;
+  schema?: object[];
+  sinAnuncios?: boolean; // páginas legales y contacto
+}
+const { titulo, descripcion, tipo = 'website', imagen, noindex = false, categoriaActual, schema = [], sinAnuncios = false } = Astro.props;
+const canonical = new URL(Astro.url.pathname, SITE.url).href;
+const tituloCompleto = Astro.url.pathname === '/' ? titulo : `${titulo} | ${SITE.nombre}`;
+const ogImagen = imagen ? new URL(imagen, SITE.url).href : undefined;
+const cargarAdsense = ADSENSE.client && !sinAnuncios && !noindex;
+---
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{tituloCompleto}</title>
+<meta name="description" content={descripcion}>
+<link rel="canonical" href={canonical}>
+<meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}>
+<meta property="og:type" content={tipo}>
+<meta property="og:site_name" content={SITE.nombre}>
+<meta property="og:title" content={titulo}>
+<meta property="og:description" content={descripcion}>
+<meta property="og:url" content={canonical}>
+<meta property="og:locale" content="es_ES">
+{ogImagen && <meta property="og:image" content={ogImagen}>}
+{ogImagen && <meta property="og:image:width" content="1200">}
+<meta name="twitter:card" content={ogImagen ? 'summary_large_image' : 'summary'}>
+<meta name="theme-color" content="#0f5243">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title={SITE.nombre} href="/rss.xml">
+<link rel="sitemap" href="/sitemap-index.xml">
+{cargarAdsense && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE.client}`} crossorigin="anonymous"></script>}
+<script src="/main.js" defer></script>
+{schema.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+</head>
+<body>
+<a class="skip" href="#contenido">Saltar al contenido</a>
+<div class="topbar"><div class="wrap"><span>{SITE.lema}</span></div></div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="AhorroVatio, inicio">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="9" fill="#0f5243"/><path d="M22 7 L11 22 H19 L17 33 L29 18 H21 Z" fill="#d98218" stroke="#fff" stroke-width="1.2" stroke-linejoin="round"/></svg>
+      <span class="brand-name">Ahorro<b>Vatio</b></span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu"><span></span>Menú</button>
+    <nav class="nav" id="menu" aria-label="Categorías">
+      <ul>
+        {CATEGORIAS.map((c) => <li><a href={`/${c.slug}/`} aria-current={categoriaActual === c.slug ? 'page' : undefined}>{c.nombre}</a></li>)}
+        <li><a class="nav-search" href="/calculadoras/">Calculadora solar</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<slot />
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div><p class="brand-name" style="color:#fff;font-size:1.3rem">Ahorro<b>Vatio</b></p><p style="max-width:340px;margin-top:8px">Guía independiente sobre autoconsumo solar, aerotermia, tarifas eléctricas y eficiencia energética en España.</p></div>
+    <div><h3>Categorías</h3><ul>{CATEGORIAS.map((c) => <li><a href={`/${c.slug}/`}>{c.nombre}</a></li>)}</ul></div>
+    <div><h3>Transparencia</h3><ul><li><a href="/sobre-nosotros/">Sobre AhorroVatio</a></li><li><a href="/politica-independencia/">Política de independencia</a></li><li><a href="/contacto/">Contacto</a></li><li><a href="/aviso-legal/">Aviso legal</a></li><li><a href="/politica-privacidad/">Privacidad</a></li><li><a href="/politica-cookies/">Cookies</a></li><li><a href="/rss.xml">RSS</a></li></ul></div>
+  </div>
+  <div class="wrap footer-base"><span>© {new Date().getFullYear()} AhorroVatio · ahorrovatio.com</span><span>Contenido informativo orientado a España</span></div>
+</footer>
+</body>
+</html>

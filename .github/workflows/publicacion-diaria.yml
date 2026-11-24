@@ -1,0 +1,14 @@
+# Reconstruye la web de lunes a viernes por la mañana para que salgan
+# los artículos programados (los que tienen publicado: true y fecha de hoy).
+# Necesita el secreto CLOUDFLARE_DEPLOY_HOOK (Cloudflare Pages > Settings > Builds > Deploy hooks).
+name: Publicación diaria
+on:
+  schedule:
+    - cron: '0 6 * * 1-5'   # 07:00 en Madrid en invierno (08:00 en verano)
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lanzar build en Cloudflare Pages
+        run: curl -fsS -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"

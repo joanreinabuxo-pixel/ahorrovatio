@@ -1,0 +1,92 @@
+<section class="hero">
+<div class="wrap hero-grid">
+<div>
+<p class="eyebrow">Autoconsumo y climatización eficiente · España 2026</p>
+<h1>Reduce tu factura de luz y gas con datos reales, <em>sin letra pequeña</em>.</h1>
+<p class="hero-lede">Precios reales de placas solares y aerotermia, comparativas de batería virtual, deducciones del IRPF y calculadoras prácticas para tu vivienda.</p>
+<div style="display:flex;flex-wrap:wrap;gap:12px;margin:20px 0 14px">
+<a class="btn" href="//calculadoras/">Calcular mis placas solares →</a>
+<a class="btn btn--ghost" href="//tarifas-luz/bateria-virtual-placas-solares/">Qué es la batería virtual</a>
+</div>
+<p class="hero-note">Temas clave: <a href="//placas-solares/cuantas-placas-casa-100m2/">Placas para 100 m²</a> · <a href="//aerotermia/aerotermia-radiadores-convencionales/">Aerotermia con radiadores</a> · <a href="//subvenciones/deduccion-irpf-placas-solares/">IRPF 20%–60%</a> · <a href="//ahorro-hogar/termostatos-inteligentes-aerotermia/">Termostatos WiFi</a></p>
+</div>
+<div class="doors">
+<p class="doors-title">¿Qué quieres hacer en tu casa?</p>
+<a class="door" data-cat="solar" href="//placas-solares/"><span class="door-num">1</span><span><strong>Instalar placas solares</strong><small>Cuántas placas necesitas, precios y rentabilidad</small></span><span class="door-arrow">→</span></a>
+<a class="door" data-cat="aerotermia" href="//aerotermia/"><span class="door-num">2</span><span><strong>Cambiar caldera por aerotermia</strong><small>Consumo real, radiadores y marcas recomendadas</small></span><span class="door-arrow">→</span></a>
+<a class="door" data-cat="tarifas" href="//tarifas-luz/"><span class="door-num">3</span><span><strong>Pagar menos en tu factura</strong><small>Batería virtual, excedentes y potencia contratada</small></span><span class="door-arrow">→</span></a>
+</div>
+</div>
+</section>
+<div class="wrap">
+
+
+</div>
+<section class="section section--alt">
+<div class="wrap">
+<div class="section-head">
+<div>
+<p class="eyebrow">Plan de ahorro en cinco pasos</p>
+<h2>De pagar facturas caras a optimizar tu vivienda</h2>
+<p>Organizamos cada guía por fases para que tomes decisiones con cifras reales antes de pedir presupuestos.</p>
+</div>
+</div>
+<ol class="route">
+<li class="stop" data-cat="solar"><a href="//placas-solares/">
+<h3>Dimensiona tu tejado</h3><p>Cuántos paneles necesitas según tu consumo, orientación y sombras reales.</p><span class="more">Placas solares →</span></a></li>
+<li class="stop" data-cat="aerotermia"><a href="//aerotermia/">
+<h3>Climatiza sin gas</h3><p>Aerotermia con suelo radiante o radiadores existentes, consumo en invierno y ruido.</p><span class="more">Aerotermia →</span></a></li>
+<li class="stop" data-cat="tarifas"><a href="//tarifas-luz/">
+<h3>Optimiza tu tarifa</h3><p>Compensación de excedentes, baterías virtuales y ajuste de potencia P1/P2.</p><span class="more">Tarifas y batería →</span></a></li>
+<li class="stop" data-cat="subvenciones"><a href="//subvenciones/">
+<h3>Recupera inversión</h3><p>Deducciones del IRPF, bonificaciones municipales del IBI/ICIO y certificados CAE.</p><span class="more">Subvenciones e IRPF →</span></a></li>
+<li class="stop" data-cat="ahorro"><a href="//ahorro-hogar/">
+<h3>Mide y automatiza</h3><p>Termostatos inteligentes, medidores de consumo, Wallbox y aislamiento térmico.</p><span class="more">Ahorro y domótica →</span></a></li>
+</ol>
+</div>
+</section>
+<section class="section">
+<div class="wrap">
+<div class="section-head">
+<div>
+<p class="eyebrow">Herramienta gratuita</p>
+<h2>Calculadora de placas solares y amortización</h2>
+<p>Introduce tu factura mensual media y tu zona en España para estimar paneles, inversión y años de retorno.</p>
+</div>
+<a class="btn btn--ghost" href="//calculadoras/">Abrir calculadora completa</a>
+</div>
+<div class="calc-box">
+<form id="solar-calc" onsubmit="return false;">
+<div class="calc-grid">
+<div class="calc-field">
+<label for="calc-bill">Factura media de luz (€/mes)</label>
+<input id="calc-bill" max="800" min="25" step="5" type="number" value="110"/>
+</div>
+<div class="calc-field">
+<label for="calc-zone">Zona climática (España)</label>
+<select id="calc-zone">
+<option value="1300">Norte (Galicia, Asturias, Cantabria, País Vasco)</option>
+<option selected="" value="1550">Centro / Noreste (Madrid, Cataluña, Aragón, CyL)</option>
+<option value="1750">Sur / Levante / Islas (Andalucía, Valencia, Murcia, Baleares, Canarias)</option>
+</select>
+</div>
+<div class="calc-field">
+<label for="calc-ratio">Uso diurno en casa</label>
+<select id="calc-ratio">
+<option value="0.45">Bajo (fuera de casa casi todo el día)</option>
+<option selected="" value="0.60">Medio (teletrabajo parcial o electrodomésticos programados)</option>
+<option value="0.75">Alto (aerotermia, piscina o coche eléctrico de día)</option>
+</select>
+</div>
+</div>
+<div aria-live="polite" class="calc-results">
+<div class="calc-stat"><small>Instalación recomendada</small><strong id="res-panels">6 placas</strong></div>
+<div class="calc-stat"><small>Potencia pico</small><strong id="res-power">2,70 kWp</strong></div>
+<div class="calc-stat"><small>Inversión estimada</small><strong id="res-cost">4.465 €</strong></div>
+<div class="calc-stat calc-stat--accent"><small>Ahorro anual estimado</small><strong id="res-savings">495 €/año</strong></div>
+<div class="calc-stat"><small>Amortización sin ayudas</small><strong id="res-payback">9,0 años</strong></div>
+</div>
+</form>
+</div>
+</div>
+</section>

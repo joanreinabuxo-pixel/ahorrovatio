@@ -1,0 +1,8 @@
+---
+import Base from '../layouts/Base.astro';
+import html from '../partials/contacto.html?raw';
+import meta from '../partials/contacto.json';
+---
+<Base titulo={meta.titulo} descripcion={meta.descripcion} sinAnuncios={true}>
+<main id="contenido" set:html={html} />
+</Base>

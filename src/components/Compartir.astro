@@ -1,0 +1,21 @@
+---
+interface Props { url: string; titulo: string }
+const { url, titulo } = Astro.props;
+const u = encodeURIComponent(url), t = encodeURIComponent(titulo);
+---
+<div class="share" aria-label="Compartir">
+  <span>Compartir:</span>
+  <a href={`https://wa.me/?text=${t}%20${u}`} target="_blank" rel="noopener">WhatsApp</a>
+  <a href={`https://t.me/share/url?url=${u}&text=${t}`} target="_blank" rel="noopener">Telegram</a>
+  <a href={`https://www.facebook.com/sharer/sharer.php?u=${u}`} target="_blank" rel="noopener">Facebook</a>
+  <a href={`https://x.com/intent/post?url=${u}&text=${t}`} target="_blank" rel="noopener">X</a>
+  <a href={`https://pinterest.com/pin/create/button/?url=${u}&description=${t}`} target="_blank" rel="noopener">Pinterest</a>
+  <button type="button" data-copy={url}>Copiar enlace</button>
+</div>
+<script is:inline>
+document.querySelectorAll('[data-copy]').forEach(function (b) {
+  b.addEventListener('click', function () {
+    if (navigator.clipboard) navigator.clipboard.writeText(b.getAttribute('data-copy')).then(function () { b.textContent = '¡Copiado!'; });
+  });
+});
+</script>

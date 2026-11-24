@@ -1,0 +1,8 @@
+---
+import Base from '../layouts/Base.astro';
+import html from '../partials/politica-independencia.html?raw';
+import meta from '../partials/politica-independencia.json';
+---
+<Base titulo={meta.titulo} descripcion={meta.descripcion} sinAnuncios={false}>
+<main id="contenido" set:html={html} />
+</Base>

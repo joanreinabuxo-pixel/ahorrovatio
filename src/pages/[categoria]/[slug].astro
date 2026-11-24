@@ -1,0 +1,113 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Anuncio from '../../components/Anuncio.astro';
+import Compartir from '../../components/Compartir.astro';
+import { SITE } from '../../config';
+import cats from '../../data/categorias.json';
+import { getPublicados, urlArticulo, minutosLectura, fechaLarga, type Articulo } from '../../lib/articulos';
+
+export async function getStaticPaths() {
+  const arts = await getPublicados();
+  return arts.map((a) => ({ params: { categoria: a.data.categoria, slug: a.id }, props: { art: a, todos: arts } }));
+}
+const { art, todos } = Astro.props as { art: Articulo; todos: Articulo[] };
+const d = art.data;
+const cat = (cats as any)[d.categoria];
+const { Content } = await render(art);
+const url = new URL(urlArticulo(art), SITE.url).href;
+const minutos = minutosLectura(art.body ?? '');
+const actualizado = d.actualizado ?? d.fecha;
+const pilarCat = todos.find((a) => a.data.categoria === d.categoria && a.data.pilar && a.id !== art.id);
+const relacionados = d.relacionados
+  .map((r) => todos.find((a) => `${a.data.categoria}/${a.id}` === r || a.id === r))
+  .filter(Boolean) as Articulo[];
+const masCat = todos.filter((a) => a.data.categoria === d.categoria && a.id !== art.id && !relacionados.includes(a)).slice(0, 3);
+const relFinal = [...relacionados, ...masCat].slice(0, 5);
+const fuentesFechas = actualizado.toISOString().slice(0, 10);
+
+const schema: object[] = [
+  {
+    '@context': 'https://schema.org', '@type': 'Article', headline: d.h1, description: d.descripcion,
+    datePublished: d.fecha.toISOString().slice(0, 10), dateModified: fuentesFechas,
+    author: { '@type': 'Person', name: SITE.autor.nombre, url: new URL(SITE.autor.url, SITE.url).href },
+    publisher: { '@type': 'Organization', name: SITE.nombre, logo: { '@type': 'ImageObject', url: `${SITE.url}/assets/favicon.svg` } },
+    mainEntityOfPage: url, ...(d.imagen ? { image: [new URL(d.imagen, SITE.url).href] } : {}),
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Inicio', item: `${SITE.url}/` },
+      { '@type': 'ListItem', position: 2, name: cat.h1, item: `${SITE.url}/${d.categoria}/` },
+      { '@type': 'ListItem', position: 3, name: d.h1, item: url },
+    ],
+  },
+];
+if (d.faq.length) schema.push({
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: d.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })),
+});
+---
+<Base titulo={d.titulo} descripcion={d.descripcion} tipo="article" imagen={d.imagen} categoriaActual={d.categoria} schema={schema}>
+<div class="progress" aria-hidden="true"></div>
+<main id="contenido">
+  <div class="wrap article-layout">
+    <article>
+      <header class="article-head" data-cat={cat.dataCat}>
+        <nav class="crumbs" aria-label="Migas de pan"><ol><li><a href="/">Inicio</a></li><li><a href={`/${d.categoria}/`}>{cat.h1}</a></li><li aria-current="page">{d.h1}</li></ol></nav>
+        <a class="kicker" href={`/${d.categoria}/`} style="margin-top:18px">{cat.h1}</a>
+        <h1>{d.h1}</h1>
+        <div class="byline"><span>Por <a href={SITE.autor.url}><strong>{SITE.autor.nombre}</strong></a></span><span>Actualizado: <time datetime={fuentesFechas}>{fechaLarga(actualizado)}</time></span><span>{minutos} min de lectura</span></div>
+        <p class="trust">Datos contrastados con fuentes oficiales, enlazadas al final del artículo. Revisado el {fechaLarga(actualizado)}.</p>
+      </header>
+      {d.imagen && <img class="hero-img" src={d.imagen} alt={d.imagenAlt ?? d.h1} width="1200" height="675" loading="eager" fetchpriority="high" />}
+      <div class="prose">
+        {pilarCat && <p class="callout" style="padding:12px 16px">Este artículo forma parte de la guía principal: <a href={urlArticulo(pilarCat)}>{pilarCat.data.h1}</a>.</p>}
+        <Content />
+
+        {relFinal.length > 0 && (<>
+          <h2>Artículos relacionados</h2>
+          <ul class="related">{relFinal.map((a) => <li><a href={urlArticulo(a)}>{a.data.h1}</a></li>)}</ul>
+        </>)}
+
+        <Anuncio slot="articuloFinal" />
+
+        {d.faq.length > 0 && (<>
+          <h2 id="faq">Preguntas frecuentes</h2>
+          <div class="faq">{d.faq.map((f) => <details><summary>{f.q}</summary><Fragment set:html={f.a} /></details>)}</div>
+        </>)}
+
+        {d.fuentes.length > 0 && (
+          <div class="sources">
+            <h2>Fuentes</h2>
+            <ul>{d.fuentes.map((f) => <li>{f.url ? <a href={f.url} target="_blank" rel="noopener">{f.nombre}</a> : f.nombre}</li>)}</ul>
+          </div>
+        )}
+        <Compartir url={url} titulo={d.h1} />
+      </div>
+
+      <div class="author-box" style="margin-top:40px">
+        <div class="avatar" aria-hidden="true">{SITE.autor.nombre.charAt(0)}</div>
+        <div>
+          <h3>{SITE.autor.nombre}</h3>
+          <p>{SITE.autor.bio}</p>
+          <p><a href="/sobre-nosotros/">Sobre AhorroVatio</a> · <a href="/politica-independencia/">Política de independencia</a></p>
+        </div>
+      </div>
+      <Anuncio slot="multiplex" clase="ad--multiplex" formato="autorelaxed" />
+    </article>
+
+    <aside class="sidebar" aria-label="Barra lateral">
+      <div class="sidebar-inner">
+        <div class="side-box">
+          <h2>Herramientas y guías</h2>
+          <ul>
+            <li><a href="/calculadoras/">Calculadora solar</a></li>
+            {todos.filter((a) => a.data.pilar && a.id !== art.id).map((a) => <li><a href={urlArticulo(a)}>{a.data.h1}</a></li>)}
+          </ul>
+        </div>
+        <Anuncio slot="lateral" clase="ad--sidebar" />
+      </div>
+    </aside>
+  </div>
+</main>
+</Base>

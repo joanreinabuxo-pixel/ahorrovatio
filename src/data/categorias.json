@@ -1,0 +1,42 @@
+{
+  "placas-solares": {
+    "titulo": "Placas solares y autoconsumo en España: precios, placas y rentabilidad",
+    "descripcion": "Guías prácticas sobre cuántas placas solares necesitas, precios reales de instalación, microinversores, baterías físicas y trámites en España.",
+    "h1": "Placas solares y autoconsumo",
+    "lede": "Dimensionamiento real, precios llave en mano en España, comparativas de inversores, baterías y trámites de legalización.",
+    "dataCat": "solar",
+    "intro": "<p>Antes de pedir presupuestos para poner placas solares en tu vivienda, conviene tener claro cuántos paneles necesitas realmente según tu consumo eléctrico anual y la radiación de tu provincia. Muchas instalaciones se sobredimensionan sin necesidad o incluyen baterías físicas difíciles de amortizar.</p>\n<p>En esta sección analizamos costes reales en España, diferencias entre microinversores e inversores centrales, autoconsumo en comunidades de vecinos y mantenimiento real. Si quieres una estimación rápida ahora mismo, prueba nuestra <a href=\"/calculadoras/\">calculadora de placas solares</a>.</p>"
+  },
+  "aerotermia": {
+    "titulo": "Aerotermia en España: precios, consumo real y compatibilidad con radiadores",
+    "descripcion": "Todo sobre la aerotermia en viviendas: cuánto cuesta instalarla, consumo eléctrico mensual en invierno, marcas líderes y comparativa frente al gas natural.",
+    "h1": "Aerotermia y climatización eficiente",
+    "lede": "Precios reales por tamaño de vivienda, consumo eléctrico en invierno, suelo radiante frente a radiadores y comparativa con calderas de gas.",
+    "dataCat": "aerotermia",
+    "intro": "<p>La aerotermia es hoy la alternativa principal a las calderas de gas natural y gasóleo en España, pero su rentabilidad depende enormemente del tipo de emisores (suelo radiante, fancoils o radiadores convencionales) y del aislamiento de la vivienda.</p>\n<p>En estas guías desglosamos presupuestos reales, consumo mensual en euros según la zona climática, diferencias entre sistemas monobloc y bibloc, y cómo combinarla con <a href=\"/placas-solares/\">placas solares</a> para reducir aún más la factura de invierno.</p>"
+  },
+  "tarifas-luz": {
+    "titulo": "Tarifas de luz, excedentes solares y batería virtual en España",
+    "descripcion": "Comparativa de tarifas de luz con compensación de excedentes, funcionamiento real de la batería virtual, PVPC vs mercado libre y cómo bajar tu potencia contratada.",
+    "h1": "Tarifas de luz, excedentes y batería virtual",
+    "lede": "Cómo sacar el máximo partido a la energía que viertes a la red, qué comercializadoras ofrecen batería virtual y cómo optimizar tu potencia contratada.",
+    "dataCat": "tarifas",
+    "intro": "<p>Elegir mal la tarifa eléctrica puede hacer que pierdas cientos de euros al año aunque tengas placas solares o un consumo moderado. En España existen grandes diferencias entre comercializadoras en el precio del kWh importado, la valoración de los excedentes y las comisiones de gestión de la batería virtual.</p>\n<p>Aquí analizamos la letra pequeña de las facturas eléctricas, comparamos tarifas fijas frente a indexadas y te explicamos cómo ajustar los dos tramos de potencia (P1 y P2) para pagar solo lo necesario.</p>"
+  },
+  "subvenciones": {
+    "titulo": "Subvenciones placas solares, aerotermia, IBI e IRPF en España",
+    "descripcion": "Cómo aplicar la deducción del IRPF del 20%, 40% y 60%, bonificaciones del IBI e ICIO por ayuntamientos y certificados CAE por eficiencia energética.",
+    "h1": "Subvenciones, IBI e IRPF",
+    "lede": "Deducciones fiscales en la Renta, bonificaciones municipales de IBI e ICIO, Certificados de Ahorro Energético (CAE) y requisitos de certificado energético.",
+    "dataCat": "subvenciones",
+    "intro": "<p>Más allá de las subvenciones directas autonómicas, existen dos vías clave para recuperar entre un 30% y un 60% de la inversión en eficiencia energética en España: las <strong>deducciones estatales en el IRPF</strong> (que exigen certificado energético previo y posterior) y las <strong>bonificaciones municipales en el IBI y el ICIO</strong>.</p>\n<p>En esta categoría reunimos los requisitos exactos, plazos y listados por ciudades para que no pierdas ninguna ventaja fiscal por un error de fecha o documentación.</p>"
+  },
+  "ahorro-hogar": {
+    "titulo": "Ahorro energético en el hogar, domótica, Wallbox y aislamiento",
+    "descripcion": "Guías prácticas sobre termostatos inteligentes, medidores de consumo, cargadores de coche eléctrico Wallbox, aislamiento térmico y ventanas eficientes.",
+    "h1": "Ahorro, domótica y aislamiento",
+    "lede": "Pequeñas inversiones que reducen la factura desde el primer mes: termostatos inteligentes, medidores de consumo, Wallbox y mejora de la envolvente térmica.",
+    "dataCat": "ahorro",
+    "intro": "<p>No todo el ahorro energético pasa por hacer una gran obra. Detectar consumos fantasma, controlar la calefacción por estancias, aislar cámaras de aire sin obra mayor o gestionar la carga del coche eléctrico con excedentes solares permite recortar el gasto eléctrico con inversiones mucho menores.</p>\n<p>Aquí reunimos comparativas prácticas de dispositivos, guías de instalación en garajes comunitarios y análisis reales de aislamiento.</p>"
+  }
+}

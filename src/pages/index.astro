@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import antes from '../partials/home-antes.html?raw';
+import despues from '../partials/home-despues.html?raw';
+import meta from '../partials/index.json';
+import cats from '../data/categorias.json';
+import { SITE } from '../config';
+import { getPublicados, urlArticulo } from '../lib/articulos';
+const arts = (await getPublicados()).slice(0, 9);
+const schema = [
+  { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.nombre, url: `${SITE.url}/`, inLanguage: 'es-ES' },
+  { '@context': 'https://schema.org', '@type': 'Organization', name: SITE.nombre, url: `${SITE.url}/`, logo: `${SITE.url}/assets/favicon.svg`, email: SITE.correo },
+];
+---
+<Base titulo={meta.titulo} descripcion={meta.descripcion} schema={schema}>
+<main id="contenido">
+  <Fragment set:html={antes} />
+  <section class="section section--alt">
+    <div class="wrap">
+      <div class="section-head"><div>
+        <p class="eyebrow">Últimas guías</p>
+        <h2>Artículos para empezar a ahorrar</h2>
+        <p>Guías prácticas con cifras contrastadas, requisitos fiscales y comparativas actualizadas.</p>
+      </div></div>
+      <div class="grid-3">
+        {arts.map((a) => {
+          const c = (cats as any)[a.data.categoria];
+          return <article class="card reveal" data-cat={c.dataCat}>
+            <a class="kicker" href={`/${a.data.categoria}/`}>{c.h1}</a>
+            <h3><a href={urlArticulo(a)}>{a.data.h1}</a></h3>
+            <p>{a.data.descripcion}</p>
+          </article>;
+        })}
+      </div>
+    </div>
+  </section>
+  <Fragment set:html={despues} />
+</main>
+</Base>

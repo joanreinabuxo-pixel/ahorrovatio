@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import Anuncio from '../../components/Anuncio.astro';
+import { SITE, CATEGORIAS } from '../../config';
+import cats from '../../data/categorias.json';
+import { getPublicados, urlArticulo } from '../../lib/articulos';
+
+export async function getStaticPaths() {
+  return CATEGORIAS.map((c) => ({ params: { categoria: c.slug } }));
+}
+const { categoria } = Astro.params;
+const cat = (cats as any)[categoria!];
+const arts = (await getPublicados()).filter((a) => a.data.categoria === categoria)
+  .sort((a, b) => Number(b.data.pilar) - Number(a.data.pilar));
+const schema = [{
+  '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: `${SITE.url}/` },
+    { '@type': 'ListItem', position: 2, name: cat.h1, item: `${SITE.url}/${categoria}/` },
+  ],
+}];
+---
+<Base titulo={cat.titulo} descripcion={cat.descripcion} categoriaActual={categoria} schema={schema}>
+<main id="contenido" data-cat={cat.dataCat}>
+  <section class="page-hero">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Migas de pan"><ol><li><a href="/">Inicio</a></li><li aria-current="page">{cat.h1}</li></ol></nav>
+      <h1>{cat.h1}</h1>
+      <p class="lede">{cat.lede}</p>
+    </div>
+  </section>
+  <div class="wrap cat-layout">
+    <div>
+      <div class="cat-intro" set:html={cat.intro} />
+      <h2 class="list-title">Guías de {cat.h1}</h2>
+      <ul class="article-list">
+        {arts.map((a) => <li><a href={urlArticulo(a)}><strong>{a.data.pilar && <span class="pillar">Guía principal</span>}{a.data.h1}</strong><span>Leer →</span></a></li>)}
+      </ul>
+    </div>
+    <aside class="sidebar" aria-label="Barra lateral">
+      <div class="sidebar-inner">
+        <div class="side-box">
+          <h2>Otras categorías</h2>
+          <ul>
+            {CATEGORIAS.filter((c) => c.slug !== categoria).map((c) => <li><a href={`/${c.slug}/`}>{(cats as any)[c.slug].h1}</a></li>)}
+            <li><a href="/calculadoras/">Calculadora solar</a></li>
+          </ul>
+        </div>
+        <Anuncio slot="lateral" clase="ad--sidebar" />
+      </div>
+    </aside>
+  </div>
+</main>
+</Base>

@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /plantillas/
-
-Sitemap: https://ahorrovatio.com/sitemap.xml

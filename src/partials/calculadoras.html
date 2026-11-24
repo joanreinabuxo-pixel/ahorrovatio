@@ -1,0 +1,66 @@
+<section class="page-hero">
+<div class="wrap">
+<nav aria-label="Migas de pan" class="crumbs"><ol><li><a href="/">Inicio</a></li><li aria-current="page">Calculadora solar</li></ol></nav>
+<h1>Calculadora de placas solares</h1>
+<p class="lede">Estima cuántas placas solares de 450 Wp necesita tu vivienda, el presupuesto orientativo y cuánto tardarás en amortizarlas.</p>
+</div>
+</section>
+<div class="wrap cat-layout">
+<div>
+<div class="calc-box">
+<form id="solar-calc" onsubmit="return false;">
+<div class="calc-grid">
+<div class="calc-field">
+<label for="calc-bill">Factura media de luz (€/mes)</label>
+<input id="calc-bill" max="800" min="25" step="5" type="number" value="110"/>
+</div>
+<div class="calc-field">
+<label for="calc-zone">Zona climática (España)</label>
+<select id="calc-zone">
+<option value="1300">Norte (Galicia, Asturias, Cantabria, País Vasco)</option>
+<option selected="" value="1550">Centro / Noreste (Madrid, Cataluña, Aragón, CyL)</option>
+<option value="1750">Sur / Levante / Islas (Andalucía, Valencia, Murcia, Baleares, Canarias)</option>
+</select>
+</div>
+<div class="calc-field">
+<label for="calc-ratio">Uso diurno en casa</label>
+<select id="calc-ratio">
+<option value="0.45">Bajo (fuera de casa casi todo el día)</option>
+<option selected="" value="0.60">Medio (teletrabajo parcial o electrodomésticos programados)</option>
+<option value="0.75">Alto (aerotermia, piscina o coche eléctrico de día)</option>
+</select>
+</div>
+</div>
+<div aria-live="polite" class="calc-results">
+<div class="calc-stat"><small>Instalación recomendada</small><strong id="res-panels">6 placas</strong></div>
+<div class="calc-stat"><small>Potencia pico</small><strong id="res-power">2,70 kWp</strong></div>
+<div class="calc-stat"><small>Inversión estimada</small><strong id="res-cost">4.465 €</strong></div>
+<div class="calc-stat calc-stat--accent"><small>Ahorro anual estimado</small><strong id="res-savings">495 €/año</strong></div>
+<div class="calc-stat"><small>Amortización sin ayudas</small><strong id="res-payback">9,0 años</strong></div>
+</div>
+</form>
+</div>
+
+
+<div class="prose" style="margin-top:24px">
+<h2>Cómo interpretar estos resultados</h2>
+<p>El cálculo toma como referencia paneles monocristalinos de <strong>450 Wp</strong>, un precio medio de energía consumida de red de <strong>0,16 €/kWh</strong> y una compensación conservadora de excedentes de <strong>0,06 €/kWh</strong>.</p>
+<p>Ten en cuenta que la amortización real puede reducirse entre <strong>2 y 4 años adicionales</strong> si aplicas la <a href="/subvenciones/">deducción del IRPF por eficiencia energética</a> o la bonificación municipal del IBI en tu ayuntamiento, o si combinas tu instalación con una <a href="/tarifas-luz/">tarifa con batería virtual</a>.</p>
+</div>
+</div>
+<aside aria-label="Barra lateral" class="sidebar">
+<div class="sidebar-inner">
+<div class="side-box">
+<h2>Siguientes pasos</h2>
+<ul>
+<li><a href="/placas-solares/">Guías de placas solares</a></li>
+<li><a href="/tarifas-luz/">Comparar baterías virtuales</a></li>
+<li><a href="/subvenciones/">Deducción IRPF y bonificación IBI</a></li>
+<li><a href="/aerotermia/">Combinar con aerotermia</a></li>
+</ul>
+</div>
+
+
+</div>
+</aside>
+</div>
