@@ -19,7 +19,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 11 | L | 70 | Mejores termostatos inteligentes para calefacción y aerotermia | termostatos-inteligentes-aerotermia | ahorro-hogar | termostato inteligente aerotermia | verificado |
 | 12 | L | 21 | Cuánto consume la aerotermia al mes en euros (Madrid, Barcelona, Sevilla) | consumo-aerotermia-mes | aerotermia | cuanto consume la aerotermia al mes | verificado |
 | 13 | L | 22 | Aerotermia vs caldera de gas: comparativa de consumo en invierno | aerotermia-vs-caldera-gas | aerotermia | aerotermia vs caldera de gas | verificado |
-| 14 | L | 23 | Cuánto cuesta instalar aerotermia en una casa de 120 m² | precio-aerotermia-casa-120m2 | aerotermia | precio aerotermia casa 120 m2 | pendiente |
+| 14 | L | 23 | Cuánto cuesta instalar aerotermia en una casa de 120 m² | precio-aerotermia-casa-120m2 | aerotermia | precio aerotermia casa 120 m2 | verificado |
 | 15 | L | 71 | Qué electrodomésticos gastan más luz (tabla con euros al año) | electrodomesticos-que-mas-gastan | ahorro-hogar | electrodomesticos que mas gastan | pendiente |
 | 16 | L | 72 | Consumo fantasma: cuánto gastan los aparatos en standby | consumo-fantasma-standby | ahorro-hogar | consumo fantasma standby | pendiente |
 | 17 | L | 39 | Cómo entender la factura de la luz con autoconsumo | factura-luz-autoconsumo | tarifas-luz | factura luz autoconsumo | pendiente |
