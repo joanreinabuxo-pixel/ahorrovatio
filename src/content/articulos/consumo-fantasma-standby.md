@@ -4,7 +4,7 @@ h1: "Consumo fantasma: cuánto gastan los aparatos en standby y cómo cortarlo"
 descripcion: "Cuánto gasta en euros al año cada aparato en modo espera, con datos de la OCU, cómo medir el consumo fantasma de tu casa y cómo cortarlo sin complicarte."
 categoria: ahorro-hogar
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -19,6 +19,10 @@ faq:
     a: "<p>Muy poca. En los datos de la OCU, un cargador de móvil gasta unos 0,26 kWh al año en espera, ni 5 céntimos. Es mejor desenchufarlo por seguridad y costumbre, pero no es lo que más pesa.</p>"
   - q: "¿Cómo sé cuánto consumo fantasma tengo?"
     a: "<p>Mira el consumo horario de tu casa de madrugada en el área de clientes de tu distribuidora, cuando todo está apagado salvo la nevera. O usa un enchufe medidor aparato por aparato.</p>"
+  - q: "¿Merece la pena desenchufar el microondas?"
+    a: "<p>Según los datos de la OCU que recoge el Ayuntamiento de Madrid, un microondas en espera gasta unos 35 kWh al año, unos 6,47 € sin impuestos. Si no te importa volver a poner la hora, puedes desenchufarlo; si te molesta, es de los consumos fantasma que menos pesan.</p>"
+  - q: "¿Gasta luz la televisión apagada con el mando?"
+    a: "<p>Sí. Con el mando, la tele se queda en espera para poder encenderse rápido. Con los datos de la OCU, un televisor en espera gasta unos 30 kWh al año, unos 5,55 € sin impuestos. Una regleta con interruptor lo corta del todo.</p>"
 fuentes:
   - nombre: "Ayuntamiento de Madrid (Educar Madrid Sostenible) — Ficha de potencias de electrodomésticos y consumo fantasma (datos IDAE y OCU)"
     url: "https://educarmadridsostenible.madrid.es/UnidadesDescentralizadas/Educacion_Ambiental/PortalEducaHoy/04Recursos/Ficheros/Anexo%202.%20Ficha%20Factores%20emisi%C3%B3n%20y%20potencias%20electrodom%C3%A9sticos.pdf"
@@ -29,6 +33,14 @@ fuentes:
 ---
 
 <div class="answer"><p>El <strong>consumo fantasma</strong> es lo que gastan los aparatos enchufados aunque no los uses: en espera, con la lucecita encendida o esperando el mando. Según la guía de ECODES para el Gobierno de Aragón, supone el <strong>11 % de la factura eléctrica</strong>. Con los datos de la OCU, una impresora en espera gasta unos <strong>70 kWh al año (13 €)</strong>, un equipo de música 52 kWh (10 €) y un televisor 30 kWh (6 €). Una regleta con interruptor en el salón y otra en el escritorio pueden ahorrarte unos <strong>44 € al año</strong>.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Qué es el consumo fantasma y cuánto gasta cada aparato en espera, en kWh y en euros.</li>
+<li>Cómo medir el de tu casa sin gastar dinero.</li>
+<li>Un ejemplo con dos regletas y lo que supone en la factura con impuestos.</li>
+<li>Qué no conviene apagar y cuándo compensa comprar una regleta o un enchufe inteligente.</li>
+</ul>
 
 <table class="keydata">
 <caption>Resumen rápido</caption>
@@ -46,10 +58,13 @@ fuentes:
 <li><a href="#tabla">Cuánto gasta cada aparato en espera</a></li>
 <li><a href="#medir">Cómo medir el de tu casa</a></li>
 <li><a href="#ejemplo">Ejemplo: dos regletas</a></li>
+<li><a href="#impuestos">Lo que supone en tu factura, con impuestos</a></li>
 <li><a href="#cortar">Cómo cortarlo sin complicarte</a></li>
 <li><a href="#no">Lo que no conviene apagar</a></li>
 <li><a href="#compensa">Cuándo compensa comprar algo</a></li>
+<li><a href="#placas">Si tienes placas solares o un kit de balcón</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -103,7 +118,20 @@ fuentes:
 </div>
 <p>Apagando las dos regletas por la noche y cuando no usas los aparatos, te ahorras casi todo ese consumo. A esa cifra hay que sumar los impuestos, así que en la factura el ahorro es algo mayor. No es una fortuna, pero es un gesto gratis una vez tienes las regletas.</p>
 
-<h2 id="cortar">5. Cómo cortarlo sin complicarte</h2>
+<h2 id="impuestos">5. Lo que supone en tu factura, con impuestos</h2>
+<p>Todas las cifras anteriores van sin impuestos. En la factura, a cada kWh se le suma el impuesto eléctrico (5,11269632 %) y el IVA (21 %), así que el ahorro real es algo mayor:</p>
+<div class="table-scroll">
+<table class="table">
+<thead><tr><th></th><th>Sin impuestos</th><th>Con impuesto eléctrico e IVA</th></tr></thead>
+<tbody>
+<tr><td>Las dos regletas del ejemplo (240 kWh)</td><td>Unos 44 €</td><td>Unos 56 €</td></tr>
+<tr><td>Todos los aparatos de la tabla (389 kWh)</td><td>Unos 72 €</td><td>Unos 91 €</td></tr>
+</tbody>
+</table>
+</div>
+<p>Y si tu tarifa es más cara que la de este ejemplo, el ahorro sube en la misma proporción. Para ver qué precio pagas tú por cada kWh, busca el término de energía en tu factura: lo explico en <a href="/ahorro-hogar/bajar-factura-luz/">cómo bajar la factura de la luz</a>.</p>
+
+<h2 id="cortar">6. Cómo cortarlo sin complicarte</h2>
 <ol>
 <li><strong>Regletas con interruptor</strong> donde se juntan varios aparatos: el mueble de la tele y el escritorio.</li>
 <li><strong>Desenchufa lo que usas poco</strong>, como la impresora o la cafetera, y enchúfalo solo cuando lo necesites.</li>
@@ -112,18 +140,18 @@ fuentes:
 <li><strong>Revisa los ajustes</strong> de la tele, la consola y el ordenador: muchos tienen un modo de ahorro o de «encendido rápido» que gasta más en espera.</li>
 <li><strong>Al comprar</strong>, mira el consumo en espera en la ficha del aparato.</li>
 </ol>
-<p>Tienes más ideas para el resto de la factura en la guía de <a href="/ahorro-hogar/bajar-factura-luz/">cómo bajar la factura de la luz</a>.</p>
+<p>Si quieres saber qué aparatos gastan más cuando sí están funcionando, mira <a href="/ahorro-hogar/electrodomesticos-que-mas-gastan/">la tabla de electrodomésticos con euros al año</a>.</p>
 
-<h2 id="no">6. Lo que no conviene apagar</h2>
+<h2 id="no">7. Lo que no conviene apagar</h2>
 <ul>
 <li><strong>El frigorífico y el congelador</strong>, evidentemente.</li>
 <li><strong>El router</strong>, si tienes alarma, teléfono fijo por internet o aparatos que lo necesitan de noche. Si no, puedes programar que se apague.</li>
 <li><strong>Los decodificadores</strong> que se actualizan de noche: si los desenchufas, puede que tarden en arrancar o pierdan la programación.</li>
-<li><strong>Calderas, termostatos y alarmas.</strong> Necesitan estar siempre conectados.</li>
+<li><strong>Calderas, termostatos y alarmas.</strong> Necesitan estar siempre conectados. Si tu termostato es inteligente, su consumo es pequeño comparado con lo que puede ahorrar en calefacción: lo explico en <a href="/ahorro-hogar/termostatos-inteligentes-aerotermia/">termostatos para calefacción y aerotermia</a>.</li>
 <li><strong>El microondas o el horno con reloj</strong>, si te molesta volver a poner la hora. Gastan poco; decide tú si merece la pena.</li>
 </ul>
 
-<h2 id="compensa">7. Cuándo compensa comprar algo</h2>
+<h2 id="compensa">8. Cuándo compensa comprar algo</h2>
 <p>Desenchufar a mano es gratis. Comprar regletas, temporizadores o enchufes inteligentes cuesta dinero, así que conviene hacer la cuenta antes:</p>
 <ol>
 <li>Suma el consumo en espera de los aparatos que vas a conectar a la regleta, con la tabla o con un enchufe medidor.</li>
@@ -133,7 +161,15 @@ fuentes:
 <p>En mi ejemplo, la regleta del salón ahorra unos 21 € al año. Si una regleta con interruptor te cuesta, por ejemplo, 10 €, se pagaría en medio año. Un enchufe inteligente más caro tardaría más, y además gasta algo él mismo para estar conectado. Para un solo cargador de móvil, en cambio, ningún aparato compensa: ahorrarías 5 céntimos al año.</p>
 <p>Regla práctica: compensa poner regleta donde se juntan tres o más aparatos con lucecita, y no compensa para aparatos sueltos que ya puedes desenchufar a mano.</p>
 
-<h2 id="errores">8. Errores frecuentes</h2>
+<h2 id="placas">9. Si tienes placas solares o un kit de balcón</h2>
+<p>El consumo fantasma funciona las 24 horas, y eso cambia la cuenta si produces tu propia electricidad:</p>
+<ul>
+<li><strong>De día</strong>, tus placas lo cubren casi gratis. Una parte de lo que produce un <a href="/placas-solares/kit-solar-balcon/">kit solar de balcón</a> se va justo en eso: nevera, router y aparatos en espera.</li>
+<li><strong>De noche</strong>, lo compras a la red al precio completo. Es el consumo de base que ninguna placa cubre sin batería (comparo las opciones en <a href="/placas-solares/bateria-fisica-o-virtual/">batería física o virtual</a>).</li>
+</ul>
+<p>Por eso, si tienes placas, cortar el consumo fantasma de noche sigue mereciendo la pena: es energía que siempre pagas a precio de compra, como verás en <a href="/tarifas-luz/factura-luz-autoconsumo/">tu factura con autoconsumo</a>. Si estás pensando en instalar, el consumo de madrugada de tu distribuidora también te ayuda a dimensionar: lo explico en <a href="/placas-solares/cuantas-placas-casa-100m2/">cuántas placas necesita una casa de 100 m²</a>.</p>
+
+<h2 id="errores">10. Errores frecuentes</h2>
 <ul>
 <li><strong>Obsesionarse con los cargadores.</strong> Gastan muy poco; la impresora o el equipo de música pesan mucho más.</li>
 <li><strong>Pensar que el mando apaga el aparato.</strong> Con el mando casi siempre se queda en espera.</li>
@@ -146,3 +182,6 @@ fuentes:
 <strong>Mi consejo</strong>
 <p>Esta noche, antes de dormir, apaga todo lo que puedas. Mañana, mira en el área de clientes de tu distribuidora el consumo de madrugada y compáralo con otro día normal. Así sabrás en un día cuánto te cuesta el consumo fantasma.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>El consumo fantasma es pequeño aparato por aparato, pero suma: según la guía de ECODES para el Gobierno de Aragón, el 11 % de la factura eléctrica. Las que más gastan en espera son la impresora, el equipo de sonido, la cafetera y el ordenador de sobremesa; el cargador del móvil, casi nada. Dos regletas con interruptor, una en el mueble de la tele y otra en el escritorio, ahorran unos 44 € al año sin impuestos y unos 56 € con ellos en el ejemplo. Mide primero tu consumo de madrugada en el área de tu distribuidora, apaga lo que no necesitas y deja conectados la nevera, la caldera, el termostato y la alarma.</p>
