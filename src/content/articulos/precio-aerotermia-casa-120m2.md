@@ -4,7 +4,7 @@ h1: "Cuánto cuesta instalar aerotermia en una casa de 120 m²"
 descripcion: "Qué potencia necesita una casa de 120 m², cuánto cuesta instalar la aerotermia según la OCU, qué sube el presupuesto, cuánto gastará al año y qué ayudas lo rebajan."
 categoria: aerotermia
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -21,6 +21,10 @@ faq:
     a: "<p>En mi ejemplo, con la demanda por metro cuadrado de la comparativa de la OCU (zona climática D), unos 347 € al año de calefacción con suelo radiante y unos 470 € con radiadores a 55 °C, sin impuestos. Es una estimación: tu casa puede necesitar más o menos calor.</p>"
   - q: "¿Hay ayudas para instalar aerotermia?"
     a: "<p>Sí. La principal es la deducción del IRPF por obras de eficiencia energética: con el tramo del 40 % puedes deducir hasta 3.000 € si pagas antes del 31 de diciembre de 2026 y la obra reduce al menos un 30 % el consumo de energía primaria no renovable. Además, puede haber bonificaciones municipales y la venta de los ahorros energéticos (CAE).</p>"
+  - q: "¿Cuánto cuesta la aerotermia en 15 años frente al gasóleo?"
+    a: "<p>En mi ejemplo para 120 m² (gasto de la OCU escalado, precios constantes), unos 12.400 € con aerotermia y la deducción del IRPF, frente a unos 14.925 € siguiendo con la caldera de gasóleo y 17.075 € con una caldera de gasóleo nueva. Frente al gas natural, en cambio, la aerotermia sale más cara a 15 años.</p>"
+  - q: "¿Qué tiene que incluir un presupuesto de aerotermia?"
+    a: "<p>Como mínimo: el equipo con su modelo y potencia, el depósito de agua caliente si lo hay, la adaptación de radiadores o suelo radiante, la retirada de la caldera vieja, la parte eléctrica y la legalización. Pide también el cálculo de potencia por escrito y la ficha técnica con el SCOP a la temperatura de agua que usará tu casa.</p>"
 fuentes:
   - nombre: "OCU — Cómo elegir un sistema de aerotermia"
     url: "https://www.ocu.org/vivienda-y-energia/aerotermia/como-elegir"
@@ -40,6 +44,15 @@ fuentes:
 
 <div class="answer"><p>Instalar aerotermia en una casa de <strong>120 m²</strong> cuesta, como referencia, entre unos <strong>8.000 €</strong> (lo que la OCU dice que suele costar una instalación) y unos <strong>10.700 €</strong> (su cálculo de 2026 para un equipo de 16 kW), más lo que haya que adaptar en tu casa. Para 120 m², la OCU orienta equipos de <strong>6,5 a 10 kW</strong>. Con la deducción del IRPF del 40 % puedes rebajar hasta <strong>3.000 €</strong> si pagas antes del 31 de diciembre de 2026.</p></div>
 
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Qué potencia de aerotermia necesita una casa de 120 m².</li>
+<li>Cuánto cuesta según las referencias con fecha de la OCU.</li>
+<li>Qué partidas suben el presupuesto y cómo compararlas.</li>
+<li>Cuánto gastará al año con suelo radiante y con radiadores.</li>
+<li>El coste total en 15 años frente al gas y el gasóleo, con la deducción del IRPF.</li>
+</ul>
+
 <table class="keydata">
 <caption>Resumen rápido</caption>
 <tr><th scope="row">Potencia orientativa</th><td>6,5–10 kW para viviendas de hasta 200 m² (OCU)</td></tr>
@@ -57,8 +70,11 @@ fuentes:
 <li><a href="#sube">Qué sube el presupuesto</a></li>
 <li><a href="#gasto">Cuánto gastará al año</a></li>
 <li><a href="#ayudas">Ayudas y precio final</a></li>
+<li><a href="#total">El coste total en 15 años</a></li>
+<li><a href="#placas">Si además pones placas solares</a></li>
 <li><a href="#compensa">Cuándo compensa</a></li>
 <li><a href="#errores">Errores frecuentes al pedir presupuesto</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -129,7 +145,33 @@ fuentes:
 </ol>
 <p>Además, según tu municipio puede haber bonificaciones del IBI o del ICIO, y es posible vender el ahorro energético a través de los certificados de ahorro energético (CAE). Lo tienes todo en la guía de <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>.</p>
 
-<h2 id="compensa">6. Cuándo compensa</h2>
+<h2 id="total">6. El coste total en 15 años</h2>
+<p>El precio de la instalación engaña si no se suma lo que gastas cada año. Esta tabla junta las dos cosas durante 15 años. Es un ejemplo ilustrativo: escalo el gasto anual de la comparativa de la OCU (90 m², zona D) a 120 m² multiplicándolo por 120/90, mantengo los precios de energía constantes y no cuento el mantenimiento.</p>
+<div class="table-scroll">
+<table class="table">
+<thead><tr><th>Opción</th><th>Inversión</th><th>Gasto al año (120 m²)</th><th>Total en 15 años</th></tr></thead>
+<tbody>
+<tr><td>Aerotermia, con deducción del IRPF</td><td>7.000 €</td><td>360 €</td><td>12.400 €</td></tr>
+<tr><td>Seguir con la caldera de gasóleo que tienes</td><td>0 €</td><td>995 €</td><td>14.925 €</td></tr>
+<tr><td>Caldera de gasóleo nueva</td><td>2.150 €</td><td>995 €</td><td>17.075 €</td></tr>
+<tr><td>Seguir con la caldera de gas natural</td><td>0 €</td><td>341 €</td><td>5.115 €</td></tr>
+<tr><td>Caldera de gas natural nueva</td><td>2.195 €</td><td>341 €</td><td>7.310 €</td></tr>
+</tbody>
+</table>
+</div>
+<p>La tabla deja tres conclusiones claras:</p>
+<ul>
+<li><strong>Frente al gasóleo</strong>, la aerotermia sale más barata a 15 años incluso si tu caldera aún funciona, y bastante más si había que cambiarla.</li>
+<li><strong>Frente al gas natural</strong>, la aerotermia no se paga con el ahorro en la factura: el gasto anual es casi el mismo y la inversión es mucho mayor.</li>
+<li><strong>La deducción del IRPF</strong> pesa mucho: sin ella, la aerotermia costaría 3.000 € más en la primera fila. Lo explico en la guía de la <a href="/subvenciones/deduccion-irpf-placas-solares/">deducción del IRPF por eficiencia energética</a>, y el requisito de los dos certificados, en <a href="/subvenciones/certificado-energetico-irpf/">el certificado energético para el IRPF</a>.</li>
+</ul>
+
+<h2 id="placas">7. Si además pones placas solares</h2>
+<p>Con radiadores, en el ejemplo del punto 4 la aerotermia gasta unos 2.543 kWh al año. Si pones placas, una parte de ese consumo, sobre todo el agua caliente programada a mediodía, sale de tu tejado. Cada kWh que usas así no lo compras a 0,1849 € y solo dejas de venderlo a unos 0,06 €, así que ahorras unos 0,12 € por kWh.</p>
+<p>Si las placas cubrieran un tercio de esos 2.543 kWh, unos 850 kWh, el ahorro sería de unos <strong>105 € al año</strong>. Es un supuesto: en invierno las placas producen menos justo cuando la calefacción trabaja más. Para ajustar la instalación, mira <a href="/placas-solares/cuantas-placas-con-aerotermia/">cuántas placas necesitas con aerotermia</a>.</p>
+<p><strong>Te puede interesar:</strong> <a href="/subvenciones/certificados-ahorro-energetico-cae/">los certificados de ahorro energético (CAE)</a>, que te pueden pagar una parte de la instalación por el ahorro que consigues.</p>
+
+<h2 id="compensa">8. Cuándo compensa</h2>
 <p>El precio solo tiene sentido comparado con lo que pagas ahora. En la comparativa de la OCU para 90 m², la aerotermia gasta 270 € al año frente a 746 € del gasóleo, 747 € de los radiadores eléctricos y 256 € del gas natural de condensación. Para 120 m² las cifras serán mayores, pero la relación es parecida:</p>
 <ul>
 <li><strong>Si vienes del gasóleo o de radiadores eléctricos</strong>, la aerotermia ahorra mucho cada año y suele compensar, sobre todo si la caldera vieja hay que cambiarla igualmente.</li>
@@ -138,16 +180,20 @@ fuentes:
 </ul>
 <p>Para el resto de opciones y la explicación de cómo funciona, tienes la guía principal de <a href="/aerotermia/que-es-aerotermia-precio/">aerotermia: qué es, cuánto cuesta y cuánto se ahorra</a>.</p>
 
-<h2 id="errores">7. Errores frecuentes al pedir presupuesto</h2>
+<h2 id="errores">9. Errores frecuentes al pedir presupuesto</h2>
 <ul>
 <li><strong>Elegir la potencia solo por los metros.</strong> Los 120 m² orientan, pero mandan el clima y el aislamiento. Pide el cálculo de cargas.</li>
 <li><strong>Comparar presupuestos que no incluyen lo mismo.</strong> Uno puede llevar depósito de agua caliente, radiadores y retirada de la caldera, y otro no.</li>
 <li><strong>Olvidar los certificados energéticos.</strong> Sin el certificado de antes de la obra no podrás demostrar la mejora para la deducción del IRPF.</li>
 <li><strong>No preguntar por la potencia eléctrica.</strong> Si hay que subirla, pagarás más cada mes en el término fijo.</li>
 <li><strong>Fiarse del rendimiento máximo del catálogo.</strong> Pide el SCOP a la temperatura de agua que va a usar tu casa.</li>
+<li><strong>Dejar la regulación de fábrica.</strong> Una curva climática bien ajustada y un <a href="/ahorro-hogar/termostatos-inteligentes-aerotermia/">termostato compatible</a> hacen que el equipo trabaje con el agua lo menos caliente posible.</li>
 </ul>
 
 <div class="callout">
 <strong>Mi consejo</strong>
 <p>Pide al menos tres presupuestos con las partidas separadas y el cálculo de potencia por escrito. Y haz el certificado energético antes de empezar la obra: sin él, pierdes la deducción.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>Para una casa de 120 m², lo normal es un equipo de unos 8 kW y presupuestos de unos 8.000 a 11.000 € si la casa ya tiene calefacción por agua. Con la deducción del IRPF del 40 % puedes rebajar hasta 3.000 €, siempre que hagas los certificados energéticos antes y después. Si vienes del gasóleo o de radiadores eléctricos, la aerotermia suele salir más barata a 15 años. Si tienes gas natural con una caldera en buen estado, no se paga con la factura. Pide tres presupuestos con las partidas separadas y haz la cuenta de 15 años con tus propios números.</p>
