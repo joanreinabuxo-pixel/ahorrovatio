@@ -4,7 +4,7 @@ h1: "Precio de las placas solares en España en 2026: cuánto cuesta y cuándo s
 descripcion: "Cuánto cuesta instalar placas solares en 2026 (unos 6.000 € una instalación tipo de 5 kWp), qué incluye el presupuesto, cómo compararlo en €/Wp y en cuántos años se paga."
 categoria: placas-solares
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: true
 relacionados:
@@ -21,6 +21,8 @@ faq:
     a: "<p>Depende de tu consumo, de cuánto aproveches de día y de las ayudas. El InformeSolar 2025 habla de menos de 6 años para una instalación tipo. Con la deducción del IRPF y la bonificación del IBI el plazo puede bajar bastante. Haz la cuenta con tu propio ahorro anual.</p>"
   - q: "¿Merece la pena un kit solar de balcón?"
     a: "<p>Para un piso sin tejado puede ser una opción. La OCU analizó kits de 400 Wp con precios de 450 a 800 euros, que cubren hasta un 16 % del consumo y se amortizan en 4 a 8 años según la zona y la colocación.</p>"
+  - q: "¿Cuánto produce una instalación de 5 kWp?"
+    a: "<p>Con los datos de PVGIS 5.3 que recopila ECOticias, 1 kWp bien orientado produce al año unos 1.170 kWh en Bilbao, 1.621 kWh en Madrid y 1.672 kWh en Sevilla. Una instalación de 5 kWp produciría, por tanto, entre unos 5.850 kWh en Bilbao y unos 8.360 kWh en Sevilla.</p>"
   - q: "¿Es mejor pagar al contado o financiar?"
     a: "<p>Si financias, suma los intereses al precio antes de calcular la amortización. Recuerda también que la deducción del IRPF se aplica sobre lo que hayas pagado en cada año, así que pregunta cómo encaja con tu financiación.</p>"
 fuentes:
@@ -39,6 +41,14 @@ fuentes:
 ---
 
 <div class="answer"><p>Una instalación de placas solares tipo de <strong>5 kWp cuesta de media unos 6.000 €</strong> sin batería, según el InformeSolar 2025 de SotySolar y UNEF; con batería, la media sube a <strong>unos 11.500 €</strong>. Eso son unos <strong>1,20 € por vatio pico (Wp)</strong>. Para comparar presupuestos, divide el precio entre los Wp y comprueba que incluyen lo mismo. En el ejemplo de esta guía, una instalación tipo en Madrid se paga en <strong>unos 7 años sin ayudas y en menos de 5 con la deducción del IRPF</strong>.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Los precios medios de 2026 con y sin batería, y con aerotermia.</li>
+<li>Cómo comparar presupuestos con el precio por vatio pico y qué deben incluir.</li>
+<li>Un ejemplo de amortización en Bilbao, Madrid y Sevilla, con y sin ayudas.</li>
+<li>Cuándo compensa instalar placas y los errores que encarecen la instalación.</li>
+</ul>
 
 <table class="keydata">
 <caption>Resumen rápido</caption>
@@ -60,10 +70,13 @@ fuentes:
 <li><a href="#bateria">¿Con batería o sin batería?</a></li>
 <li><a href="#ahorro">Cuánto se ahorra al año</a></li>
 <li><a href="#amortizacion">Ejemplo de amortización con y sin ayudas</a></li>
+<li><a href="#ciudades">El mismo ejemplo en Bilbao, Madrid y Sevilla</a></li>
 <li><a href="#financiar">Pagar al contado o financiar</a></li>
 <li><a href="#piso">Si vives en un piso</a></li>
 <li><a href="#cuando">Cuándo compensa y cuándo no</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#despues">Después de instalar: trámites y tarifa</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -116,7 +129,9 @@ fuentes:
 <li><strong>Batería:</strong> casi duplica el importe medio, según el InformeSolar.</li>
 <li><strong>Distancia</strong> entre el tejado y el cuadro eléctrico.</li>
 <li><strong>Comunidad de vecinos:</strong> en un edificio hay más trámites y, a veces, obras comunes.</li>
+<li><strong>Aerotermia a la vez:</strong> el InformeSolar 2025 da un importe medio de unos 16.000 € para una instalación de 8,3 kW con aerotermia. Si piensas cambiar la caldera, mira antes <a href="/placas-solares/cuantas-placas-con-aerotermia/">cuántas placas necesitas si tienes aerotermia</a>, porque la potencia cambia mucho.</li>
 </ul>
+<p><strong>Te puede interesar:</strong> <a href="/aerotermia/que-es-aerotermia-precio/">qué es la aerotermia, cuánto cuesta y cuánto se ahorra frente al gas</a>.</p>
 
 <h2 id="bateria">5. ¿Con batería o sin batería?</h2>
 <p>Una batería guarda la energía que sobra de día para usarla por la noche. Según el InformeSolar 2025, una instalación con baterías tiene un importe medio de unos 11.500 € frente a los 6.000 € de una solo fotovoltaica.</p>
@@ -126,6 +141,7 @@ fuentes:
 <li>La <a href="/tarifas-luz/bateria-virtual-placas-solares/">batería virtual</a> no requiere inversión y guarda en euros el excedente que no cabe en la factura.</li>
 <li>La batería física tiene sentido si consumes mucho de noche, si quieres respaldo ante cortes o si tu municipio la premia: en Madrid, por ejemplo, la bonificación del IBI pasa de 5 a 7 años si la instalación incluye baterías.</li>
 </ul>
+<p>Comparo las dos opciones con números en <a href="/placas-solares/bateria-fisica-o-virtual/">batería física o batería virtual: cuál merece la pena en 2026</a>.</p>
 
 <h2 id="ahorro">6. Cuánto se ahorra al año</h2>
 <p>El ahorro tiene dos partes:</p>
@@ -156,9 +172,28 @@ fuentes:
 </table>
 </div>
 <p>Como el ahorro real lleva también impuestos (el impuesto eléctrico y el IVA se aplican sobre la energía), en la práctica el ahorro en euros de la factura suele ser algo mayor que el de esta cuenta. El InformeSolar 2025 habla de menos de 6 años para una instalación tipo.</p>
-<p>Las ayudas tienen requisitos y plazos: la deducción del 40 % exige reducir un 30 % el consumo de energía primaria no renovable y pagar antes del 31 de diciembre de 2026. Las tienes todas en la guía de <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>.</p>
+<p>Las ayudas tienen requisitos y plazos: la deducción del 40 % exige reducir un 30 % el consumo de energía primaria no renovable y pagar antes del 31 de diciembre de 2026. Las tienes todas en la guía de <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>, y el detalle de la deducción en <a href="/subvenciones/deduccion-irpf-placas-solares/">la deducción del IRPF por placas solares</a>. Si vives en la Comunidad de Madrid, mira también <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">la bonificación del IBI en Madrid y alrededores</a>.</p>
+<p>Si quieres repetir la cuenta con tus propios números, paso a paso, tienes la guía para <a href="/placas-solares/amortizacion-placas-solares/">calcular la amortización de una instalación fotovoltaica</a>.</p>
 
-<h2 id="financiar">8. Pagar al contado o financiar</h2>
+<h2 id="ciudades">8. El mismo ejemplo en Bilbao, Madrid y Sevilla</h2>
+<p>La producción cambia mucho según dónde vivas, y con ella los años de amortización. He repetido la cuenta anterior con la misma casa (5.000 kWh al año), la misma instalación de 5 kWp por 6.000 €, el mismo 40 % de autoconsumo y los mismos precios de Endesa Solar Plus. Solo cambia la producción de PVGIS 5.3 de cada ciudad, y al excedente le he aplicado la misma pérdida por el tope mensual que en Madrid (algo más de un 20 %).</p>
+<div class="table-scroll">
+<table class="table">
+<thead><tr><th>Ciudad</th><th>Producción al año</th><th>Ahorro por autoconsumo</th><th>Excedente compensado</th><th>Ahorro total</th><th>Años sin ayudas</th><th>Años con IRPF del 40 %</th></tr></thead>
+<tbody>
+<tr><td>Bilbao (1.170 kWh/kWp)</td><td>Unos 5.850 kWh</td><td>Unos 435 €</td><td>Unos 165 €</td><td>Unos 600 €</td><td>Unos 10</td><td>Unos 6</td></tr>
+<tr><td>Madrid (1.621 kWh/kWp)</td><td>Unos 8.100 kWh</td><td>Unos 600 €</td><td>Unos 230 €</td><td>Unos 830 €</td><td>Unos 7,2</td><td>Unos 4,3</td></tr>
+<tr><td>Sevilla (1.672 kWh/kWp)</td><td>Unos 8.360 kWh</td><td>Unos 620 €</td><td>Unos 240 €</td><td>Unos 860 €</td><td>Unos 7</td><td>Unos 4,2</td></tr>
+</tbody>
+</table>
+</div>
+<p>La conclusión es clara: en el norte la instalación también se paga, pero tarda unos años más. Allí conviene ajustar más el tamaño al consumo y fijarse bien en el precio por Wp, porque cada euro de más pesa más en la amortización. En el sur y el centro, la diferencia entre Madrid y Sevilla es pequeña: importa más cuánto consumes de día que unos pocos kWh más de sol.</p>
+<div class="callout">
+<strong>Mi consejo</strong>
+<p>Antes de pedir presupuestos, busca tu ciudad en PVGIS y multiplica por los kWp que te propongan. Si el instalador te promete mucha más producción que esa cifra, pídele que te explique de dónde sale.</p>
+</div>
+
+<h2 id="financiar">9. Pagar al contado o financiar</h2>
 <p>Según el mismo informe, entre el 60 % y el 70 % de los hogares eligen financiar, y una financiación solo fotovoltaica a ocho años puede salir por unos 86 € al mes, según la empresa de financiación Pontio.</p>
 <p>Si financias:</p>
 <ul>
@@ -167,14 +202,15 @@ fuentes:
 <li>Pregunta cómo encaja con la deducción del IRPF, que se aplica sobre las cantidades pagadas en cada año.</li>
 </ul>
 
-<h2 id="piso">9. Si vives en un piso</h2>
+<h2 id="piso">10. Si vives en un piso</h2>
 <p>Si no tienes tejado propio, hay dos caminos:</p>
 <ul>
 <li><strong>Kit solar de balcón.</strong> La OCU analizó en 2025 kits de 400 Wp con precios de 450 a 800 €, más 100–300 € si hace falta un dispositivo antivertido. Cubren hasta un 16 % del consumo y se amortizan en 4 a 8 años, según la zona, el modelo y la inclinación. La OCU indica un máximo de 800 Wp en total.</li>
 <li><strong>Autoconsumo en la comunidad de vecinos.</strong> Según un estudio de la OCU, unos 10 m² de tejado por vecino podrían cubrir el 30 % de la demanda de una comunidad, con una amortización de menos de siete años.</li>
 </ul>
+<p>Explico cada opción con detalle en <a href="/placas-solares/kit-solar-balcon/">kits solares para balcón: normativa y rentabilidad</a> y en <a href="/placas-solares/placas-solares-comunidad-vecinos/">placas solares en un piso o comunidad de vecinos</a>.</p>
 
-<h2 id="cuando">10. Cuándo compensa y cuándo no</h2>
+<h2 id="cuando">11. Cuándo compensa y cuándo no</h2>
 <p><strong>Suele compensar si:</strong></p>
 <ul>
 <li>Tienes un tejado propio, orientado al sur, al este o al oeste, sin sombras.</li>
@@ -189,7 +225,7 @@ fuentes:
 <li>Piensas vender o mudarte en pocos años.</li>
 </ul>
 
-<h2 id="errores">11. Errores frecuentes</h2>
+<h2 id="errores">12. Errores frecuentes</h2>
 <ul>
 <li><strong>Comparar presupuestos por el precio total</strong> en lugar del precio por Wp.</li>
 <li><strong>Aceptar un presupuesto sin estudio energético</strong> basado en tu consumo real.</li>
@@ -199,3 +235,16 @@ fuentes:
 <li><strong>Pagar en efectivo:</strong> Hacienda no lo acepta para la deducción.</li>
 <li><strong>Elegir mal la tarifa después.</strong> Una tarifa sin compensación de excedentes, o con el kWh caro, se come parte del ahorro.</li>
 </ul>
+
+<h2 id="despues">13. Después de instalar: trámites y tarifa</h2>
+<p>El precio de la instalación es solo la mitad de la cuenta. La otra mitad depende de dos cosas que se deciden después.</p>
+<p><strong>Los trámites.</strong> La instalación tiene que quedar legalizada para que la distribuidora la registre y puedas compensar excedentes. Normalmente lo gestiona el instalador, pero conviene saber qué papeles hay y qué plazos tienen: lo explico en <a href="/placas-solares/legalizar-placas-solares/">cómo legalizar placas solares paso a paso</a>.</p>
+<p><strong>La tarifa.</strong> Con placas, no te conviene la misma tarifa que antes. Lo que importa es el precio del kWh que compras, el precio al que te pagan el excedente y si el saldo que sobra se pierde o se guarda. Tienes las claves en:</p>
+<ul>
+<li><a href="/tarifas-luz/pvpc-vs-mercado-libre-placas/">PVPC o mercado libre si tienes placas</a>;</li>
+<li><a href="/tarifas-luz/excedentes-placas-solares-precio/">por qué te pagan tan poco por los excedentes y cómo evitarlo</a>;</li>
+<li><a href="/tarifas-luz/factura-luz-autoconsumo/">cómo leer la factura de la luz con autoconsumo</a>.</li>
+</ul>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>En 2026, una instalación tipo de 5 kWp cuesta de media unos 6.000 €, unos 1,20 € por vatio pico. Ese es el número con el que comparar: si un presupuesto se aleja mucho, pregunta por qué. Con un consumo medio y un 40 % de autoconsumo, en Madrid o Sevilla se recupera en unos 7 años sin ayudas y en algo más de 4 con la deducción del IRPF; en Bilbao tarda unos años más. Antes de firmar, pide tres presupuestos con estudio energético, comprueba que incluyen la legalización y saca el certificado energético previo si quieres la deducción.</p>
