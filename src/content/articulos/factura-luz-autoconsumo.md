@@ -4,7 +4,7 @@ h1: "Cómo entender la factura de la luz con autoconsumo, línea a línea"
 descripcion: "Qué significa cada línea de la factura de la luz cuando tienes placas solares: energía comprada, excedentes compensados, potencia, impuestos y por qué nunca llega a cero, con un ejemplo con números."
 categoria: tarifas-luz
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -20,6 +20,10 @@ faq:
     a: "<p>Con la compensación simplificada, si el valor del excedente supera el de la energía comprada en el mes, la diferencia se pierde. Algunas comercializadoras ofrecen una batería virtual que guarda ese sobrante en euros para otras facturas.</p>"
   - q: "¿Los impuestos se calculan antes o después de compensar?"
     a: "<p>Después. El excedente se resta del término de energía y sobre lo que queda (energía y potencia) se calculan el impuesto eléctrico y después el IVA. Por eso compensar también te ahorra impuestos.</p>"
+  - q: "¿Cuándo empiezo a ver los excedentes en la factura?"
+    a: "<p>Cuando la instalación está legalizada y la distribuidora ha activado el autoconsumo en tu contrato. Hasta entonces, la energía vertida puede no aparecer o no compensarse. Si tras varias facturas los kWh vertidos salen a cero con las placas funcionando, pregunta en qué punto está el trámite.</p>"
+  - q: "¿Cómo se ve la compensación si tengo el PVPC?"
+    a: "<p>Igual que en el mercado libre, como una línea en negativo que se resta de la energía. La diferencia es el precio: en el PVPC el excedente se valora al precio del mercado de cada hora menos el coste de los desvíos, así que cambia cada mes.</p>"
 fuentes:
   - nombre: "BOE — Real Decreto 244/2019, que regula el autoconsumo de energía eléctrica (texto consolidado)"
     url: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089"
@@ -32,6 +36,14 @@ fuentes:
 ---
 
 <div class="answer"><p>Con placas solares, la factura de la luz tiene las mismas líneas de siempre (potencia, energía, impuestos y contador) más una nueva: la <strong>compensación de excedentes</strong>, que resta del término de energía lo que has vertido a la red. Ese descuento <strong>nunca pasa de dejar la energía a cero</strong>, así que siempre pagas la potencia, el contador y los impuestos. En mi ejemplo con precios de Endesa Solar Plus, un julio con placas sale por unos <strong>17 €</strong> más el contador, y un enero por unos <strong>90 €</strong>.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Qué cambia en la factura cuando pones placas y las tres reglas que lo explican.</li>
+<li>Cada línea de la factura, una por una.</li>
+<li>Dos facturas reales calculadas paso a paso: julio y enero.</li>
+<li>Cómo comprobar que te lo calculan bien y qué hacer si no.</li>
+</ul>
 
 <table class="keydata">
 <caption>Resumen rápido</caption>
@@ -49,9 +61,13 @@ fuentes:
 <li><a href="#lineas">Las líneas, una por una</a></li>
 <li><a href="#ejemplo">Ejemplo: una factura de julio y una de enero</a></li>
 <li><a href="#autoconsumo">El ahorro que no ves en la factura</a></li>
+<li><a href="#primera">La primera factura después de instalar</a></li>
+<li><a href="#pvpc">Si tienes el PVPC</a></li>
 <li><a href="#revisar">Cómo revisar que te lo calculan bien</a></li>
 <li><a href="#compensa">Cuándo compensa cambiar de tarifa</a></li>
+<li><a href="#anual">La cuenta del año: cuánto te ahorran de verdad</a></li>
 <li><a href="#errores">Errores frecuentes al leerla</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -111,10 +127,23 @@ fuentes:
 
 <h2 id="autoconsumo">4. El ahorro que no ves en la factura</h2>
 <p>La factura solo muestra lo que compras y lo que viertes. La energía que tus placas producen y tu casa consume en ese mismo momento <strong>no aparece en ninguna línea</strong>, porque no la compras.</p>
-<p>Y es el ahorro más grande: en el ejemplo, cada kWh que consumes directamente te ahorra 0,1849 € más impuestos, mientras que cada kWh vertido solo vale 0,06 €. Por eso conviene poner la lavadora, el lavavajillas o el termo en las horas de sol.</p>
+<p>Y es el ahorro más grande: en el ejemplo, cada kWh que consumes directamente te ahorra 0,1849 € más impuestos, mientras que cada kWh vertido solo vale 0,06 €. Por eso conviene poner la lavadora, el lavavajillas o el termo en las horas de sol. Tienes cuánto gasta cada uno en <a href="/ahorro-hogar/electrodomesticos-que-mas-gastan/">qué electrodomésticos gastan más luz</a>.</p>
 <p>Para saber cuánto autoconsumes de verdad, mira la aplicación del inversor de tus placas: te dice cuánto han producido. Producción menos energía vertida es lo que has consumido directamente.</p>
 
-<h2 id="revisar">5. Cómo revisar que te lo calculan bien</h2>
+<h2 id="primera">5. La primera factura después de instalar</h2>
+<p>Las primeras facturas con placas son las que más dudas dan, y con razón. La compensación no empieza el día en que el instalador termina: primero hay que legalizar la instalación (memoria técnica, permiso municipal, código CAU, certificado de instalación eléctrica) y luego la distribuidora tiene que activar el autoconsumo en tu contrato. Te explico cada paso en <a href="/placas-solares/legalizar-placas-solares/">cómo legalizar placas solares</a>.</p>
+<p>Mientras tanto puede pasar que:</p>
+<ul>
+<li>La factura baje porque compras menos energía, pero <strong>no aparezca la línea de compensación</strong>.</li>
+<li>Aparezca la energía vertida, pero <strong>a cero euros</strong>.</li>
+<li>La compañía te cambie de tarifa sin que lo hayas pedido. Revisa el precio nuevo.</li>
+</ul>
+<p>Apunta la fecha en que el instalador te dice que la legalización está hecha. Si dos facturas después sigues sin ver la compensación, llama a la comercializadora y pregunta si la distribuidora le ha comunicado el alta.</p>
+
+<h2 id="pvpc">6. Si tienes el PVPC</h2>
+<p>Con la tarifa regulada, la factura tiene las mismas líneas, pero el precio de la energía y el del excedente cambian cada hora. El excedente se valora al precio del mercado en cada momento menos el coste de los desvíos, y como tus placas vierten al mediodía, suele coincidir con horas baratas. Por eso es normal que en primavera el excedente te compense menos de lo que esperabas. Además, en el PVPC no existe la batería virtual. Lo comparo con el mercado libre en <a href="/tarifas-luz/pvpc-vs-mercado-libre-placas/">PVPC o mercado libre si tienes placas</a>, y te explico por qué el excedente vale tan poco en <a href="/tarifas-luz/excedentes-placas-solares-precio/">por qué te pagan tan poco por los excedentes</a>.</p>
+
+<h2 id="revisar">7. Cómo revisar que te lo calculan bien</h2>
 <ol>
 <li><strong>Comprueba que hay dos lecturas</strong>: energía consumida y energía vertida.</li>
 <li><strong>Multiplica los kWh vertidos por el precio del excedente</strong> de tu contrato y compara con la línea de compensación.</li>
@@ -123,7 +152,7 @@ fuentes:
 <li><strong>Si los kWh vertidos salen a cero varios meses</strong> con las placas funcionando, reclama: puede que la distribuidora no haya activado la compensación.</li>
 </ol>
 
-<h2 id="compensa">6. Cuándo compensa cambiar de tarifa</h2>
+<h2 id="compensa">8. Cuándo compensa cambiar de tarifa</h2>
 <p>Con la factura delante puedes ver qué te conviene:</p>
 <ul>
 <li><strong>Si pierdes excedente varios meses</strong> (la energía queda a cero y aún sobra), te puede compensar una tarifa con <a href="/tarifas-luz/bateria-virtual-placas-solares/">batería virtual</a>.</li>
@@ -132,7 +161,17 @@ fuentes:
 </ul>
 <p>Para comparar con tus datos, el <a href="https://comparador.cnmc.gob.es/" target="_blank" rel="noopener">comparador oficial de la CNMC</a> es gratuito y no depende de ninguna compañía.</p>
 
-<h2 id="errores">7. Errores frecuentes al leerla</h2>
+<h2 id="anual">9. La cuenta del año: cuánto te ahorran de verdad</h2>
+<p>Como la factura no muestra el autoconsumo directo, la forma honesta de saber cuánto te ahorran las placas es esta:</p>
+<ol>
+<li>Suma la <strong>producción del año</strong> que te da la app del inversor.</li>
+<li>Resta la <strong>energía vertida</strong> que aparece en tus doce facturas: el resultado es lo que has autoconsumido.</li>
+<li>Multiplica el autoconsumo por el <strong>precio del kWh</strong> de tu tarifa, más impuestos.</li>
+<li>Suma las <strong>compensaciones</strong> de las doce facturas.</li>
+</ol>
+<p>Ese total es tu ahorro real del año. Compáralo con lo que te dijo el presupuesto y con la cuenta de <a href="/placas-solares/amortizacion-placas-solares/">cómo calcular la amortización de las placas</a>: si sale bastante por debajo, revisa tus horarios de consumo o la tarifa.</p>
+
+<h2 id="errores">10. Errores frecuentes al leerla</h2>
 <ul>
 <li><strong>Esperar la factura a cero.</strong> La potencia, el contador y los impuestos se pagan siempre.</li>
 <li><strong>Pensar que el excedente se acumula</strong> para el mes siguiente. Con la compensación simplificada, lo que sobra se pierde, salvo que tengas batería virtual.</li>
@@ -145,3 +184,6 @@ fuentes:
 <strong>Mi consejo</strong>
 <p>Guarda las facturas de un año entero y apunta, mes a mes, los kWh comprados, los vertidos y si la energía ha quedado a cero. Con esa tabla sabrás en cinco minutos si necesitas otra tarifa o una batería virtual.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>Con placas solares, la factura sigue teniendo las mismas líneas de siempre y una nueva: la compensación de excedentes, que resta el valor de lo que viertes del término de energía, nunca por debajo de cero y siempre antes de impuestos. La potencia, el contador y los impuestos se pagan igual, así que no esperes una factura a cero. Lo más importante, el autoconsumo directo, no aparece en ninguna línea: calcúlalo con la app del inversor. Revisa con calma las primeras facturas después de instalar, comprueba que hay dos lecturas y que el tope se aplica bien, y guarda un año entero para decidir si te conviene otra tarifa o una batería virtual. Si todavía estás eligiendo tarifa, empieza por <a href="/tarifas-luz/tarifas-luz-compensacion-excedentes/">tarifas con compensación de excedentes</a>.</p>
