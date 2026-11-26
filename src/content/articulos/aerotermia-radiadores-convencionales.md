@@ -117,7 +117,7 @@ fuentes:
 <p>A un precio supuesto de 0,15 €/kWh, serían unos <strong>260 €</strong> al año con suelo radiante y unos <strong>350 €</strong> con radiadores. La mayor parte se concentra en los meses fríos: si repartes la calefacción en cinco meses de invierno, salen unos 70 € al mes con radiadores en este ejemplo.</p>
 <p>La diferencia existe, pero no convierte la aerotermia con radiadores en un error. Lo que sí la convierte en un error es una casa que necesita agua a 70 °C con un equipo que no llega.</p>
 <h3>¿Y frente a la caldera que ya tienes?</h3>
-<p>Para comparar con tu calefacción actual sirve la comparativa de la OCU de octubre de 2026: una vivienda de 90 m² en zona climática D, con unos 6.500 kWh de calefacción al año. El gasto anual en energía fue este:</p>
+<p>Para comparar con tu calefacción actual sirve la comparativa de la OCU de octubre de 2026: un piso de 90 m² en zona climática D (como Madrid o Albacete). El gasto anual en energía fue este:</p>
 <div class="table-scroll">
 <table class="table">
 <thead><tr><th>Sistema</th><th>Gasto al año (OCU)</th></tr></thead>
@@ -129,7 +129,7 @@ fuentes:
 </tbody>
 </table>
 </div>
-<p>La OCU calcula con un rendimiento medio del equipo, no con radiadores a 55 °C en concreto. Aun así, el orden de magnitud se mantiene: aunque con radiadores la aerotermia gaste en torno a un 35 % más que con suelo radiante (como en el ejemplo de arriba), sigue muy por debajo del gasóleo o de los radiadores eléctricos. Frente al gas natural, en cambio, la diferencia de gasto es pequeña y lo que decide es el precio de la obra.</p>
+<p>La OCU no detalla con qué rendimiento ni con qué precios calcula, así que no es un caso de radiadores a 55 °C en concreto. Aun así, el orden de magnitud se mantiene: aunque con radiadores la aerotermia gaste en torno a un 35 % más que con suelo radiante (como en el ejemplo de arriba), sigue muy por debajo del gasóleo o de los radiadores eléctricos. Frente al gas natural, en cambio, la diferencia de gasto es pequeña y lo que decide es el precio de la obra.</p>
 <p>Si además tienes <a href="/placas-solares/cuantas-placas-casa-100m2/">placas solares</a>, recuerda sumar este consumo cuando calcules cuántos paneles necesitas.</p>
 
 <h2 id="soluciones">5. Si tus radiadores se quedan cortos</h2>

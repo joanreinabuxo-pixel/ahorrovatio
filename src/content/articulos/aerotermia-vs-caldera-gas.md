@@ -75,7 +75,7 @@ fuentes:
 </details>
 
 <h2 id="datos">1. Los datos: gasto e instalación</h2>
-<p>La OCU comparó en octubre de 2026 el coste de calentar una vivienda de 90 m² en la zona climática D (como Madrid o Albacete), con una demanda de unos 6.500 kWh de calefacción al año. Estos son los dos sistemas que nos interesan y, como referencia, el gasóleo:</p>
+<p>La OCU comparó en octubre de 2026 el coste de calentar una vivienda de 90 m² en la zona climática D (como Madrid o Albacete). Estos son los dos sistemas que nos interesan y, como referencia, el gasóleo:</p>
 <div class="table-scroll">
 <table class="table">
 <thead><tr><th>Sistema</th><th>Gasto anual en energía</th><th>Coste de instalación</th></tr></thead>

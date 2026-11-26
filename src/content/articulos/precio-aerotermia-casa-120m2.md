@@ -119,7 +119,7 @@ fuentes:
 <h2 id="gasto">4. Cuánto gastará al año</h2>
 <p>Para estimarlo uso la fórmula de la guía de <a href="/aerotermia/consumo-aerotermia-mes/">cuánto consume la aerotermia al mes</a>: demanda de calefacción ÷ SCOP × precio del kWh.</p>
 <ul>
-<li><strong>Demanda.</strong> La OCU usa 6.500 kWh al año para 90 m² en la zona climática D, unos 72 kWh por m². Para 120 m² con el mismo aislamiento y clima, son unos <strong>8.670 kWh</strong>. Es una suposición: el dato bueno es el de tu certificado energético.</li>
+<li><strong>Demanda.</strong> Según la OCU, un hogar español consume de media unos 6.500 kWh al año en calefacción. Si supongo que esa media corresponde a unos 90 m², salen unos 72 kWh por m², y para 120 m² unos <strong>8.670 kWh</strong>. Es una suposición mía, no un dato de la OCU: el dato bueno es el de tu certificado energético.</li>
 <li><strong>Rendimiento.</strong> Tomo el SCOP de la ficha técnica de la Vaillant aroTHERM pure: 4,62 con suelo radiante y 3,41 con radiadores a 55 °C. Un equipo de 8 kW tendrá su propia ficha, así que úsalo solo como ejemplo.</li>
 <li><strong>Precio.</strong> 0,1849 €/kWh sin impuestos, de la tarifa Endesa Solar Plus.</li>
 </ul>

@@ -79,7 +79,7 @@ fuentes:
 <h2 id="consumo">1. Paso 1: cuánto consume tu aerotermia</h2>
 <p>El dato clave no es la potencia del equipo, sino los <strong>kWh de electricidad al año</strong> que va a gastar. Se calcula así, como explico en la guía de <a href="/aerotermia/consumo-aerotermia-mes/">cuánto consume la aerotermia</a>:</p>
 <p><strong>demanda de calefacción ÷ SCOP del equipo = kWh de electricidad</strong></p>
-<p>En mi ejemplo uso la demanda de la comparativa de la OCU para una vivienda de 90 m² en la zona climática D, como Madrid (6.500 kWh de calor al año), y el SCOP de la ficha técnica de la Vaillant aroTHERM pure:</p>
+<p>En mi ejemplo uso como demanda la media que da la OCU para un hogar español (6.500 kWh de calefacción al año), y el SCOP de la ficha técnica de la Vaillant aroTHERM pure:</p>
 <ul>
 <li>Con <strong>suelo radiante</strong> (agua a 35 °C, SCOP 4,62): 6.500 ÷ 4,62 = <strong>1.407 kWh</strong> al año.</li>
 <li>Con <strong>radiadores</strong> (agua a 55 °C, SCOP 3,41): 6.500 ÷ 3,41 = <strong>1.906 kWh</strong> al año.</li>

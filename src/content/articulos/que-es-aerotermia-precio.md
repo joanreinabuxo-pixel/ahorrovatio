@@ -146,7 +146,7 @@ fuentes:
 <p>Igual que con las placas, pide varios presupuestos y compara qué incluye cada uno. Exige un cálculo de la potencia necesaria para tu casa, no un equipo «estándar».</p>
 
 <h2 id="gasto">5. Cuánto gasta al año frente a otros sistemas</h2>
-<p>La OCU comparó en octubre de 2026 el gasto anual de calefacción de una vivienda de <strong>90 m² en la zona climática D</strong> (como Madrid o Albacete), con una demanda media de unos 6.500 kWh de calefacción al año:</p>
+<p>La OCU comparó en octubre de 2026 el gasto anual de calefacción de una vivienda de <strong>90 m² en la zona climática D</strong> (como Madrid o Albacete). Como referencia, la OCU indica que un hogar español consume de media unos 6.500 kWh al año en calefacción:</p>
 <div class="table-scroll">
 <table class="table">
 <thead><tr><th>Sistema</th><th>Gasto anual en energía</th><th>Coste de instalación</th></tr></thead>

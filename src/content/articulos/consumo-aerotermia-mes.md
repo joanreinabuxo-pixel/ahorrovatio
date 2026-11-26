@@ -14,7 +14,7 @@ relacionados:
   - placas-solares/cuantas-placas-casa-100m2
 faq:
   - q: "¿Cuánto gasta la aerotermia al año?"
-    a: "<p>En la comparativa de la OCU de octubre de 2026, para una vivienda de 90 m² en la zona climática D (como Madrid) con unos 6.500 kWh de demanda de calefacción, la aerotermia gasta unos 270 € al año en calefacción. Tu casa puede gastar más o menos según el aislamiento, el clima y la temperatura del agua.</p>"
+    a: "<p>En la comparativa de la OCU de octubre de 2026, para un piso de 90 m² en la zona climática D (como Madrid), la aerotermia gasta unos 270 € al año en calefacción. Tu casa puede gastar más o menos según el aislamiento, el clima y la temperatura del agua.</p>"
   - q: "¿Cómo calculo el consumo de la aerotermia en mi casa?"
     a: "<p>Divide el calor que necesita tu casa (la demanda de calefacción del certificado energético, en kWh al año) entre el SCOP del equipo. Obtienes los kWh de electricidad. Multiplícalos por el precio del kWh de tu tarifa.</p>"
   - q: "¿La aerotermia gasta mucho en verano?"
@@ -73,7 +73,7 @@ fuentes:
 </details>
 
 <h2 id="referencia">1. El dato de referencia de la OCU</h2>
-<p>La OCU comparó en octubre de 2026 el gasto de calefacción de una vivienda de <strong>90 m²</strong> en la <strong>zona climática D</strong> (como Madrid o Albacete), con una demanda media de unos <strong>6.500 kWh de calefacción al año</strong>. El resultado para la aerotermia fue de unos <strong>270 € al año</strong> en energía, frente a 256 € con gas natural, 746 € con gasóleo y 747 € con radiadores eléctricos.</p>
+<p>La OCU comparó en octubre de 2026 el gasto de calefacción de una vivienda de <strong>90 m²</strong> en la <strong>zona climática D</strong> (como Madrid o Albacete) El resultado para la aerotermia fue de unos <strong>270 € al año</strong> en energía, frente a 256 € con gas natural, 746 € con gasóleo y 747 € con radiadores eléctricos.</p>
 <p>Es un buen punto de partida, pero es un caso concreto. Si quieres el dato de tu casa, necesitas tres números: cuánto calor necesita, cuánto rinde el equipo y cuánto pagas por la luz. Lo explico en la guía principal de <a href="/aerotermia/que-es-aerotermia-precio/">aerotermia: qué es, cuánto cuesta y cuánto se ahorra</a>, y aquí voy al cálculo.</p>
 
 <h2 id="formula">2. La fórmula para tu casa</h2>
@@ -86,7 +86,7 @@ fuentes:
 <p>Ese resultado es solo la energía. Si la aerotermia te obliga a subir la potencia contratada, súmalo aparte.</p>
 
 <h2 id="ejemplo">3. Ejemplo completo: 90 m² en Madrid</h2>
-<p>Uso la demanda de la OCU (6.500 kWh al año), el SCOP de la ficha técnica de la Vaillant aroTHERM pure de 4 kW y el precio sin impuestos de Endesa Solar Plus (0,1849 €/kWh). Son datos reales de fuentes distintas, combinados para enseñar la cuenta.</p>
+<p>Uso como demanda la media que da la OCU para un hogar español (6.500 kWh de calefacción al año), el SCOP de la ficha técnica de la Vaillant aroTHERM pure de 4 kW y el precio sin impuestos de Endesa Solar Plus (0,1849 €/kWh). Son datos reales de fuentes distintas, combinados para enseñar la cuenta.</p>
 <div class="table-scroll">
 <table class="table">
 <thead><tr><th></th><th>Suelo radiante (35 °C)</th><th>Radiadores (55 °C)</th></tr></thead>
@@ -116,7 +116,7 @@ fuentes:
 <p>En el ejemplo he repartido el gasto en cinco meses de forma igual para que se entienda, pero en la factura verás meses más altos que otros. Si tu tarifa tiene precios por periodos, también influye a qué horas trabaja el equipo.</p>
 
 <h2 id="comparar">5. Al mes, frente a otros sistemas</h2>
-<p>Para comparar con lo que pagas ahora, he pasado a meses los gastos anuales de la comparativa de la OCU (90 m², zona climática D, unos 6.500 kWh de calefacción al año), repartidos en cinco meses de invierno:</p>
+<p>Para comparar con lo que pagas ahora, he pasado a meses los gastos anuales de la comparativa de la OCU (piso de 90 m², zona climática D), repartidos en cinco meses de invierno:</p>
 <div class="table-scroll">
 <table class="table">
 <thead><tr><th>Sistema</th><th>Gasto al año (OCU)</th><th>Al mes en 5 meses de invierno</th></tr></thead>
