@@ -4,7 +4,7 @@ h1: "Batería virtual para placas solares: qué es, cómo funciona y qué comerc
 descripcion: "Qué es la batería virtual, en qué se diferencia de la compensación de excedentes, y qué ofrecen Endesa, Repsol e Iberdrola: cuota, precio del excedente y caducidad del saldo."
 categoria: tarifas-luz
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -23,6 +23,8 @@ faq:
     a: "<p>Ninguna de las páginas oficiales que he revisado (Endesa, Repsol e Iberdrola) explica qué ocurre con el saldo acumulado si te das de baja. Pregúntalo por escrito antes de contratar y, si piensas cambiar, intenta gastar el saldo antes.</p>"
   - q: "¿Me sale a cuenta si tengo pocos excedentes?"
     a: "<p>Si casi todo lo que producen tus placas lo consumes en el momento, el excedente que sobra cada mes es pequeño y la compensación normal ya lo absorbe. Una cuota fija mensual puede costarte más de lo que recuperas. La batería virtual tiene más sentido cuando en verano el excedente supera claramente lo que gastas en energía.</p>"
+  - q: "¿Cuánto cuesta la batería virtual al mes?"
+    a: "<p>Depende de la compañía: algunas la incluyen sin cuota y otras cobran unos pocos euros al mes. La OCU sitúa el coste entre 0 y unos 2 a 5 € al mes según la oferta. Suma la cuota de un año y compárala con el excedente que esperas guardar antes de contratarla.</p>"
 fuentes:
   - nombre: "BOE — Real Decreto 244/2019, de 5 de abril, que regula el autoconsumo de energía eléctrica (texto consolidado)"
     url: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089"
@@ -34,11 +36,22 @@ fuentes:
     url: "https://iberdrola.es/smart-solar/services/solar-cloud"
   - nombre: "Iberdrola — Qué son las baterías virtuales"
     url: "https://www.iberdrola.com/conocenos/generacion-electrica-power/almacenamiento-energia/baterias-virtuales"
+  - nombre: "OCU — Tarifas con batería virtual: qué son y por qué interesan (18/11/2025)"
+    url: "https://www.ocu.org/vivienda-y-energia/paneles-fotovoltaicos/noticias/bateria-virtual-ventajas"
   - nombre: "CNMC — Comparador oficial de ofertas de electricidad y gas"
     url: "https://comparador.cnmc.gob.es/"
 ---
 
 <div class="answer"><p>La <strong>batería virtual</strong> es un servicio de algunas comercializadoras del mercado libre que guarda en euros la energía solar que te sobra y no cabe en la factura del mes, para descontarla en facturas posteriores. No es una batería real ni la regula una ley propia: la regla legal es la <strong>compensación simplificada</strong>, en la que ese sobrante se pierde. Endesa, Repsol e Iberdrola la ofrecen con condiciones distintas de cuota, precio del excedente y caducidad del saldo.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>La regla legal de la compensación simplificada y su límite.</li>
+<li>Cómo funciona la batería virtual y qué guarda de verdad.</li>
+<li>Qué ofrecen Endesa, Repsol e Iberdrola, y cinco preguntas antes de contratar.</li>
+<li>Un ejemplo con números de cuándo compensa y cuándo no.</li>
+<li>Los errores más frecuentes al contratarla.</li>
+</ul>
 
 <table class="keydata">
 <caption>La batería virtual en 30 segundos</caption>
@@ -58,6 +71,8 @@ fuentes:
 <li><a href="#letra-pequena">Cinco preguntas antes de contratar</a></li>
 <li><a href="#ejemplo">Ejemplo: cuándo compensa y cuándo no</a></li>
 <li><a href="#fisica">¿Batería virtual o batería física?</a></li>
+<li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -140,3 +155,15 @@ fuentes:
 </ul>
 <p>No son incompatibles: hay hogares con batería física que también contratan batería virtual para el excedente que la batería ya no puede guardar en los días de más sol.</p>
 <p>Si todavía no tienes placas, revisa también la <a href="/subvenciones/deduccion-irpf-placas-solares/">deducción del IRPF</a> y recuerda que el primer paso es dimensionar bien la instalación para tu consumo. Una instalación ajustada a lo que gastas genera menos excedente perdido y depende menos de este tipo de servicios.</p>
+
+<h2 id="errores">8. Errores frecuentes</h2>
+<ul>
+<li><strong>Contratarla sin saber si te sobra excedente.</strong> Si la compensación simplificada ya descuenta casi todo tu excedente cada mes, la batería virtual guarda muy poco. Mira tus facturas de verano antes: la línea de excedentes y la de energía comprada te dicen si pierdes algo. Te explico cómo leerlas en <a href="/tarifas-luz/factura-luz-autoconsumo/">la factura de la luz con autoconsumo</a>.</li>
+<li><strong>Comparar solo la cuota.</strong> Por ejemplo, una cuota baja con el excedente pagado a 0,04 €/kWh puede salir peor que una cuota algo más alta con el excedente a 0,06 €. Lo que importa es la suma de las dos cosas. Tienes los precios en <a href="/tarifas-luz/excedentes-placas-solares-precio/">cuánto pagan por los excedentes</a>.</li>
+<li><strong>Olvidar que el saldo no siempre se puede sacar.</strong> Pregunta qué pasa con el saldo si te cambias de compañía o das de baja el contrato.</li>
+<li><strong>Atarse a una tarifa cara para tener batería virtual.</strong> Si el kWh que compras es mucho más caro que en otra oferta, pierdes por un lado lo que ganas por el otro. Compara con <a href="/tarifas-luz/pvpc-vs-mercado-libre-placas/">PVPC o mercado libre con placas</a>.</li>
+<li><strong>Pensar que sustituye a una batería física.</strong> No te da energía de noche; solo te devuelve euros. Lo comparo con detalle en <a href="/placas-solares/bateria-fisica-o-virtual/">batería física o virtual</a>.</li>
+</ul>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>La batería virtual guarda en euros el excedente que la compensación simplificada no puede descontar en el mes, para usarlo en facturas posteriores. Compensa si te sobra mucho excedente en verano, por ejemplo porque nadie está en casa de día o tienes muchas placas para tu consumo. Si consumes casi todo lo que produces, la cuota puede comerse lo que guardas. Antes de contratarla, mira tus facturas de verano, suma la cuota de un año y compara el precio del kWh y del excedente de la oferta completa. Para ver cómo encaja con el resto de opciones, tienes la guía de <a href="/tarifas-luz/tarifas-luz-compensacion-excedentes/">tarifas de luz con compensación de excedentes</a> y el cálculo de la <a href="/placas-solares/amortizacion-placas-solares/">amortización de las placas</a>.</p>

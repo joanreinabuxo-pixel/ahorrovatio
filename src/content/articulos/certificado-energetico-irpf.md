@@ -4,7 +4,7 @@ h1: "Certificado energético antes y después de la obra: cómo usarlo para dedu
 descripcion: "Los dos certificados de eficiencia energética que pide Hacienda para deducir el 20 %, 40 % o 60 % en la Renta: plazos de 2026, el límite de dos años, el registro, qué mide cada uno y un calendario para no perder la deducción."
 categoria: subvenciones
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -23,6 +23,8 @@ faq:
     a: "<p>Sí. La disposición adicional quincuagésima de la ley del IRPF incluye en la base de la deducción los gastos de emisión de los certificados de eficiencia energética, siempre que los pagues por un medio distinto del efectivo.</p>"
   - q: "¿Tienen que estar registrados?"
     a: "<p>Sí. Los certificados deben haber sido expedidos y registrados según el Real Decreto 390/2021. El registro se hace en el registro de certificados de tu comunidad autónoma. Pide siempre al técnico el justificante.</p>"
+  - q: "¿Quién puede hacer el certificado energético?"
+    a: "<p>Un técnico competente según el Real Decreto 390/2021, como un arquitecto, un arquitecto técnico o un ingeniero con la titulación habilitante. Después, el certificado se registra en el registro de certificados energéticos de tu comunidad autónoma. Pide presupuesto a varios y que el precio incluya el registro.</p>"
 fuentes:
   - nombre: "Agencia Tributaria — Principales novedades tributarias del Real Decreto-ley 7/2026 (página actualizada el 20/11/2026)"
     url: "https://sede.agenciatributaria.gob.es/Sede/irpf/novedades-impuesto/novedades-normativa-2026/principales-novedades-tributarias-introducidas-real-marzo.html"
@@ -37,6 +39,15 @@ fuentes:
 ---
 
 <div class="answer"><p>Para deducir en la Renta el <strong>20 %, el 40 % o el 60 %</strong> de una obra de eficiencia energética, como poner placas solares o aerotermia, necesitas <strong>dos certificados de eficiencia energética</strong>: uno de antes de la obra (como mucho, de dos años antes de empezar) y otro de después que demuestre la mejora. Los dos tienen que estar registrados. En viviendas, el certificado de después debe expedirse <strong>antes del 1 de enero de 2027</strong>, y el coste de los certificados también entra en la deducción.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Por qué Hacienda pide un certificado de antes y otro de después.</li>
+<li>La regla de los dos años y qué tiene que demostrar el certificado final.</li>
+<li>Los plazos de 2026 para viviendas y de 2027 para edificios.</li>
+<li>Un calendario y dos ejemplos con números para no perder la deducción.</li>
+<li>Qué cambia si la obra es de toda la comunidad de vecinos.</li>
+</ul>
 
 <table class="keydata">
 <caption>Los dos certificados, de un vistazo</caption>
@@ -58,8 +69,11 @@ fuentes:
 <li><a href="#registro">Registro y coste de los certificados</a></li>
 <li><a href="#calendario">Un calendario para no perder la deducción</a></li>
 <li><a href="#ejemplos">Dos ejemplos con números</a></li>
+<li><a href="#edificio">Si la obra es de todo el edificio</a></li>
 <li><a href="#compensa">Cuándo compensa pedir los certificados</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
+<li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
 
@@ -132,21 +146,30 @@ fuentes:
 </ul>
 <p>En el segundo caso, los certificados no aumentan la deducción porque ya se supera la base máxima. Aun así, sin ellos la deducción sería cero.</p>
 
-<h2 id="compensa">8. Cuándo compensa pedir los certificados</h2>
+<h2 id="edificio">8. Si la obra es de todo el edificio</h2>
+<p>En el tramo del 60 %, para obras en edificios de uso predominantemente residencial, los certificados no son de tu piso, sino <strong>del edificio entero</strong>. La comunidad encarga un certificado antes de la obra y otro después, y la mejora exigida es la misma que en el tramo del 40 %: un 30 % menos de consumo de energía primaria no renovable o llegar a la letra A o B.</p>
+<p>Lo práctico es que la comunidad los encargue a la vez que pide los presupuestos, y que el administrador entregue a cada propietario una copia con el justificante de registro y el certificado de lo que ha pagado cada uno. Sin esos papeles, cada vecino tendría difícil justificar su deducción. Tienes cómo se aprueba la obra en la junta en <a href="/placas-solares/placas-solares-comunidad-vecinos/">placas solares en una comunidad de vecinos</a>, y las ayudas autonómicas para edificios en <a href="/subvenciones/ayudas-aerotermia-comunidades/">ayudas para aerotermia por comunidad autónoma</a>.</p>
+<p><strong>Te puede interesar:</strong> <a href="/subvenciones/certificados-ahorro-energetico-cae/">los certificados de ahorro energético (CAE)</a>, que no hay que confundir con el certificado energético: son otra ayuda distinta.</p>
+
+<h2 id="compensa">9. Cuándo compensa pedir los certificados</h2>
 <p>Casi siempre. En el ejemplo de las placas, 300 € de certificados abren la puerta a 2.520 € de deducción, y además cuentan dentro de la base. El único caso en que no compensa es cuando ya sabes que no vas a poder aplicar la deducción: por ejemplo, si es una segunda residencia, si tu cuota del IRPF es muy baja o si la obra no se puede terminar y certificar dentro del plazo.</p>
 <p>El certificado de antes también tiene un valor propio: te dice de qué letra parte tu vivienda y qué mejora tiene más sentido. Para ver cómo cambia la amortización de unas placas con y sin la deducción, puedes consultar la <a href="/placas-solares/amortizacion-placas-solares/">amortización de las placas solares</a>. Y para sumar otras ayudas, como el IBI o el ICIO, mira la guía de <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>.</p>
 
-<h2 id="errores">9. Errores frecuentes</h2>
+<h2 id="errores">10. Errores frecuentes</h2>
 <ul>
 <li><strong>Pedir el certificado de antes con la obra ya empezada.</strong> Ya no sirve para comparar.</li>
 <li><strong>Usar un certificado de hace más de dos años.</strong> Se cuenta desde su expedición hasta el inicio de la obra.</li>
 <li><strong>No comprobar el registro.</strong> Un certificado firmado pero no registrado no cumple el requisito.</li>
 <li><strong>Dejar el certificado final para enero.</strong> En viviendas, debe estar expedido antes del 1 de enero de 2027.</li>
 <li><strong>Pagar los certificados en efectivo.</strong> Pierdes la posibilidad de sumarlos a la base.</li>
-<li><strong>Dar por hecho el 40 %.</strong> Lo decide la mejora del certificado de después, no el tipo de obra.</li>
+<li><strong>Dar por hecho el 40 %.</strong> Lo decide la mejora del certificado de después, no el tipo de obra. Pide al técnico que simule la mejora con el equipo concreto, ya sean <a href="/placas-solares/precio-placas-solares/">placas solares</a> o <a href="/aerotermia/que-es-aerotermia-precio/">aerotermia</a>.</li>
+<li><strong>Confundir el certificado energético con el boletín eléctrico.</strong> El CIE de las placas sirve para <a href="/placas-solares/legalizar-placas-solares/">legalizarlas</a>, pero no demuestra ninguna mejora energética.</li>
 </ul>
 
 <div class="callout">
 <strong>Mi consejo</strong>
 <p>Encarga el certificado de antes en cuanto empieces a pensar en la obra y pide al técnico una estimación de la mejora. Si es una vivienda y estamos a final de 2026, no firmes nada sin confirmar que el certificado final puede estar expedido y registrado antes del 31 de diciembre.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>Sin dos certificados energéticos no hay deducción del IRPF por placas solares o aerotermia: uno de antes de empezar la obra, expedido como mucho dos años antes, y otro de después que demuestre la mejora. Los dos tienen que estar registrados. En una vivienda, el certificado final debe estar expedido antes del 1 de enero de 2027; en un edificio, antes del 1 de enero de 2028. El coste de los certificados entra en la base si lo pagas por banco, y casi siempre compensa con creces. Encarga el de antes en cuanto pienses en la obra, y repasa el resto de requisitos en la guía de la <a href="/subvenciones/deduccion-irpf-placas-solares/">deducción del IRPF</a>.</p>
