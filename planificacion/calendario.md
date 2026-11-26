@@ -39,7 +39,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 31 | L | 11 | Placas solares en días nublados o de lluvia: cuánto producen de verdad | placas-solares-dias-nublados | placas-solares | placas solares dias nublados | publicado |
 | 32 | L | 24 | Aerotermia vs estufa de pellets: qué sale más barato al mes | aerotermia-vs-pellets | aerotermia | aerotermia vs pellets | publicado |
 | 33 | L | 29 | Qué potencia eléctrica contratar si instalas aerotermia | potencia-contratada-aerotermia | aerotermia | potencia contratada aerotermia | publicado |
-| 34 | L | 31 | Aerotermia con suelo radiante: precio y rendimiento | aerotermia-suelo-radiante | aerotermia | aerotermia suelo radiante precio | pendiente |
+| 34 | L | 31 | Aerotermia con suelo radiante: precio y rendimiento | aerotermia-suelo-radiante | aerotermia | aerotermia suelo radiante precio | publicado |
 | 35 | L | 50 | Bono social eléctrico 2026: requisitos y descuentos | bono-social-electrico | tarifas-luz | bono social electrico 2026 | publicado |
 | 36 | L | 44 | Cómo bajar la potencia contratada (P1 y P2) para ahorrar | bajar-potencia-contratada | tarifas-luz | bajar potencia contratada | publicado |
 | 37 | L | 88 | Horarios de la luz en 2026: horas punta, llano y valle | horarios-luz-punta-llano-valle | tarifas-luz | horarios luz punta llano valle | publicado |
