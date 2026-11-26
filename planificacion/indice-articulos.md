@@ -30,7 +30,7 @@ Los volúmenes son estimaciones cualitativas (autocompletado, temas recurrentes 
 |---|---|---|---|
 | 19 | ★ Aerotermia: qué es, cuánto cuesta y cuánto se ahorra frente al gas | que-es-aerotermia-precio | P1 |
 | 20 | ✅ Aerotermia con radiadores convencionales: ¿funciona o es un error? | aerotermia-radiadores-convencionales | P1 |
-| 21 | Cuánto consume la aerotermia al mes en euros (Madrid, Barcelona, Sevilla) | consumo-aerotermia-mes | P1 |
+| 21 | Cuánto consume la aerotermia al mes en euros y cómo calcular el de tu casa | consumo-aerotermia-mes | P1 |
 | 22 | Aerotermia vs caldera de gas: comparativa de consumo en invierno | aerotermia-vs-caldera-gas | P1 |
 | 23 | Cuánto cuesta instalar aerotermia en una casa de 120 m² | precio-aerotermia-casa-120m2 | P1 |
 | 24 | Aerotermia vs estufa de pellets: qué sale más barato al mes | aerotermia-vs-pellets | P2 |

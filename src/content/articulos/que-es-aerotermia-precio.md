@@ -168,7 +168,7 @@ fuentes:
 <li>La aerotermia es mucho más cara de instalar que el resto. La OCU calcula para ella una amortización de 23 años frente al sistema más caro de la tabla, sin contar ayudas.</li>
 <li>La bomba de calor aire-aire (el aire acondicionado con bomba de calor) es la que menos gasta, pero no calienta el agua sanitaria ni sirve para radiadores.</li>
 </ul>
-<p>Son cifras de un caso concreto. Tu gasto dependerá de tu clima, del aislamiento, de los precios de tu tarifa y de la temperatura a la que trabaje el equipo. Repartidos en un invierno de cinco meses, los 270 € de la aerotermia son unos 55 € al mes, más el agua caliente; lo calculo para Madrid, Barcelona y Sevilla en <a href="/aerotermia/consumo-aerotermia-mes/">cuánto consume la aerotermia al mes en euros</a>.</p>
+<p>Son cifras de un caso concreto. Tu gasto dependerá de tu clima, del aislamiento, de los precios de tu tarifa y de la temperatura a la que trabaje el equipo. Repartidos en un invierno de cinco meses, los 270 € de la aerotermia son unos 55 € al mes, más el agua caliente; tienes la fórmula para calcular el de tu casa en <a href="/aerotermia/consumo-aerotermia-mes/">cuánto consume la aerotermia al mes en euros</a>.</p>
 
 <h2 id="ejemplo">6. Ejemplo: cambiar una caldera de gasóleo</h2>
 <p>Este ejemplo es ilustrativo. Parte de los datos de la OCU para 90 m² en zona D; el resto son supuestos para enseñar la cuenta.</p>

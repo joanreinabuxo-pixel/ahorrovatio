@@ -17,7 +17,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 9 | L | 52 | Deducción del IRPF por placas solares o aerotermia (20 %, 40 % y 60 %) | deduccion-irpf-placas-solares | subvenciones | deduccion irpf placas solares | verificado |
 | 10 | L | 53 | Bonificación del IBI por placas solares en Madrid y alrededores | bonificacion-ibi-placas-solares-madrid | subvenciones | bonificacion ibi placas solares madrid | verificado |
 | 11 | L | 70 | Mejores termostatos inteligentes para calefacción y aerotermia | termostatos-inteligentes-aerotermia | ahorro-hogar | termostato inteligente aerotermia | verificado |
-| 12 | L | 21 | Cuánto consume la aerotermia al mes en euros (Madrid, Barcelona, Sevilla) | consumo-aerotermia-mes | aerotermia | cuanto consume la aerotermia al mes | verificado |
+| 12 | L | 21 | Cuánto consume la aerotermia al mes en euros y cómo calcular el de tu casa | consumo-aerotermia-mes | aerotermia | cuanto consume la aerotermia al mes | verificado |
 | 13 | L | 22 | Aerotermia vs caldera de gas: comparativa de consumo en invierno | aerotermia-vs-caldera-gas | aerotermia | aerotermia vs caldera de gas | verificado |
 | 14 | L | 23 | Cuánto cuesta instalar aerotermia en una casa de 120 m² | precio-aerotermia-casa-120m2 | aerotermia | precio aerotermia casa 120 m2 | verificado |
 | 15 | L | 71 | Qué electrodomésticos gastan más luz (tabla con euros al año) | electrodomesticos-que-mas-gastan | ahorro-hogar | electrodomesticos que mas gastan | verificado |
