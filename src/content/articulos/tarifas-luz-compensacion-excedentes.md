@@ -4,7 +4,7 @@ h1: "Tarifas de luz con compensación de excedentes en 2026: cómo funcionan y c
 descripcion: "Cómo funciona la compensación de excedentes, PVPC o mercado libre, qué precios mirar y un ejemplo con una tarifa real para elegir la mejor tarifa si tienes placas."
 categoria: tarifas-luz
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: true
 relacionados:
@@ -42,6 +42,14 @@ fuentes:
 
 <div class="answer"><p>Si tienes placas solares, la <strong>compensación simplificada de excedentes</strong> descuenta de tu factura la energía que viertes a la red, pero solo del término de energía y sin pasar del valor de lo que has comprado ese mes. Para elegir la mejor tarifa, mira primero el <strong>precio del kWh que compras</strong>, después el <strong>precio del excedente</strong> y por último si te interesa una <strong>batería virtual</strong>. En una oferta real como Endesa Solar Plus, el kWh comprado cuesta 0,1849 € y el excedente se paga a 0,06 € (sin impuestos): consumir tu propia energía vale tres veces más que verterla.</p></div>
 
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Cómo funciona la compensación simplificada y por qué se pierde excedente en verano.</li>
+<li>Las diferencias entre el PVPC y el mercado libre si tienes placas.</li>
+<li>Los cinco precios que hay que comparar y un ejemplo con una tarifa real mes a mes.</li>
+<li>Qué hacer con el excedente que se pierde y cuándo compensa cambiar de tarifa.</li>
+</ul>
+
 <table class="keydata">
 <caption>Resumen rápido</caption>
 <tr><th scope="row">Norma que lo regula</th><td>Real Decreto 244/2019 (compensación simplificada)</td></tr>
@@ -64,8 +72,10 @@ fuentes:
 <li><a href="#ejemplo">Ejemplo con una tarifa real: un mes de verano y uno de invierno</a></li>
 <li><a href="#comparar">Cómo comparar tarifas con tus facturas</a></li>
 <li><a href="#bateria">¿Y la batería virtual?</a></li>
+<li><a href="#sobra">Qué hacer con el excedente que se pierde</a></li>
 <li><a href="#cuando">Cuándo compensa cambiar de tarifa y cuándo no</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -102,6 +112,7 @@ fuentes:
 <strong>Por qué te sale «gratis» el excedente que se pierde</strong>
 <p>Para la red, esa energía se ha entregado igualmente. Simplemente, la ley no te permite descontar más de lo que has consumido. Si cada verano te pasa, tienes dos salidas: consumir más en las horas de sol o buscar una tarifa con batería virtual.</p>
 </div>
+<p>Explico por qué el excedente se paga tan barato, y cómo sacarle más, en <a href="/tarifas-luz/excedentes-placas-solares-precio/">por qué te pagan tan poco por los excedentes</a>.</p>
 
 <h2 id="pvpc-libre">4. PVPC o mercado libre</h2>
 <p>La compensación funciona en las dos modalidades, pero el precio del excedente se calcula de forma distinta:</p>
@@ -118,7 +129,7 @@ fuentes:
 </table>
 </div>
 <p>Con placas, el PVPC tiene una particularidad: las horas centrales del día, cuando más produces, suelen ser las de precio de mercado más bajo en los meses de mucho sol. Eso significa que el excedente puede pagarse muy barato justo cuando más tienes. En el mercado libre, con un precio fijo de excedente, sabes de antemano cuánto vale cada kWh vertido.</p>
-<p>No hay una respuesta única. Si tienes poco excedente y consumes mucho por la noche, el PVPC puede encajar. Si quieres saber exactamente lo que vas a pagar o te interesa la batería virtual, el mercado libre te dará más control.</p>
+<p>No hay una respuesta única. Si tienes poco excedente y consumes mucho por la noche, el PVPC puede encajar. Si quieres saber exactamente lo que vas a pagar o te interesa la batería virtual, el mercado libre te dará más control. Hago la comparación con números en <a href="/tarifas-luz/pvpc-vs-mercado-libre-placas/">PVPC o mercado libre si tienes placas</a>.</p>
 
 <h2 id="que-mirar">5. Los cinco precios que hay que mirar</h2>
 <p>Al comparar ofertas para autoconsumo, no te quedes solo con el precio del excedente. Fíjate en estos cinco datos, y comprueba siempre si los precios llevan impuestos o no:</p>
@@ -177,6 +188,8 @@ fuentes:
 <li>En invierno manda el precio del kWh que compras. Una tarifa con el kWh 2 céntimos más barato te ahorraría 7 € solo en enero.</li>
 </ul>
 
+<p>Si te cuesta encontrar cada uno de estos conceptos en tu factura, tienes una guía línea por línea en <a href="/tarifas-luz/factura-luz-autoconsumo/">cómo entender la factura de la luz con autoconsumo</a>.</p>
+
 <h2 id="comparar">8. Cómo comparar tarifas con tus facturas</h2>
 <p>Con tus propias facturas puedes comparar cualquier oferta en diez minutos:</p>
 <ol>
@@ -195,7 +208,20 @@ fuentes:
 <p>La batería virtual es un servicio de algunas comercializadoras del mercado libre que guarda en euros el excedente que no cabe en la factura del mes. En el ejemplo de agosto, esos 10,81 € no se perderían: pasarían a una hucha para usarlos en invierno.</p>
 <p>Compensa si cada verano pierdes bastante excedente y la cuota es baja. No compensa si casi nunca llegas al tope o si la cuota anual se come lo que guardas. Lo explico con detalle, con las condiciones de Endesa, Repsol e Iberdrola, en la guía de la <a href="/tarifas-luz/bateria-virtual-placas-solares/">batería virtual para placas solares</a>.</p>
 
-<h2 id="cuando">10. Cuándo compensa cambiar de tarifa y cuándo no</h2>
+<h2 id="sobra">10. Qué hacer con el excedente que se pierde</h2>
+<p>Si en tus facturas de verano el término de energía queda a cero y aun así sobra excedente, tienes cuatro opciones. Van de la más barata a la más cara:</p>
+<ol>
+<li><strong>Mover consumos a las horas de sol.</strong> Es gratis. Lavadora, lavavajillas, termo eléctrico, plancha o la carga del coche al mediodía. Cada kWh que consumes en el momento vale el precio completo de tu tarifa, unas tres veces lo que te pagan por verterlo en el ejemplo de Endesa (0,1849 € frente a 0,06 €).</li>
+<li><strong>Una tarifa con batería virtual.</strong> El excedente que no cabe en la factura se guarda en euros para los meses siguientes (te lo explico en <a href="/tarifas-luz/bateria-virtual-placas-solares/">qué es la batería virtual</a>). Según la OCU, puede ser gratis o costar de 2 a 5 € al mes, y hay que leer bien la letra pequeña: si el saldo caduca y qué pasa si cambias de compañía.</li>
+<li><strong>Una batería física.</strong> Guarda la energía para la noche, pero es una inversión importante: el InformeSolar 2025 da un importe medio de unos 11.500 € para una instalación con baterías frente a 6.000 € sin ellas. Lo comparo en <a href="/placas-solares/bateria-fisica-o-virtual/">batería física o virtual</a>.</li>
+<li><strong>Electrificar algo más.</strong> Si vas a cambiar la caldera por aerotermia o comprar un coche eléctrico, el excedente de hoy será consumo mañana.</li>
+</ol>
+<div class="callout">
+<strong>Mi consejo</strong>
+<p>Antes de pagar por una batería, prueba dos meses moviendo consumos y mira cuánto excedente pierdes de verdad. Si son 10 o 20 € en agosto, una batería de miles de euros no tiene sentido. Si pierdes excedente de abril a septiembre, la batería virtual es el siguiente paso.</p>
+</div>
+
+<h2 id="cuando">11. Cuándo compensa cambiar de tarifa y cuándo no</h2>
 <p><strong>Suele compensar cambiar si:</strong></p>
 <ul>
 <li>Tu tarifa actual no tiene compensación de excedentes o te paga muy poco por ellos.</li>
@@ -211,7 +237,7 @@ fuentes:
 </ul>
 <p>Cambiar de comercializadora no requiere obras ni cortes de luz: la nueva compañía hace el trámite. Lo que sí conviene es tener a mano el CUPS (el código de tu punto de suministro, que aparece en la factura).</p>
 
-<h2 id="errores">11. Errores frecuentes</h2>
+<h2 id="errores">12. Errores frecuentes</h2>
 <ul>
 <li><strong>Elegir solo por el precio del excedente.</strong> El kWh que compras pesa más.</li>
 <li><strong>Comparar precios con y sin impuestos</strong> como si fueran lo mismo.</li>
@@ -221,3 +247,6 @@ fuentes:
 <li><strong>Poner más placas para tener más excedente.</strong> Con el tope mensual, el excedente extra se pierde. Dimensiona según tu consumo.</li>
 </ul>
 <p>Si estás pensando en instalar, recuerda que además del ahorro en la factura existen la <a href="/subvenciones/deduccion-irpf-placas-solares/">deducción del IRPF</a> y, en muchos municipios, la <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">bonificación del IBI</a>.</p>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>Con placas solares, la mejor tarifa no es la que más paga por el excedente, sino la que te deja la factura más baja en todo el año. En invierno manda el precio del kWh que compras; en verano, el precio del excedente y el tope mensual, que hace que se pierda lo que sobra. Compara las ofertas con tus doce facturas reales, no con un mes suelto, y fíjate en la potencia, que nunca se compensa. Si pierdes excedente varios meses, mueve consumos a las horas de sol antes de pagar por una batería. Y si todavía estás pensando en instalar, tienes los números en el <a href="/placas-solares/precio-placas-solares/">precio de las placas solares en 2026</a> y los trucos para el resto de la casa en <a href="/ahorro-hogar/bajar-factura-luz/">cómo bajar la factura de la luz</a>.</p>

@@ -4,7 +4,7 @@ h1: "Cómo bajar la factura de la luz en casa: guía completa con números"
 descripcion: "Cómo bajar la factura de la luz: entender la factura, ajustar la potencia, elegir tarifa, el bono social de 2026 y los hábitos que más ahorran, con ejemplos."
 categoria: ahorro-hogar
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: true
 relacionados:
@@ -44,6 +44,14 @@ fuentes:
 
 <div class="answer"><p>Para bajar la factura de la luz, empieza por lo que no cuesta nada: <strong>revisar la potencia contratada</strong>, <strong>comparar tu tarifa</strong> con el comparador oficial de la CNMC y comprobar si tienes derecho al <strong>bono social</strong> (42,5 % o 57,5 % de descuento hasta el 31 de diciembre de 2026). Después vienen los hábitos: <strong>cada grado de calefacción de más sube el consumo un 7 %</strong> según el IDAE, y entre el 80 % y el 85 % de lo que gasta una lavadora se va en calentar el agua. Las inversiones, como las placas solares, son el último paso.</p></div>
 
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Cómo leer tu factura en dos minutos y dónde se va el dinero.</li>
+<li>Lo que no cuesta nada: potencia, tarifa, horarios y bono social.</li>
+<li>Los consumos que más pesan (calefacción, agua caliente y electrodomésticos) y cómo recortarlos.</li>
+<li>Un ejemplo con números y un plan de diez pasos para empezar hoy.</li>
+</ul>
+
 <table class="keydata">
 <caption>Resumen rápido</caption>
 <tr><th scope="row">Gratis, hoy mismo</th><td>Revisar potencia, comparar tarifa, quitar servicios que no usas, pedir el bono social si te corresponde</td></tr>
@@ -67,8 +75,10 @@ fuentes:
 <li><a href="#pequenos">Iluminación y consumos pequeños</a></li>
 <li><a href="#ejemplo">Ejemplo con números: una familia que revisa su factura</a></li>
 <li><a href="#inversiones">Cuándo compensa invertir</a></li>
+<li><a href="#piso">Si vives en un piso o de alquiler</a></li>
 <li><a href="#plan">Plan de diez pasos</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -166,12 +176,13 @@ fuentes:
 <li>Para calentar comida, la guía indica que el <strong>microondas ahorra un 60 %</strong> de energía frente al horno convencional.</li>
 <li>Al cambiar un electrodoméstico, mira la <strong>etiqueta energética</strong>: la misma guía habla de un ahorro de hasta el 40 % en la factura con aparatos más eficientes.</li>
 </ul>
+<p><strong>Te puede interesar:</strong> <a href="/ahorro-hogar/electrodomesticos-que-mas-gastan/">qué electrodomésticos gastan más luz, con una tabla de euros al año</a>.</p>
 <p>La nevera funciona todo el día, así que su ubicación importa: déjale espacio detrás para que circule el aire y apártala del horno, de la luz directa del sol y de otras fuentes de calor.</p>
 
 <h2 id="pequenos">8. Iluminación y consumos pequeños</h2>
 <ul>
 <li><strong>Bombillas LED.</strong> Si aún tienes bombillas antiguas, cámbialas poco a poco por LED, empezando por las que más horas están encendidas.</li>
-<li><strong>Aparatos en espera.</strong> Televisores, decodificadores, cargadores y equipos de música gastan algo aunque estén «apagados». Una regleta con interruptor permite cortarlos de golpe.</li>
+<li><strong>Aparatos en espera.</strong> Televisores, decodificadores, cargadores y equipos de música gastan algo aunque estén «apagados». Una regleta con interruptor permite cortarlos de golpe. Calculo cuánto supone en <a href="/ahorro-hogar/consumo-fantasma-standby/">el consumo fantasma de los aparatos en standby</a>.</li>
 <li><strong>Mídelo antes de obsesionarte.</strong> Un enchufe medidor o el consumo horario del área de clientes de tu distribuidora te dicen cuánto gasta tu casa de madrugada, cuando casi todo está apagado. Ese es tu consumo de base.</li>
 </ul>
 <p>Estos consumos suelen ser pequeños comparados con la climatización y el agua caliente. Merecen la pena porque son gratis o muy baratos, pero no esperes que cambien la factura tanto como la potencia o la calefacción.</p>
@@ -192,8 +203,8 @@ fuentes:
 <table class="table">
 <thead><tr><th>Inversión</th><th>Cuándo suele compensar</th><th>Guía</th></tr></thead>
 <tbody>
-<tr><td>Placas solares</td><td>Vivienda con tejado propio o comunidad que se pone de acuerdo, sol y consumo de día</td><td><a href="/placas-solares/cuantas-placas-casa-100m2/">Cuántas placas necesitas</a></td></tr>
-<tr><td>Aerotermia</td><td>Sustituir caldera de gasóleo, propano o calefacción eléctrica directa</td><td><a href="/aerotermia/aerotermia-radiadores-convencionales/">Aerotermia con radiadores</a></td></tr>
+<tr><td>Placas solares</td><td>Vivienda con tejado propio o comunidad que se pone de acuerdo, sol y consumo de día</td><td><a href="/placas-solares/precio-placas-solares/">Precio de las placas solares</a> y <a href="/placas-solares/cuantas-placas-casa-100m2/">cuántas necesitas</a></td></tr>
+<tr><td>Aerotermia</td><td>Sustituir caldera de gasóleo, propano o calefacción eléctrica directa</td><td><a href="/aerotermia/que-es-aerotermia-precio/">Qué es la aerotermia y cuánto cuesta</a></td></tr>
 <tr><td>Aislamiento y ventanas</td><td>Casas que pierden mucho calor; según la guía de la Comunidad de Madrid, el aislamiento puede ahorrar hasta un 40 % de la calefacción</td><td>—</td></tr>
 <tr><td>Electrodomésticos eficientes</td><td>Cuando toca cambiar uno viejo; mira la etiqueta</td><td>—</td></tr>
 </tbody>
@@ -201,7 +212,17 @@ fuentes:
 </div>
 <p>Varias de estas obras tienen ayudas: la <a href="/subvenciones/deduccion-irpf-placas-solares/">deducción del IRPF</a> por mejorar la eficiencia energética y, en muchos municipios, la <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">bonificación del IBI</a> por placas solares.</p>
 
-<h2 id="plan">11. Plan de diez pasos</h2>
+<h2 id="piso">11. Si vives en un piso o de alquiler</h2>
+<p>Muchas guías de ahorro dan por hecho que tienes una casa con tejado. Si vives en un piso, o de alquiler, la mayor parte de esta guía te sirve igual, porque lo que más baja la factura no requiere obras:</p>
+<ul>
+<li><strong>La potencia y la tarifa</strong> las decide quien tiene el contrato de la luz. Si el contrato está a tu nombre, puedes cambiarlas tú.</li>
+<li><strong>El bono social</strong> depende de la renta y de la situación del hogar, no de si la vivienda es tuya.</li>
+<li><strong>La calefacción y el agua caliente</strong> se recortan con la temperatura, los horarios y un buen termostato.</li>
+<li><strong>Un kit solar de balcón</strong> puede ser una opción si el propietario y la comunidad lo permiten. La OCU analizó kits de 400 Wp de 450 a 800 € que cubren hasta un 16 % del consumo: lo explico en <a href="/placas-solares/kit-solar-balcon/">kits solares para balcón</a>.</li>
+</ul>
+<p>Si el edificio entero se plantea poner placas, cada vecino puede beneficiarse aunque no tenga tejado propio. Tienes los pasos en <a href="/placas-solares/placas-solares-comunidad-vecinos/">placas solares en una comunidad de vecinos</a>.</p>
+
+<h2 id="plan">12. Plan de diez pasos</h2>
 <ol>
 <li>Coge tu última factura y apunta potencia, precio del kWh, tipo de tarifa y servicios extra.</li>
 <li>Da de baja los servicios que no usas.</li>
@@ -215,7 +236,7 @@ fuentes:
 <li>Cuando hayas hecho lo anterior, estudia las inversiones: placas, aerotermia o aislamiento.</li>
 </ol>
 
-<h2 id="errores">12. Errores frecuentes</h2>
+<h2 id="errores">13. Errores frecuentes</h2>
 <ul>
 <li><strong>Empezar por las bombillas</strong> y olvidar la potencia, la tarifa y la calefacción, que pesan mucho más.</li>
 <li><strong>Cambiar de tarifa por un descuento de bienvenida</strong> sin mirar el precio del segundo año.</li>
@@ -224,3 +245,6 @@ fuentes:
 <li><strong>Subir el termostato a tope para que caliente antes.</strong> No calienta más rápido; solo gasta más.</li>
 <li><strong>Dar por hecho que no tienes derecho al bono social</strong> sin comprobar los requisitos.</li>
 </ul>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>La factura de la luz se baja en dos tiempos. Primero, lo gratis: ajustar la potencia a lo que de verdad usas, comparar tu tarifa con el comparador de la CNMC, comprobar si tienes derecho al bono social y mover los consumos grandes a las horas baratas. Solo eso puede ahorrar decenas de euros al año sin cambiar nada en casa. Después, si quieres más, vienen las inversiones: placas solares si tienes tejado y consumo de día, aerotermia si vienes del gasóleo o de los radiadores eléctricos, y aislamiento si la casa pierde calor. Empieza por la factura de este mes: mira la potencia y el precio del kWh, y sigue el plan de diez pasos. Si ya tienes placas, el siguiente paso es elegir bien la <a href="/tarifas-luz/tarifas-luz-compensacion-excedentes/">tarifa con compensación de excedentes</a> y entender <a href="/tarifas-luz/factura-luz-autoconsumo/">tu factura con autoconsumo</a>.</p>
