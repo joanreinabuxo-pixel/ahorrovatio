@@ -4,7 +4,7 @@ h1: "Cómo calcular la amortización de una instalación fotovoltaica, paso a pa
 descripcion: "La fórmula para saber en cuántos años se pagan tus placas solares, con un ejemplo en Madrid, tablas según el autoconsumo y el precio de la luz, y qué ayudas acortan el plazo."
 categoria: placas-solares
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -21,6 +21,10 @@ faq:
     a: "<p>Consumir poco durante el día, vivir en una zona con menos sol, tener un kWh barato, perder excedente por el tope mensual de la compensación o pagar un precio alto por la instalación.</p>"
   - q: "¿Una batería acorta la amortización?"
     a: "<p>Normalmente la alarga, porque cuesta varios miles de euros y el ahorro que añade es pequeño. Lo calculo en la guía de batería física o virtual.</p>"
+  - q: "¿Cuánto cambia la amortización con los impuestos?"
+    a: "<p>Bastante. El kWh que no compras también te ahorra el impuesto eléctrico (5,11269632 %) y el IVA (21 %). En el ejemplo de Madrid, el ahorro pasa de unos 832 € sin impuestos a unos 1.058 € en la factura, y la amortización baja de unos 7,2 a unos 5,7 años sin ayudas.</p>"
+  - q: "¿Cómo sé qué porcentaje de autoconsumo tendré?"
+    a: "<p>Si aún no tienes placas, descarga tu consumo hora a hora del área de clientes de tu distribuidora y mira cuánto gastas en las horas de sol. Si ya las tienes, la app del inversor te da el dato exacto.</p>"
 fuentes:
   - nombre: "Energías Renovables — Un autoconsumo tipo cuesta 6.000 euros (InformeSolar 2025)"
     url: "https://www.energias-renovables.com/autoconsumo/un-autoconsumo-tipo-cuesta-6-000-euros-20260115"
@@ -38,6 +42,14 @@ fuentes:
 
 <div class="answer"><p>La amortización de unas placas solares se calcula así: <strong>coste neto ÷ ahorro anual = años</strong>. El ahorro anual es la energía que <strong>autoconsumes</strong> por el precio del kWh que dejas de comprar, más lo que te <strong>compensan</strong> por los excedentes. En mi ejemplo de una instalación de 5 kWp en Madrid por 6.000 €, sale entre <strong>5,7 y 8,3 años</strong> sin ayudas y entre <strong>3,4 y 5 años</strong> con la deducción del IRPF del 40 %. Lo que más cambia el resultado es cuánto consumes mientras brilla el sol.</p></div>
 
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>La fórmula de la amortización en cinco pasos y un ejemplo completo en Madrid.</li>
+<li>Cuánto cambia el plazo según el autoconsumo, el precio de la luz y la ciudad.</li>
+<li>El efecto de los impuestos y de las ayudas.</li>
+<li>Cómo estimar tu autoconsumo antes de instalar.</li>
+</ul>
+
 <table class="keydata">
 <caption>Resumen rápido</caption>
 <tr><th scope="row">Fórmula</th><td>Coste neto ÷ ahorro anual = años de amortización</td></tr>
@@ -54,10 +66,14 @@ fuentes:
 <li><a href="#ejemplo">Ejemplo completo en Madrid</a></li>
 <li><a href="#autoconsumo">Cómo cambia según el autoconsumo</a></li>
 <li><a href="#precio">Cómo cambia según el precio de la luz</a></li>
+<li><a href="#impuestos">Con impuestos: el ahorro real en la factura</a></li>
+<li><a href="#ciudades">En otras ciudades</a></li>
 <li><a href="#ayudas">Las ayudas que acortan el plazo</a></li>
+<li><a href="#tu-autoconsumo">Cómo estimar tu autoconsumo antes de instalar</a></li>
 <li><a href="#mas-alla">Lo que la fórmula simple no cuenta</a></li>
 <li><a href="#compensa">Cuándo compensa y cuándo no</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -112,24 +128,52 @@ fuentes:
 </div>
 <p>Cuanto más cara está la luz, antes se pagan las placas. El precio no es fijo durante toda la vida de la instalación, así que conviene mirar varios escenarios en lugar de uno.</p>
 
-<h2 id="ayudas">5. Las ayudas que acortan el plazo</h2>
+<h2 id="impuestos">5. Con impuestos: el ahorro real en la factura</h2>
+<p>Las cuentas anteriores van sin impuestos para que se vean claras, pero en tu factura cada kWh que no compras también te ahorra el impuesto eléctrico (5,11269632 %) y el IVA (21 %). Lo mismo pasa con el excedente compensado, que se descuenta del término de energía antes de impuestos. En el ejemplo de Madrid:</p>
+<div class="table-scroll">
+<table class="table">
+<thead><tr><th></th><th>Sin impuestos</th><th>Con impuesto eléctrico e IVA</th></tr></thead>
+<tbody>
+<tr><td>Ahorro por autoconsumo</td><td>599 €</td><td>Unos 762 €</td></tr>
+<tr><td>Excedente compensado</td><td>233 €</td><td>Unos 296 €</td></tr>
+<tr><td>Ahorro anual</td><td>832 €</td><td>Unos 1.058 €</td></tr>
+<tr><td>Años sin ayudas</td><td>7,2</td><td>Unos 5,7</td></tr>
+<tr><td>Años con IRPF del 40 %</td><td>4,3</td><td>Unos 3,4</td></tr>
+</tbody>
+</table>
+</div>
+<p>Con impuestos, el resultado se acerca a lo que dice el InformeSolar 2025, que habla de menos de 6 años para una instalación tipo. Prefiero enseñarte la cuenta sin impuestos como escenario prudente, pero es bueno saber que la realidad suele ser algo mejor. Para entender dónde aparece cada concepto en tu recibo, mira <a href="/tarifas-luz/factura-luz-autoconsumo/">cómo leer la factura de la luz con autoconsumo</a>.</p>
+
+<h2 id="ciudades">6. En otras ciudades</h2>
+<p>Con la misma casa y el mismo 40 % de autoconsumo, solo cambiando la producción de PVGIS 5.3, la instalación de 6.000 € se recupera sin ayudas en unos <strong>10 años en Bilbao</strong> (1.170 kWh por kWp), unos <strong>7,2 en Madrid</strong> (1.621) y unos <strong>7 en Sevilla</strong> (1.672). Con la deducción del 40 %, en unos 6, 4,3 y 4,2 años. Tienes la tabla completa en la guía del <a href="/placas-solares/precio-placas-solares/">precio de las placas solares</a>.</p>
+
+<h2 id="ayudas">7. Las ayudas que acortan el plazo</h2>
 <ul>
-<li><strong>Deducción del IRPF</strong> por obras de mejora de la eficiencia energética. En el ejemplo, el 40 % de 6.000 € son 2.400 €, y el coste neto baja a 3.600 €. Exige dos certificados energéticos y una reducción mínima del consumo de energía primaria no renovable, y tiene plazos.</li>
-<li><strong>Bonificación del IBI</strong>, si tu ayuntamiento la tiene: un descuento del recibo durante varios años.</li>
+<li><strong>Deducción del IRPF</strong> por obras de mejora de la eficiencia energética. En el ejemplo, el 40 % de 6.000 € son 2.400 €, y el coste neto baja a 3.600 €. Exige dos certificados energéticos y una reducción mínima del consumo de energía primaria no renovable, y tiene plazos: los detallo en <a href="/subvenciones/deduccion-irpf-placas-solares/">la deducción del IRPF por placas solares</a>.</li>
+<li><strong>Bonificación del IBI</strong>, si tu ayuntamiento la tiene: un descuento del recibo durante varios años. Por ejemplo, en <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">Madrid capital es del 50 % durante 5 años</a>.</li>
 <li><strong>Bonificación del ICIO</strong>, el impuesto de la obra, también según el municipio.</li>
 </ul>
 <p>Con la deducción del 40 % y una bonificación del IBI de 250 € al año durante 5 años, el ejemplo baja a unos 2,8 años, como muestro en la guía del precio. Los requisitos y plazos de cada ayuda están en la guía de <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>.</p>
 
-<h2 id="mas-alla">6. Lo que la fórmula simple no cuenta</h2>
+<h2 id="tu-autoconsumo">8. Cómo estimar tu autoconsumo antes de instalar</h2>
+<p>El porcentaje de autoconsumo es el número que más mueve la amortización, y el que más a menudo se inventa en los presupuestos. Puedes estimarlo tú:</p>
+<ol>
+<li>Entra en el área de clientes de tu <strong>distribuidora</strong> (la empresa de la zona, no la comercializadora que te factura) y descarga tu consumo hora a hora del último año.</li>
+<li>Suma lo que consumes entre las 10 y las 17 horas, más o menos las horas de producción buena. Ese es el consumo que las placas pueden cubrir directamente.</li>
+<li>Compáralo con la producción que te dé PVGIS para la instalación propuesta. Si tu consumo de día es mucho menor que la producción, sobrará energía y el autoconsumo será bajo.</li>
+<li>Piensa qué podrías mover a esas horas: lavadora, lavavajillas, termo eléctrico, la aerotermia o el coche.</li>
+</ol>
+<p>Si tienes aerotermia o vas a tenerla, tu consumo de día sube mucho en invierno. Lo calculo en <a href="/placas-solares/cuantas-placas-con-aerotermia/">cuántas placas necesito si tengo aerotermia</a>.</p>
+
+<h2 id="mas-alla">9. Lo que la fórmula simple no cuenta</h2>
 <ul>
-<li><strong>Los impuestos.</strong> El kWh que no compras también te ahorra su impuesto eléctrico y su IVA, así que el ahorro en la factura es algo mayor que el de la cuenta sin impuestos.</li>
 <li><strong>La potencia contratada.</strong> No cambia con las placas: se paga igual.</li>
 <li><strong>El mantenimiento y el inversor.</strong> Las placas apenas necesitan mantenimiento, pero el inversor puede tener que cambiarse en algún momento. Revisa las garantías de tu presupuesto y aparta algo para eso.</li>
 <li><strong>La pérdida de rendimiento</strong> de los paneles con los años, que indica la garantía de producción del fabricante.</li>
 <li><strong>La financiación.</strong> Si pagas a plazos, suma los intereses al coste.</li>
 </ul>
 
-<h2 id="compensa">7. Cuándo compensa y cuándo no</h2>
+<h2 id="compensa">10. Cuándo compensa y cuándo no</h2>
 <ul>
 <li><strong>Compensa más</strong> si hay gente en casa de día, si vives en el centro o el sur, si tienes aerotermia o coche eléctrico que puedas cargar con sol, y si aprovechas las ayudas.</li>
 <li><strong>Compensa menos</strong> si la casa está vacía todo el día, si vives en una zona con poco sol, si el tejado tiene sombras o si te ofrecen un precio muy por encima de la media.</li>
@@ -137,7 +181,7 @@ fuentes:
 <li><strong>Una batería física normalmente alarga el plazo.</strong> Lo calculo en <a href="/placas-solares/bateria-fisica-o-virtual/">batería física o virtual</a>.</li>
 </ul>
 
-<h2 id="errores">8. Errores frecuentes</h2>
+<h2 id="errores">11. Errores frecuentes</h2>
 <ul>
 <li><strong>Suponer que consumes toda la producción.</strong> Es el error que da los plazos más optimistas.</li>
 <li><strong>Valorar el excedente al precio del kWh comprado.</strong> Se paga bastante menos.</li>
@@ -150,3 +194,6 @@ fuentes:
 <strong>Mi consejo</strong>
 <p>Haz la cuenta con tres porcentajes de autoconsumo (30, 40 y 50 %) en lugar de uno. Si con el más bajo los años te siguen pareciendo razonables, la instalación tiene sentido. Si solo sale bien con el más alto, revisa el tamaño o tus hábitos antes de firmar.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>La amortización de unas placas solares se calcula en cinco pasos: producción, autoconsumo, ahorro por autoconsumo, ahorro por excedentes y años. En el ejemplo de Madrid, una instalación de 5 kWp por 6.000 € se recupera en unos 7,2 años sin impuestos ni ayudas, en unos 5,7 contando los impuestos de la factura y en menos de 4 con la deducción del IRPF. Lo que más cambia el resultado es el porcentaje de autoconsumo, así que estímalo con tu consumo hora a hora antes de firmar y desconfía de los presupuestos que lo dan muy alto. Después, elige bien la tarifa: lo explico en la guía de <a href="/tarifas-luz/tarifas-luz-compensacion-excedentes/">tarifas con compensación de excedentes</a>.</p>
