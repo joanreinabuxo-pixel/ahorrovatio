@@ -53,6 +53,9 @@ fuentes:
   - nombre: "Endesa — Endesa Solar Plus (precios de energía y potencia)"
     url: "https://www.endesa.com/es/luz-y-gas/catalogo-solar/endesa-solar-plus"
     consultado: 2026-11-26
+  - nombre: "Ayuntamiento de Madrid (Instituto Municipal de Consumo) — Nuevas medidas en suministros energéticos (06/11/2026)"
+    url: "https://www.madrid.es/UnidadesDescentralizadas/Consumo/Promocionales/Nuevas%20medidas%20suministros%20energ%C3%A9ticos/ficheros/nuevas_medidas_energ%C3%ADa_nov26.pdf"
+    consultado: 2026-11-26
 ---
 
 <div class="answer"><p>Bajar la potencia contratada es una de las pocas rebajas de la factura que <strong>no te obliga a consumir menos</strong>. Cada kW menos en el periodo P1 ahorra, en 2026, unos <strong>27,70 € al año</strong> solo en peajes y cargos, y unos <strong>34 €</strong> en una oferta como Endesa Solar Plus (sin impuestos). Pasar de 4,6 a 3,45 kW ahorra unos <strong>50 € al año</strong> con impuestos. El cambio cuesta unos <strong>9 €</strong> (derechos de enganche de 9,04 € más impuestos), se pide a la comercializadora y la distribuidora solo tiene que aceptar <strong>un cambio al año</strong>.</p></div>
@@ -121,7 +124,7 @@ fuentes:
 </table>
 </div>
 <p>Las ofertas del mercado libre suelen dar un precio de potencia que ya incluye esta parte regulada y su margen. Por ejemplo, la tarifa Endesa Solar Plus cobra <strong>34,188 € por kW y año</strong>. En tu factura puede aparecer en euros por kW y día: divide entre 365 para pasar de uno a otro (34,188 € al año son unos 0,094 € al día).</p>
-<p>A todo esto se suma el impuesto especial sobre la electricidad (5,11 %) y el IVA del 21 %, lo que multiplica el importe por unos 1,27.</p>
+<p>A todo esto se suma el impuesto especial sobre la electricidad (5,11 %) y el IVA del 21 %, lo que multiplica el importe por unos 1,27. Uso el tipo general del IVA. En algunos meses de 2026 se ha aplicado un IVA reducido del 10 % a los contratos de hasta 10 kW (por ejemplo, en noviembre, según el Ayuntamiento de Madrid); en esos meses, las cifras con impuestos bajan alrededor de un 9 %.</p>
 
 <h2 id="ejemplo">4. Ejemplo: cuánto ahorras bajando la potencia</h2>
 <p>Una casa tiene 4,6 kW contratados en P1 y P2 y los baja a 3,45 kW en los dos periodos. Uso el precio de Endesa Solar Plus como ejemplo de oferta del mercado libre:</p>

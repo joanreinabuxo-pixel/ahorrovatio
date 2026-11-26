@@ -41,6 +41,9 @@ fuentes:
   - nombre: "MITECO — Peajes de acceso a las redes y cargos asociados a los costes del sistema"
     url: "https://www.miteco.gob.es/es/energia/energia-electrica/electricidad/peajes.html"
     consultado: 2026-11-26
+  - nombre: "Ayuntamiento de Madrid (Instituto Municipal de Consumo) — Nuevas medidas en suministros energéticos (06/11/2026)"
+    url: "https://www.madrid.es/UnidadesDescentralizadas/Consumo/Promocionales/Nuevas%20medidas%20suministros%20energ%C3%A9ticos/ficheros/nuevas_medidas_energ%C3%ADa_nov26.pdf"
+    consultado: 2026-11-26
 ---
 
 <div class="answer"><p>En la tarifa 2.0TD, la de casi todas las casas, las <strong>horas punta</strong> son de <strong>10 a 14 h y de 18 a 22 h</strong>, las <strong>horas llano</strong> de 8 a 10 h, de 14 a 18 h y de 22 a 24 h, y las <strong>horas valle</strong> de <strong>0 a 8 h</strong>, de lunes a viernes. Los <strong>sábados, domingos y festivos nacionales</strong> son valle todo el día. En 2026, solo por peajes y cargos, cada kWh en punta cuesta unos <strong>0,094 € más</strong> que en valle, sin impuestos. Esto solo te afecta si tienes el PVPC o una tarifa con precios por horas.</p></div>
@@ -130,7 +133,7 @@ fuentes:
 </tbody>
 </table>
 </div>
-<p>Solo por esta parte regulada, un kWh en punta cuesta unos <strong>0,094 € más</strong> que en valle, y unos <strong>0,12 € más</strong> con el impuesto eléctrico y el IVA. A eso se suma el precio de la energía, que en el PVPC cambia cada hora según el mercado y en el mercado libre depende de tu oferta.</p>
+<p>Solo por esta parte regulada, un kWh en punta cuesta unos <strong>0,094 € más</strong> que en valle, y unos <strong>0,12 € más</strong> con el impuesto eléctrico y el IVA. Uso el tipo general del IVA. En algunos meses de 2026 se ha aplicado un IVA reducido del 10 % a los contratos de hasta 10 kW (por ejemplo, en noviembre, según el Ayuntamiento de Madrid); en esos meses, las cifras con impuestos bajan alrededor de un 9 %. A eso se suma el precio de la energía, que en el PVPC cambia cada hora según el mercado y en el mercado libre depende de tu oferta.</p>
 <p>Según la CNMC, los peajes de los consumidores domésticos bajaron de media un 1,3 % en 2026 respecto a 2025, mientras que en el conjunto de consumidores subieron un 0,5 %.</p>
 <p><strong>Te puede interesar:</strong> <a href="/tarifas-luz/factura-luz-autoconsumo/">cómo leer la factura de la luz</a>, donde verás estas líneas de peajes y cargos por periodo.</p>
 

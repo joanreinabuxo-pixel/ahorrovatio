@@ -44,6 +44,9 @@ fuentes:
   - nombre: "BOE — Circular 3/2020 de la CNMC, metodología de los peajes de transporte y distribución de electricidad (periodos horarios)"
     url: "https://www.boe.es/buscar/act.php?id=BOE-A-2020-1066"
     consultado: 2026-11-26
+  - nombre: "Ayuntamiento de Madrid (Instituto Municipal de Consumo) — Nuevas medidas en suministros energéticos (06/11/2026)"
+    url: "https://www.madrid.es/UnidadesDescentralizadas/Consumo/Promocionales/Nuevas%20medidas%20suministros%20energ%C3%A9ticos/ficheros/nuevas_medidas_energ%C3%ADa_nov26.pdf"
+    consultado: 2026-11-26
 ---
 
 <div class="answer"><p>Un radiador eléctrico de <strong>1.500 W</strong> encendido a plena potencia <strong>5 horas al día</strong> gasta 225 kWh al mes, unos <strong>53 € al mes</strong> con impuestos (a 0,1849 €/kWh más el impuesto eléctrico y el IVA). Con el termostato cortando parte del tiempo, lo normal es pagar menos, por ejemplo unos <strong>32 €</strong> si funciona el 60 % del tiempo. La fórmula es sencilla: <strong>kW × horas × precio del kWh</strong>. Y no hay radiadores eléctricos que «gasten menos» por kWh: todos convierten la luz en calor casi al 100 %.</p></div>
@@ -84,7 +87,7 @@ fuentes:
 </details>
 
 <h2 id="tabla">1. La tabla: cuánto gasta al mes según la potencia y las horas</h2>
-<p>Esta guía forma parte de la sección de <a href="/ahorro-hogar/">ahorro en el hogar</a>. La tabla supone que el radiador funciona a plena potencia todas las horas indicadas durante 30 días. Uso el precio sin impuestos de la tarifa Endesa Solar Plus (0,1849 €/kWh) y le sumo el impuesto especial sobre la electricidad (5,11 %) y el IVA del 21 %, lo que da unos <strong>0,235 €/kWh</strong>. No incluye el término de potencia, que pagas igual tengas o no el radiador encendido.</p>
+<p>Esta guía forma parte de la sección de <a href="/ahorro-hogar/">ahorro en el hogar</a>. La tabla supone que el radiador funciona a plena potencia todas las horas indicadas durante 30 días. Uso el precio sin impuestos de la tarifa Endesa Solar Plus (0,1849 €/kWh) y le sumo el impuesto especial sobre la electricidad (5,11 %) y el IVA del 21 %, lo que da unos <strong>0,235 €/kWh</strong>. No incluye el término de potencia, que pagas igual tengas o no el radiador encendido. Uso el tipo general del IVA. En algunos meses de 2026 se ha aplicado un IVA reducido del 10 % a los contratos de hasta 10 kW (por ejemplo, en noviembre, según el Ayuntamiento de Madrid); en esos meses, las cifras con impuestos bajan alrededor de un 9 %.</p>
 <div class="table-scroll">
 <table class="table">
 <thead><tr><th>Potencia</th><th>3 h al día</th><th>5 h al día</th><th>8 h al día</th></tr></thead>

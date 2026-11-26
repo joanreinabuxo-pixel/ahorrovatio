@@ -33,6 +33,9 @@ fuentes:
     url: "https://www.comunidad.madrid/sites/default/files/doc/consumo/info_consumo_ahorro_energia.pdf"
   - nombre: "Endesa — Endesa Solar Plus (precios de energía y potencia)"
     url: "https://www.endesa.com/es/luz-y-gas/catalogo-solar/endesa-solar-plus"
+  - nombre: "Ayuntamiento de Madrid (Instituto Municipal de Consumo) — Nuevas medidas en suministros energéticos (06/11/2026)"
+    url: "https://www.madrid.es/UnidadesDescentralizadas/Consumo/Promocionales/Nuevas%20medidas%20suministros%20energ%C3%A9ticos/ficheros/nuevas_medidas_energ%C3%ADa_nov26.pdf"
+    consultado: 2026-11-26
 ---
 
 <div class="answer"><p>El electrodoméstico que más luz gasta es el <strong>frigorífico</strong>: unos <strong>1.200 kWh al año</strong> en los datos medios del IDAE, que son unos <strong>222 €</strong> con un precio de 0,1849 €/kWh. Le siguen, muy por detrás, la plancha, el televisor, la secadora, la lavadora y el lavavajillas, entre 45 y 51 € al año cada uno. Si tienes <strong>termo eléctrico</strong> o calefacción eléctrica, esos pueden ser los que más gastan de toda la casa.</p></div>
@@ -103,7 +106,7 @@ fuentes:
 <p>Si quieres medirlo de verdad, un enchufe medidor te dice lo que gasta cada aparato durante una semana. Es la forma más fiable para la nevera, que varía mucho según su edad y dónde está colocada.</p>
 
 <h2 id="impuestos">3. Lo que cuestan de verdad con impuestos</h2>
-<p>Los euros de la tabla no llevan impuestos. En la factura, sobre la energía se suma el <strong>impuesto especial sobre la electricidad</strong> (5,11269632 %) y, sobre todo eso, el <strong>IVA del 21 %</strong>. Juntos multiplican el coste por unos 1,27:</p>
+<p>Los euros de la tabla no llevan impuestos. En la factura, sobre la energía se suma el <strong>impuesto especial sobre la electricidad</strong> (5,11269632 %) y, sobre todo eso, el <strong>IVA del 21 %</strong>. Juntos multiplican el coste por unos 1,27. Uso el tipo general del IVA. En algunos meses de 2026 se ha aplicado un IVA reducido del 10 % a los contratos de hasta 10 kW (por ejemplo, en noviembre, según el Ayuntamiento de Madrid); en esos meses, las cifras con impuestos bajan alrededor de un 9 %. Con el IVA general, el factor es:</p>
 <div class="table-scroll">
 <table class="table">
 <thead><tr><th>Electrodoméstico</th><th>Sin impuestos</th><th>Con impuesto eléctrico e IVA</th><th>Al mes</th></tr></thead>
