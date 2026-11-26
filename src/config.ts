@@ -8,7 +8,7 @@ export const SITE = {
   autor: {
     nombre: 'Joan Reina i Buxó',
     bio: 'Maestro de Primaria en Cataluña y editor de AhorroVatio. No soy instalador ni asesor fiscal: cada guía se apoya en fuentes oficiales (BOE, Agencia Tributaria, IDAE, PVGIS), que enlazo siempre al final para que puedas comprobarlas.',
-    url: '/sobre-nosotros/',
+    url: '/sobre-mi/',
   },
 };
 

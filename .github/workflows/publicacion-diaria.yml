@@ -1,14 +1,39 @@
-# Reconstruye la web de lunes a viernes por la mañana para que salgan
-# los artículos programados (los que tienen publicado: true y fecha de hoy).
-# Necesita el secreto CLOUDFLARE_DEPLOY_HOOK (Cloudflare Pages > Settings > Builds > Deploy hooks).
+# Publicación automática de lunes a viernes a las 7:00 (hora de España).
+# Si hoy toca algún artículo (publicado: true y fecha de hoy), apunta su slug en
+# planificacion/registro-publicacion.md y hace un commit. Ese commit en main hace
+# que Cloudflare reconstruya la web y el artículo aparezca. No necesita secretos.
 name: Publicación diaria
 on:
   schedule:
-    - cron: '0 6 * * 1-5'   # 07:00 en Madrid en invierno (08:00 en verano)
+    - cron: '0 5 * * 1-5'   # 06:00 en invierno, 07:00 en verano
+    - cron: '0 6 * * 1-5'   # 07:00 en invierno, 08:00 en verano
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
-  deploy:
+  publicar:
     runs-on: ubuntu-latest
     steps:
-      - name: Lanzar build en Cloudflare Pages
-        run: curl -fsS -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
+      - uses: actions/checkout@v4
+      - name: Buscar los artículos de hoy y lanzar la publicación
+        run: |
+          HOY=$(TZ=Europe/Madrid date +%F)
+          # Hay dos horarios (invierno y verano); el registro evita publicar dos veces.
+          REG=planificacion/registro-publicacion.md
+          [ -f "$REG" ] || printf '# Registro de publicación automática\n\n' > "$REG"
+          NUEVOS=""
+          for f in src/content/articulos/*.md; do
+            fm=$(awk 'NR==1&&/^---$/{f=1;next} f&&/^---$/{exit} f' "$f")
+            echo "$fm" | grep -q '^publicado: *true' || continue
+            echo "$fm" | grep -q "^fecha: *$HOY" || continue
+            slug=$(basename "$f" .md)
+            grep -q "| $slug |" "$REG" && continue
+            echo "| $HOY | $slug |" >> "$REG"
+            NUEVOS="$NUEVOS $slug"
+          done
+          if [ -z "$NUEVOS" ]; then echo "Hoy ($HOY) no toca ningún artículo."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add "$REG"
+          git commit -m "Publicación del $HOY:$NUEVOS"
+          git push

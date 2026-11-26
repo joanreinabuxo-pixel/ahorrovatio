@@ -1,6 +1,6 @@
 # AhorroVatio · Índice numerado de artículos (Fase 1)
 
-Borrador del 24/11/2026. ✅ = ya publicado (habrá que ampliarlo). ★ = artículo pilar. P1/P2/P3 = prioridad de publicación (P1 entra en los ~30 del lanzamiento).
+Versión del 26/11/2026 (90 artículos + calculadora). ✅ = ya publicado (habrá que ampliarlo). ★ = artículo pilar. P1/P2/P3 = prioridad de publicación (P1 entra en los ~30 del lanzamiento).
 Los volúmenes son estimaciones cualitativas (autocompletado, temas recurrentes del sector); se confirmarán con Search Console tras el lanzamiento.
 
 ## Cluster A · Placas solares (`/placas-solares/`)
@@ -108,8 +108,18 @@ Los volúmenes son estimaciones cualitativas (autocompletado, temas recurrentes 
 | 84 | Cuánto gasta una vitrocerámica vs una placa de inducción | vitroceramica-vs-induccion | P3 |
 | 85 | Calculadora de ahorro con placas solares (herramienta) | /calculadoras/ | P1 |
 
-## Orden de lanzamiento (~30 artículos)
-1. Los 5 pilares: 1, 19, 37, 51, 69.
-2. Ampliar los 6 publicados: 2, 20, 38, 52, 53, 70.
-3. Resto de P1 por temporada (ahora es invierno, primero aerotermia y factura): 21, 22, 23, 71, 72, 39, 40, 41, 3, 5, 6, 4, 7, 54, 55, 59, 60, 61.
-4. Después, 1 al día de lunes a viernes a las 7:00 con los P2 y luego los P3.
+## Ampliación hasta 90 artículos (26/11/2026)
+| Nº | Título | Slug | Categoría | Prioridad |
+|---|---|---|---|---|
+| 86 | Cuánto produce una placa solar al día (por mes y por ciudad) | cuanto-produce-placa-solar | placas-solares | P2 |
+| 87 | Ventajas y desventajas de la aerotermia | aerotermia-ventajas-desventajas | aerotermia | P2 |
+| 88 | Horarios de la luz en 2026: horas punta, llano y valle | horarios-luz-punta-llano-valle | tarifas-luz | P1 |
+| 89 | Cuánto gasta un radiador eléctrico al mes | consumo-radiador-electrico | ahorro-hogar | P1 |
+| 90 | Ayudas para placas solares por comunidad autónoma | ayudas-placas-solares-comunidades | subvenciones | P2 |
+| 91 | Calefacción más barata para un piso: comparativa de costes | calefaccion-mas-barata | ahorro-hogar | P2 |
+
+## Orden de lanzamiento (40 artículos, 26/11/2026)
+Fórmula completa en `metodo-rutafp.md`.
+1. Los 30 ya publicados (pilares 1, 19, 37, 51, 69 y sus satélites).
+2. 10 más de temporada de invierno: 11, 24, 29, 31, 50, 44, 88, 82, 74, 89.
+3. Después, 1 al día de lunes a viernes a las 7:00 hasta llegar a 90 (orden en `calendario.md`).
