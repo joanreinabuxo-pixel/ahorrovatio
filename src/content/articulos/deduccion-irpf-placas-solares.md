@@ -4,7 +4,7 @@ h1: "Deducción del IRPF por instalar placas solares o aerotermia: 20 %, 40 % y 
 descripcion: "Requisitos para deducir el 20 %, 40 % o 60 % en la Renta por placas solares, aerotermia o aislamiento: plazos de 2026 y 2027, base máxima, certificados y ejemplos."
 categoria: subvenciones
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -24,6 +24,8 @@ faq:
     a: "<p>Sí, pero el importe de la subvención se descuenta de la base de la deducción. Solo te deduces sobre lo que has pagado tú.</p>"
   - q: "¿Puedo pagar al instalador en efectivo?"
     a: "<p>No. Las entregas de dinero en efectivo no dan derecho a la deducción. Paga con transferencia, tarjeta, cheque nominativo o ingreso en la cuenta del instalador, y guarda la factura y el justificante.</p>"
+  - q: "¿Cuánto me puedo deducir por poner placas solares?"
+    a: "<p>Si la obra encaja en el tramo del 40 %, el 40 % de lo que pagues, con una base máxima de 7.500 € al año: como mucho 3.000 €. Por ejemplo, unas placas de 6.000 € pagadas por transferencia darían 2.400 € de deducción, siempre que tu cuota estatal del IRPF llegue a esa cantidad y los certificados muestren la mejora exigida.</p>"
 fuentes:
   - nombre: "Agencia Tributaria — Manual práctico de Renta 2025: deducciones por obras de mejora de la eficiencia energética de viviendas"
     url: "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c16-deducciones-generales-cuota/deducciones-obras-mejora-eficiencia-energetica-viviendas.html"
@@ -38,6 +40,15 @@ fuentes:
 ---
 
 <div class="answer"><p>Hacienda permite deducir en la Renta el <strong>20 %, el 40 % o el 60 %</strong> de lo que pagues por obras que mejoren la eficiencia energética de tu vivienda, como instalar placas solares, cambiar la caldera por aerotermia o aislar la casa. La condición clave es acreditar la mejora con <strong>dos certificados energéticos: uno antes de la obra y otro después</strong>. Tras la última prórroga, los tramos del 20 % y el 40 % valen para pagos hechos hasta el <strong>31 de diciembre de 2026</strong>, y el del 60 % para edificios, hasta el <strong>31 de diciembre de 2027</strong>.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Hasta cuándo puedes aplicar cada tramo tras la prórroga de 2026.</li>
+<li>Qué tramo suele corresponder a las placas solares y a la aerotermia.</li>
+<li>Los dos certificados energéticos y por qué tumban tantas deducciones.</li>
+<li>Tres ejemplos con números: placas, aerotermia y una comunidad de vecinos.</li>
+<li>Cómo sumar la deducción con el IBI y los CAE.</li>
+</ul>
 
 <table class="keydata">
 <caption>Los tres tramos de la deducción estatal (2026)</caption>
@@ -57,7 +68,9 @@ fuentes:
 <li><a href="#base">Cómo se calcula: base, pagos y subvenciones</a></li>
 <li><a href="#ejemplos">Dos ejemplos con números</a></li>
 <li><a href="#renta">En qué declaración de la Renta se aplica</a></li>
+<li><a href="#sumar">Cómo se suma con otras ayudas</a></li>
 <li><a href="#errores">Errores que hacen perder la deducción</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -95,7 +108,7 @@ fuentes:
 <li><strong>Un certificado de eficiencia energética anterior a la obra.</strong> Tiene que estar expedido antes de empezar. Si lo pides cuando las placas ya están puestas, no hay forma de demostrar la mejora.</li>
 <li><strong>Un certificado posterior a la obra</strong> que muestre la mejora exigida en el tramo: un 7 % menos de demanda (20 %) o un 30 % menos de energía primaria no renovable o letra A/B (40 % y 60 %).</li>
 </ol>
-<p>Ambos los firma un técnico competente y se registran en el registro de certificados de tu comunidad autónoma. Pide al técnico el justificante de registro y guárdalo junto con las facturas: Hacienda puede pedírtelo años después.</p>
+<p>Ambos los firma un técnico competente y se registran en el registro de certificados de tu comunidad autónoma. Pide al técnico el justificante de registro y guárdalo junto con las facturas: Hacienda puede pedírtelo años después. Tienes los pasos, el precio y los plazos en <a href="/subvenciones/certificado-energetico-irpf/">el certificado energético para la deducción del IRPF</a>.</p>
 <div class="callout">
 <strong>Antes de pedir presupuesto</strong>
 <p>Encarga el certificado inicial antes de firmar con el instalador. Además de servir para la deducción, te dice de qué letra partes y qué mejora tiene más sentido en tu casa.</p>
@@ -113,13 +126,29 @@ fuentes:
 <h2 id="ejemplos">6. Dos ejemplos con números</h2>
 <p><strong>Placas solares en la vivienda habitual.</strong> Una familia instala placas por 6.000 euros, pagados por transferencia, sin subvención. El certificado posterior muestra una reducción del 35 % del consumo de energía primaria no renovable. Tramo del 40 %: 6.000 × 40 % = <strong>2.400 euros</strong> de deducción, siempre que su cuota estatal del IRPF sea al menos de esa cantidad.</p>
 <p><strong>Aerotermia con ayuda autonómica.</strong> Otra familia cambia la caldera de gasóleo por aerotermia. Paga 12.000 euros y recibe 3.000 euros de ayuda. La base sería 9.000 euros, pero el tope del 40 % es 7.500. Deducción: 7.500 × 40 % = <strong>3.000 euros</strong>. Los 1.500 euros de base que sobran se pierden, porque en este tramo no se pueden pasar al año siguiente.</p>
-<p>Estos ejemplos son orientativos: el porcentaje real depende de los certificados de tu vivienda. Puedes estimar el coste de tu instalación con la <a href="/calculadoras/">calculadora solar</a>.</p>
+<p><strong>Placas en el tejado de la comunidad (tramo del 60 %).</strong> Un edificio de 10 viviendas pone una instalación común de 18.000 euros y cada vecino paga 1.800. Si el certificado del edificio muestra la mejora exigida, cada propietario puede deducir 1.800 × 60 % = <strong>1.080 euros</strong>, y su coste real baja a 720 euros. Lo explico con más detalle en <a href="/placas-solares/placas-solares-comunidad-vecinos/">placas solares en una comunidad de vecinos</a>.</p>
+<p>Estos ejemplos son orientativos: el porcentaje real depende de los certificados de tu vivienda. Puedes estimar el coste de tu instalación con la <a href="/calculadoras/">calculadora solar</a> o con la guía del <a href="/placas-solares/precio-placas-solares/">precio de las placas solares</a>, y el de la aerotermia en <a href="/aerotermia/que-es-aerotermia-precio/">qué es la aerotermia y cuánto cuesta</a>.</p>
 
 <h2 id="renta">7. En qué declaración de la Renta se aplica</h2>
 <p>En los tramos del 20 % y del 40 %, la deducción se aplica en la Renta del año en que se <strong>expide el certificado posterior</strong>. Si pagaste parte de la obra antes, todas esas cantidades se incluyen en ese mismo año. Por ejemplo, una obra pagada en 2026 con el certificado final emitido en diciembre de 2026 se deduce en la Renta de 2026, que se presenta en la primavera de 2027.</p>
 <p>La deducción se resta de la <a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c16-deducciones-generales-cuota/deducciones-obras-mejora-eficiencia-energetica-viviendas.html" target="_blank" rel="noopener">cuota íntegra estatal</a>, así que si tu cuota es baja quizá no puedas aprovecharla entera.</p>
 
-<h2 id="errores">8. Errores que hacen perder la deducción</h2>
+<h2 id="sumar">8. Cómo se suma con otras ayudas</h2>
+<p>La deducción del IRPF no es la única rebaja. Se puede combinar con otras, aunque cada una tiene sus reglas:</p>
+<div class="table-scroll">
+<table class="table">
+<thead><tr><th>Ayuda</th><th>Quién la da</th><th>Cómo afecta a la deducción</th></tr></thead>
+<tbody>
+<tr><td>Subvención autonómica o estatal</td><td>Comunidad autónoma</td><td>Se resta de la base de la deducción</td></tr>
+<tr><td>Bonificación del IBI</td><td>Ayuntamiento</td><td>Es una rebaja de un impuesto municipal, no una subvención para la obra; confírmalo con tu asesor</td></tr>
+<tr><td>Certificados de ahorro energético (CAE)</td><td>Empresas obligadas, a través de un intermediario</td><td>Pregunta a tu asesor cómo declararlo</td></tr>
+</tbody>
+</table>
+</div>
+<p>El IBI cambia mucho según la ciudad: compara las condiciones de <a href="/subvenciones/bonificacion-ibi-placas-solares-barcelona/">Barcelona</a> y <a href="/subvenciones/bonificacion-ibi-placas-solares-valencia/">Valencia</a>. Los CAE los explico en <a href="/subvenciones/certificados-ahorro-energetico-cae/">qué son los certificados de ahorro energético</a>. Y si quieres ver cuánto acortan todas estas rebajas el plazo de recuperar la inversión, mira la <a href="/placas-solares/amortizacion-placas-solares/">amortización de las placas solares</a>.</p>
+<p><strong>Te puede interesar:</strong> la guía completa de <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>.</p>
+
+<h2 id="errores">9. Errores que hacen perder la deducción</h2>
 <ul>
 <li>Pedir el certificado inicial cuando la obra ya ha empezado.</li>
 <li>Pagar una parte al instalador en efectivo.</li>
@@ -128,4 +157,6 @@ fuentes:
 <li>Dejar el certificado final para enero de 2027: para los tramos del 20 % y el 40 % debe estar expedido antes del 1 de enero de 2027.</li>
 </ul>
 <p>Además de la deducción del IRPF, muchos ayuntamientos rebajan el IBI a quien instala placas. Si vives en la Comunidad de Madrid, mira la <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">bonificación del IBI en Madrid y municipios cercanos</a>.</p>
-<p><em>Este artículo es informativo y no sustituye el asesoramiento de un profesional fiscal.</em></p>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>La deducción del IRPF puede devolverte el 20 %, el 40 % o el 60 % de lo que pagues por placas solares, aerotermia o aislamiento, pero solo si la mejora queda acreditada con dos certificados energéticos, uno antes y otro después de la obra. Para tu vivienda, los tramos del 20 % y el 40 % exigen pagar dentro de 2026 y tener el certificado final antes del 1 de enero de 2027; para los edificios, el 60 % llega a 2027. Encarga el certificado inicial antes de firmar con el instalador, paga siempre por banco y guarda las facturas y los justificantes de registro. Si tienes dudas sobre tu caso concreto, consulta con un asesor fiscal.</p>

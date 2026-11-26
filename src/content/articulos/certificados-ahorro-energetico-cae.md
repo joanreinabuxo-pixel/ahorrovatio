@@ -4,7 +4,7 @@ h1: "Certificados de Ahorro Energético (CAE): qué son, quién te paga y cuánt
 descripcion: "Cómo funcionan los CAE en 2026: 1 CAE es 1 kWh ahorrado, qué obras de casa los generan (aerotermia sí, placas solares no), quién los tramita, plazos y un cálculo de cuánto puedes cobrar."
 categoria: subvenciones
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -23,6 +23,8 @@ faq:
     a: "<p>No directamente. Los tramita un sujeto obligado o un sujeto delegado acreditado. Tú, como propietario del ahorro, firmas con una de esas empresas un convenio para cederle los ahorros a cambio de un pago.</p>"
   - q: "¿Hay plazo para pedirlos?"
     a: "<p>Sí. Solo cuentan las actuaciones iniciadas después del 26 de enero de 2023, y un CAE se puede registrar hasta tres años después de haber hecho la actuación.</p>"
+  - q: "¿Los CAE son compatibles con la deducción del IRPF?"
+    a: "<p>Son cosas distintas: el CAE es un pago de una empresa por tus ahorros y la deducción es una rebaja en tu Renta. La normativa de los CAE no dice que sean incompatibles, pero las fichas piden declarar las ayudas públicas que hayas pedido para la misma obra. Consulta a un asesor fiscal cómo declarar el cobro del CAE en tu Renta.</p>"
 fuentes:
   - nombre: "MITECO — Sistema de Certificados de Ahorro Energético (CAE)"
     url: "https://www.miteco.gob.es/es/energia/eficiencia/cae.html"
@@ -37,6 +39,15 @@ fuentes:
 ---
 
 <div class="answer"><p>Los <strong>Certificados de Ahorro Energético (CAE)</strong> permiten cobrar por la energía que ahorras con una obra. Cada CAE equivale a <strong>1 kWh de ahorro de energía final</strong>, y las comercializadoras de energía los compran porque están obligadas a conseguir ahorros. En una vivienda, la obra más habitual que los genera es <strong>cambiar una caldera por aerotermia</strong>. Las placas solares fotovoltaicas no tienen ficha en el catálogo residencial. No hay un precio oficial: lo que cobres depende de la oferta que firmes.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Qué es un CAE y por qué una empresa te paga por tu ahorro.</li>
+<li>Qué obras de casa tienen ficha (aerotermia sí, placas solares no).</li>
+<li>Los pasos para cobrar y los plazos que no debes pasar.</li>
+<li>Cómo comparar ofertas con un ejemplo en euros.</li>
+<li>Qué hacer si tu obra son placas solares y no generan CAE.</li>
+</ul>
 
 <table class="keydata">
 <caption>Los CAE en cinco datos</caption>
@@ -59,7 +70,10 @@ fuentes:
 <li><a href="#ejemplo">Un ejemplo con números</a></li>
 <li><a href="#compatibilidad">CAE, IRPF y subvenciones</a></li>
 <li><a href="#compensa">Cuándo compensa</a></li>
+<li><a href="#placas">Si tu obra son placas solares</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
+<li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
 
@@ -140,10 +154,21 @@ fuentes:
 <p>Compensa casi siempre que cambies una caldera por aerotermia, porque el trámite lo hace la empresa y tú solo aportas documentos. Compensa menos en obras pequeñas, como un electrodoméstico, si la empresa cobra una comisión fija que se come gran parte del pago.</p>
 <p>Y no cuentes con los CAE para las placas solares fotovoltaicas: hoy no tienen ficha en el catálogo residencial.</p>
 
-<h2 id="errores">10. Errores frecuentes</h2>
+<h2 id="placas">10. Si tu obra son placas solares</h2>
+<p>Que las placas fotovoltaicas no generen CAE no significa que no tengan rebajas. Tienen otras, y algunas valen bastante más:</p>
+<ul>
+<li><strong>Deducción del IRPF</strong> del 40 % si la obra reduce al menos un 30 % el consumo de energía primaria no renovable: hasta 3.000 € en tu vivienda. Lo explico en la <a href="/subvenciones/deduccion-irpf-placas-solares/">deducción del IRPF</a>.</li>
+<li><strong>Bonificación del IBI</strong> en muchos ayuntamientos. En <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">Madrid</a>, por ejemplo, es del 50 % durante varios años.</li>
+<li><strong>El ahorro en la factura</strong>, que es lo que de verdad paga las placas. Tienes los números en el <a href="/placas-solares/precio-placas-solares/">precio de las placas solares</a>.</li>
+</ul>
+<p>Si además de las placas vas a cambiar la caldera por aerotermia, esa parte de la obra sí puede generar CAE. Antes, compara si te compensa con la guía de <a href="/aerotermia/aerotermia-vs-caldera-gas/">aerotermia o caldera de gas</a>.</p>
+<p><strong>Te puede interesar:</strong> <a href="/aerotermia/que-es-aerotermia-precio/">qué es la aerotermia, cuánto cuesta y cuánto se ahorra</a>.</p>
+
+<h2 id="errores">11. Errores frecuentes</h2>
 <ul>
 <li><strong>Aceptar la primera oferta.</strong> Compara siempre en euros por kWh y mira si es sobre el ahorro estimado o el certificado.</li>
-<li><strong>Perder los datos de la caldera vieja.</strong> La ficha de sustitución los necesita.</li>
+<li><strong>Perder los datos de la caldera vieja.</strong> La ficha de sustitución los necesita: haz fotos de la placa de características antes de que se la lleven.</li>
+<li><strong>Contar el pago como si fuera ahorro anual.</strong> El CAE se cobra una vez; el ahorro de la aerotermia es cada año y depende de <a href="/aerotermia/consumo-aerotermia-mes/">lo que consume al mes</a>.</li>
 <li><strong>Dejar pasar los tres años.</strong> Después ya no se puede registrar el CAE.</li>
 <li><strong>Creer que es una subvención.</strong> Es un contrato con una empresa: lee las comisiones y las condiciones de pago.</li>
 <li><strong>Esperar CAE por las placas fotovoltaicas.</strong> No hay ficha residencial para ellas.</li>
@@ -153,3 +178,6 @@ fuentes:
 <strong>Mi consejo</strong>
 <p>Si vas a cambiar la caldera por aerotermia, pide al menos tres ofertas de CAE antes de empezar la obra y compáralas por la misma unidad. Es dinero que muchas personas dejan sin cobrar por no saber que existe.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>Los CAE te permiten cobrar una vez por la energía que ahorras con una obra: cada certificado vale 1 kWh de ahorro y lo compran las empresas que venden energía. En casa, la obra que más CAE genera es cambiar una caldera por aerotermia; las placas fotovoltaicas no tienen ficha. No hay precio oficial, así que pide varias ofertas, compáralas en euros por kWh certificado y fírmalas antes de empezar la obra. Tienes tres años desde la actuación para registrarlos. Y súmalos al resto de rebajas que explico en las <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>.</p>
