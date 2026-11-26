@@ -4,7 +4,7 @@ h1: "Ayudas para placas solares y aerotermia en 2026: IRPF, IBI, ICIO, CAE y com
 descripcion: "Todas las ayudas para placas solares y aerotermia en 2026: deducción del IRPF, bonificaciones del IBI y del ICIO, certificados de ahorro (CAE) y ayudas autonómicas."
 categoria: subvenciones
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: true
 relacionados:
@@ -21,6 +21,8 @@ faq:
     a: "<p>Tras el Real Decreto-ley 7/2026, los tramos del 20 % y del 40 % valen para pagos hechos hasta el 31 de diciembre de 2026, y el del 60 % para obras en edificios residenciales, hasta el 31 de diciembre de 2027.</p>"
   - q: "¿Cuánto descuento da el ICIO por placas solares?"
     a: "<p>La Ley de Haciendas Locales permite a cada ayuntamiento aprobar una bonificación de hasta el 95 % del ICIO para obras que incorporen sistemas de aprovechamiento de la energía solar. El porcentaje real lo fija la ordenanza fiscal de tu municipio, y hay ayuntamientos que no la tienen.</p>"
+  - q: "¿Qué ayudas hay para la aerotermia en mi comunidad autónoma?"
+    a: "<p>En 2026 no hay una ayuda estatal directa para la aerotermia: las convocan las comunidades autónomas. De las que he comprobado en boletines oficiales, Andalucía admite solicitudes hasta el 30 de septiembre de 2027 (hasta el 50 % del coste), mientras que Navarra, Galicia y el País Vasco ya han cerrado las suyas de 2026. Mira siempre la convocatoria oficial de tu comunidad.</p>"
   - q: "¿Puedo pedir yo mismo los certificados de ahorro energético?"
     a: "<p>No directamente. Según el MITECO, solo pueden solicitar la emisión de CAE los sujetos obligados y los sujetos delegados. Lo habitual es que una de estas empresas te ofrezca una cantidad a cambio de que le cedas los ahorros de tu obra. Hazlo antes de empezar y por escrito.</p>"
 fuentes:
@@ -37,6 +39,14 @@ fuentes:
 ---
 
 <div class="answer"><p>En 2026 hay cuatro tipos de ayuda para placas solares y aerotermia: la <strong>deducción del IRPF</strong> del 20 %, 40 % o 60 % (pagos hasta el 31 de diciembre de 2026, y hasta el 31 de diciembre de 2027 en edificios), las <strong>bonificaciones municipales del IBI</strong> (hasta el 50 %) y del <strong>ICIO</strong> (hasta el 95 %), los <strong>certificados de ahorro energético (CAE)</strong>, que permiten cobrar por el ahorro de tu obra, y las <strong>convocatorias autonómicas</strong>. Se pueden combinar, pero cada una tiene sus requisitos y sus plazos.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Las cuatro ayudas de 2026 (IRPF, IBI, ICIO y CAE) y las de las comunidades autónomas.</li>
+<li>Cómo cambia el IBI entre Madrid, Barcelona y Valencia.</li>
+<li>Un ejemplo con números de cuánto pueden sumar las ayudas en una obra de 6.000 €.</li>
+<li>El orden correcto de los trámites para no perder ninguna.</li>
+</ul>
 
 <table class="keydata">
 <caption>Resumen rápido</caption>
@@ -61,8 +71,10 @@ fuentes:
 <li><a href="#ccaa">Ayudas de las comunidades autónomas</a></li>
 <li><a href="#compatibilidad">Qué se puede combinar</a></li>
 <li><a href="#ejemplo">Ejemplo: cuánto suman las ayudas en una obra</a></li>
+<li><a href="#casos">Qué ayudas te tocan según tu caso</a></li>
 <li><a href="#orden">El orden correcto para no perder ninguna</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -96,7 +108,7 @@ fuentes:
 </div>
 <p>Los plazos son los de la prórroga del <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6544" target="_blank" rel="noopener">Real Decreto-ley 7/2026</a>. Las claves para no perderla:</p>
 <ul>
-<li>Necesitas un <strong>certificado energético antes de la obra</strong> y otro <strong>después</strong>.</li>
+<li>Necesitas un <strong>certificado energético antes de la obra</strong> y otro <strong>después</strong>. Te explico plazos y requisitos en <a href="/subvenciones/certificado-energetico-irpf/">el certificado energético para el IRPF</a>.</li>
 <li>Los tramos del 20 % y del 40 % solo valen para la vivienda habitual o una vivienda alquilada. Las segundas residencias quedan fuera.</li>
 <li>No vale pagar en efectivo.</li>
 <li>Si recibes una subvención, se resta de la base de la deducción.</li>
@@ -106,7 +118,18 @@ fuentes:
 <h2 id="ibi">3. Bonificación del IBI</h2>
 <p>La <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214" target="_blank" rel="noopener">Ley Reguladora de las Haciendas Locales</a> (artículo 74.5) permite que cada ayuntamiento apruebe en su ordenanza fiscal una bonificación de <strong>hasta el 50 %</strong> del IBI para los inmuebles que instalen sistemas de aprovechamiento térmico o eléctrico de la energía solar.</p>
 <p>Es voluntaria: cada ayuntamiento decide si la da, qué porcentaje, cuántos años y con qué requisitos. Por ejemplo, en 2026 Madrid capital concede el 50 % durante 5 años, que pasan a 7 si la instalación incluye baterías. Otros municipios dan menos años, exigen pedirla antes de una fecha concreta o la limitan a casas unifamiliares.</p>
-<p>Tienes la tabla municipio por municipio, con enlace a cada ordenanza, en la guía de la <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">bonificación del IBI por placas solares en Madrid</a>.</p>
+<p>Así cambia en las tres ciudades que he revisado con su ordenanza fiscal vigente:</p>
+<div class="table-scroll">
+<table class="table">
+<thead><tr><th>Ciudad</th><th>Descuento en vivienda</th><th>Años</th><th>Lo que hay que vigilar</th></tr></thead>
+<tbody>
+<tr><td>Madrid capital</td><td>50 %</td><td>5 (7 si hay baterías)</td><td>Hay que solicitarla; no se aplica sola</td></tr>
+<tr><td>Barcelona</td><td>50 %</td><td>3</td><td>Pedirla en los 6 meses siguientes a solicitar la legalización; entre 6 y 12 meses solo 2 años, y después se pierde</td></tr>
+<tr><td>Valencia</td><td>50 % (25 % en otros usos)</td><td>De 10 a 1 según el valor catastral; nada por encima de 250.000 €</td><td>En total no más del 20 % del coste de la instalación, IVA incluido</td></tr>
+</tbody>
+</table>
+</div>
+<p>Tienes el detalle, con enlace a cada ordenanza, en las guías del IBI en <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">Madrid y alrededores</a>, en <a href="/subvenciones/bonificacion-ibi-placas-solares-barcelona/">Barcelona y su área metropolitana</a> y en <a href="/subvenciones/bonificacion-ibi-placas-solares-valencia/">Valencia</a>.</p>
 
 <h2 id="icio">4. Bonificación del ICIO</h2>
 <p>El ICIO es el impuesto municipal que se paga al hacer una obra. La misma ley (artículo 103.2) permite a los ayuntamientos aprobar una bonificación de <strong>hasta el 95 %</strong> para las construcciones u obras que incorporen sistemas de aprovechamiento térmico o eléctrico de la energía solar.</p>
@@ -121,6 +144,7 @@ fuentes:
 <li>La empresa tramita la verificación y el registro de los CAE y los usa para cumplir sus obligaciones de ahorro.</li>
 </ol>
 <p>El MITECO no fija un precio por kWh: lo que te paguen depende del acuerdo con la empresa. Por eso conviene pedir varias ofertas y firmar el acuerdo <strong>antes de hacer la obra</strong>.</p>
+<p>Un detalle importante: en una vivienda, la obra más habitual que genera CAE es cambiar una caldera por aerotermia. Las placas solares fotovoltaicas no tienen ficha en el catálogo residencial. Lo explico con las fichas y un ejemplo en <a href="/subvenciones/certificados-ahorro-energetico-cae/">los certificados de ahorro energético (CAE): cuánto te devuelven</a>.</p>
 <div class="callout">
 <strong>Novedad para la aerotermia</strong>
 <p>El 1 de julio de 2026 el MITECO sacó a audiencia pública una propuesta para multiplicar el valor de los ahorros cuando se sustituye una caldera de combustible fósil por una bomba de calor en una vivienda: por 2 en viviendas unifamiliares y pisos, por 3 en bloques con calefacción central y por 4 si se cambian calderas individuales por una bomba de calor central, con un 1,5 extra en hogares vulnerables severos. Es una propuesta: comprueba si se ha aprobado antes de contar con ella.</p>
@@ -134,7 +158,7 @@ fuentes:
 <li>Comprueba siempre la <strong>convocatoria oficial</strong> en el boletín de tu comunidad: plazos, quién puede pedirla, si la obra puede haber empezado y con qué otras ayudas es compatible.</li>
 <li>Desconfía de las webs que anuncian «hasta X euros» sin enlazar a la convocatoria.</li>
 </ul>
-<p>Iré publicando las ayudas de cada comunidad con enlace a su convocatoria a medida que las revise.</p>
+<p>Para la aerotermia ya he revisado varias en sus boletines oficiales. A fecha de esta guía, Andalucía admite solicitudes hasta el 30 de septiembre de 2027, con ayudas de hasta el 50 % del coste. Navarra (500 € por kW, hasta 4.000 €), Galicia (50 %, hasta 2.500 €) y el País Vasco ya han cerrado sus convocatorias de 2026. Las tienes con enlace a cada boletín en <a href="/subvenciones/ayudas-aerotermia-comunidades/">ayudas para aerotermia por comunidad autónoma</a>.</p>
 
 <h2 id="compatibilidad">7. Qué se puede combinar</h2>
 <ul>
@@ -155,21 +179,42 @@ fuentes:
 </ul>
 <p>En total, unos <strong>3.880 €</strong> de ayudas sobre una obra de 6.000 €, sin contar el ahorro en la factura de la luz. Si la familia hubiera recibido además una subvención autonómica, esa cantidad se restaría de la base del IRPF.</p>
 
-<h2 id="orden">9. El orden correcto para no perder ninguna</h2>
+<h2 id="casos">9. Qué ayudas te tocan según tu caso</h2>
+<p>No todas las ayudas sirven para todo el mundo. Estos son los tres casos más habituales, con los tramos oficiales del IRPF de 2026:</p>
+<h3>Tienes una casa y vas a poner placas solares</h3>
+<ul>
+<li><strong>IRPF del 40 %</strong> si los certificados demuestran que reduces al menos un 30 % el consumo de energía primaria no renovable, o consigues la letra A o B. Base máxima de 7.500 € al año: como mucho, 3.000 € de deducción. Pagos hasta el 31 de diciembre de 2026.</li>
+<li><strong>IBI e ICIO</strong> según la ordenanza de tu ayuntamiento.</li>
+<li><strong>CAE:</strong> normalmente no, porque la fotovoltaica no tiene ficha en el catálogo residencial.</li>
+</ul>
+<h3>Vas a cambiar la caldera por aerotermia</h3>
+<ul>
+<li><strong>IRPF del 20 % o del 40 %</strong>, según cuánto mejore el certificado. El del 20 % pide reducir al menos un 7 % la demanda de calefacción y refrigeración, con una base máxima de 5.000 € al año (1.000 € de deducción).</li>
+<li><strong>CAE:</strong> sí, es la obra que más los genera en una vivienda.</li>
+<li><strong>Ayuda autonómica</strong> si tu comunidad tiene una convocatoria abierta. Si la cobras, se resta de la base del IRPF.</li>
+</ul>
+<h3>Vives en un piso y la obra la hace la comunidad</h3>
+<ul>
+<li><strong>IRPF del 60 %</strong> para obras en edificios de uso predominantemente residencial que consigan la misma mejora del 30 % o la letra A o B. Base máxima de 5.000 € al año y 15.000 € acumulados. En edificios, los pagos valen hasta el 31 de diciembre de 2027.</li>
+<li>Cada vecino se deduce la parte que le toca pagar. Para los acuerdos y las mayorías de la junta, mira <a href="/placas-solares/placas-solares-comunidad-vecinos/">placas solares en una comunidad de vecinos</a>.</li>
+</ul>
+<p>Una regla para los tres casos: la vivienda tiene que ser la habitual o una alquilada para el 20 % y el 40 %. Las segundas residencias y las viviendas turísticas no valen.</p>
+
+<h2 id="orden">10. El orden correcto para no perder ninguna</h2>
 <ol>
 <li><strong>Certificado energético inicial</strong>, antes de firmar nada.</li>
 <li><strong>Revisa las ordenanzas</strong> del IBI y del ICIO de tu ayuntamiento y la convocatoria de tu comunidad.</li>
 <li><strong>Pide presupuestos</strong> y, si te interesa, ofertas por los CAE.</li>
 <li><strong>Presenta la licencia o comunicación de obra</strong> pidiendo ya la bonificación del ICIO.</li>
 <li><strong>Haz la obra y paga</strong> con transferencia o tarjeta, nunca en efectivo.</li>
-<li><strong>Legaliza la instalación</strong> y activa la compensación de excedentes con tu comercializadora.</li>
+<li><strong>Legaliza la instalación</strong> y activa la compensación de excedentes con tu comercializadora. Los papeles y los plazos están en <a href="/placas-solares/legalizar-placas-solares/">cómo legalizar placas solares paso a paso</a>.</li>
 <li><strong>Certificado energético final.</strong></li>
 <li><strong>Pide la bonificación del IBI</strong> en el plazo de la ordenanza.</li>
 <li><strong>Aplica la deducción</strong> en la declaración de la Renta.</li>
 </ol>
 <p>Y para que la instalación rinda, elige bien la tarifa: lo explico en la guía de <a href="/tarifas-luz/tarifas-luz-compensacion-excedentes/">tarifas con compensación de excedentes</a>.</p>
 
-<h2 id="errores">10. Errores frecuentes</h2>
+<h2 id="errores">11. Errores frecuentes</h2>
 <ul>
 <li><strong>Empezar la obra sin el certificado energético previo.</strong> Sin él, no hay deducción del IRPF.</li>
 <li><strong>Pagar en efectivo.</strong> Hacienda no lo acepta para la deducción.</li>
@@ -178,3 +223,6 @@ fuentes:
 <li><strong>Dar por hecho que una ayuda autonómica sigue abierta.</strong> Comprueba la convocatoria oficial.</li>
 <li><strong>Contar con la deducción sin mirar tu cuota del IRPF.</strong> Si pagas pocos impuestos, la deducción real puede ser menor.</li>
 </ul>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>Las ayudas pueden pagar más de la mitad de una instalación de placas solares, pero solo si las pides en el orden correcto. La deducción del IRPF es la más grande y la más fácil de perder: sin el certificado energético previo, o pagando en efectivo, no hay deducción. El IBI y el ICIO dependen de tu ayuntamiento, así que lee la ordenanza antes de presentar la obra. Los CAE sirven sobre todo para la aerotermia, y las ayudas autonómicas abren y cierran cada año. Antes de firmar un presupuesto, saca el certificado inicial, apunta los plazos de tu municipio y pide al instalador que lo incluya todo por escrito. Si todavía estás decidiendo el tamaño, empieza por el <a href="/placas-solares/precio-placas-solares/">precio de las placas solares en 2026</a> o por <a href="/aerotermia/que-es-aerotermia-precio/">qué es la aerotermia y cuánto cuesta</a>.</p>
