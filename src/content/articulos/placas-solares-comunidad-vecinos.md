@@ -4,7 +4,7 @@ h1: "Placas solares en un piso o comunidad de vecinos: cómo hacerlo legalmente"
 descripcion: "Qué mayoría necesitas en la junta para poner placas solares en el tejado de tu comunidad, quién paga, cómo funciona el autoconsumo colectivo y los pasos del IDAE, con un ejemplo de 10 vecinos."
 categoria: placas-solares
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -21,6 +21,10 @@ faq:
     a: "<p>La ley prevé también sistemas de energías renovables de uso privativo con la misma regla del tercio. En la práctica, necesitas un acuerdo de la junta para usar el tejado. Si no hay acuerdo, un kit solar de balcón puede ser una alternativa.</p>"
   - q: "¿Cómo se reparte la energía entre los vecinos?"
     a: "<p>Con unos coeficientes de reparto que firman todos los participantes: a partes iguales, por cuotas, por lo que aporta cada uno o por consumo. La suma de todos los coeficientes debe ser 1, según la guía del IDAE.</p>"
+  - q: "¿Cuánto cuesta poner placas solares en una comunidad de vecinos?"
+    a: "<p>Depende de la potencia y del tejado. Como orientación, con el precio medio de una instalación doméstica del InformeSolar 2025 (unos 1,2 € por vatio), 15 kWp costarían unos 18.000 €. En un edificio de 10 viviendas serían unos 1.800 € por vivienda antes de ayudas y desgravaciones. Pide siempre tres presupuestos.</p>"
+  - q: "¿Puedo desgravar en la renta las placas de la comunidad?"
+    a: "<p>Sí, si la obra mejora la eficiencia energética del edificio y se acredita con certificados energéticos antes y después. La deducción es del 60 % de lo que pagas, con una base máxima de 5.000 € al año y 15.000 € en total, para obras hasta el 31 de diciembre de 2027.</p>"
 fuentes:
   - nombre: "BOE — Ley 49/1960, de Propiedad Horizontal (texto consolidado, artículo 17)"
     url: "https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906"
@@ -35,6 +39,15 @@ fuentes:
 ---
 
 <div class="answer"><p>Para poner placas solares en el tejado de tu comunidad no hace falta unanimidad. Según el <strong>artículo 17 de la Ley de Propiedad Horizontal</strong>, basta con que lo apruebe <strong>un tercio de los propietarios</strong> que representen un tercio de las cuotas, y entonces solo pagan quienes votan a favor. Si es de uso común y su coste anual, descontadas las ayudas, no supera <strong>doce mensualidades</strong> de gastos comunes, basta la <strong>mayoría simple</strong> y pagan todos. La energía se reparte entre los vecinos con <strong>coeficientes</strong> que firman todos los participantes.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Qué mayoría necesitas en la junta y quién paga en cada caso.</li>
+<li>La diferencia entre uso común y autoconsumo colectivo.</li>
+<li>Los seis pasos del IDAE, del acta al alta en la distribuidora.</li>
+<li>Un ejemplo con 10 vecinos: coste, ahorro y años de amortización.</li>
+<li>Las desgravaciones que se suman en un edificio y cómo preparar la junta.</li>
+</ul>
 
 <table class="keydata">
 <caption>Resumen rápido</caption>
@@ -54,8 +67,11 @@ fuentes:
 <li><a href="#colectivo">Cómo funciona el autoconsumo colectivo</a></li>
 <li><a href="#pasos">Los pasos, según el IDAE</a></li>
 <li><a href="#ejemplo">Ejemplo con 10 vecinos</a></li>
+<li><a href="#ayudas">Ayudas y desgravaciones para la comunidad</a></li>
+<li><a href="#junta">Cómo preparar la junta</a></li>
 <li><a href="#compensa">Cuándo compensa</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -123,7 +139,29 @@ fuentes:
 </ul>
 <p>Si la cuota ordinaria de la comunidad es de 60 € al mes, doce mensualidades son 720 €. Los 1.800 € por vivienda superan ese límite, así que, salvo que las ayudas lo rebajen o se financie, la vía sería la regla del tercio, y solo pagarían y se beneficiarían los vecinos que votan a favor. Tienes el método completo en la guía de la <a href="/placas-solares/amortizacion-placas-solares/">amortización de las placas solares</a>.</p>
 
-<h2 id="compensa">7. Cuándo compensa</h2>
+<h2 id="ayudas">7. Ayudas y desgravaciones para la comunidad</h2>
+<p>En un edificio, el ahorro de la factura no es lo único que cuenta. Hay tres vías que pueden rebajar el coste por vivienda:</p>
+<ul>
+<li><strong>Deducción del IRPF del 60 %</strong> para obras que mejoran la eficiencia energética de todo el edificio, hasta 5.000 € de base al año y 15.000 € en total por vivienda, para obras hasta el 31 de diciembre de 2027. Exige certificado energético antes y después de la obra. Lo explico en la guía de la <a href="/subvenciones/deduccion-irpf-placas-solares/">deducción del IRPF por placas solares</a>.</li>
+<li><strong>Bonificación del IBI</strong>, si tu ayuntamiento la tiene. Las condiciones cambian mucho de una ciudad a otra: compara la de <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">Madrid</a> con la de <a href="/subvenciones/bonificacion-ibi-placas-solares-barcelona/">Barcelona</a>.</li>
+<li><strong>Ayudas de la comunidad autónoma</strong> para rehabilitación y autoconsumo, que cambian según la convocatoria. Tienes la lista general en las <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>.</li>
+</ul>
+<p>En el ejemplo anterior, con 1.800 € por vivienda, la deducción del 60 % podría bajar el coste neto de cada vecino que la aplique a unos 720 € (1.800 − 60 % de 1.800). Con ese coste, los 250 € de ahorro al año recuperarían la inversión en menos de tres años. Es una cuenta orientativa: depende de que la obra cumpla los requisitos del certificado energético y de la renta de cada vecino.</p>
+<p><strong>Te puede interesar:</strong> <a href="/subvenciones/ayudas-aerotermia-comunidades/">ayudas para poner aerotermia en una comunidad de vecinos</a>.</p>
+
+<h2 id="junta">8. Cómo preparar la junta</h2>
+<p>La mayoría de las propuestas se caen en la junta por falta de datos, no por falta de votos. Para llevarla preparada:</p>
+<ol>
+<li><strong>Pide al presidente o al administrador que incluya el punto en el orden del día</strong>, con un texto claro: «Instalación de placas solares para autoconsumo colectivo según el artículo 17 de la Ley de Propiedad Horizontal».</li>
+<li><strong>Lleva tres presupuestos</strong> con la potencia, la producción estimada y el precio por vivienda.</li>
+<li><strong>Calcula el ahorro por vivienda</strong> con un supuesto prudente de autoconsumo, como en el ejemplo. Puedes usar la <a href="/calculadoras/">calculadora solar</a> como referencia para un piso.</li>
+<li><strong>Explica qué pasa con quien no participa</strong>: no paga y puede sumarse después.</li>
+<li><strong>Propón el criterio de reparto</strong> (a partes iguales, por cuotas o por consumo) para que no se quede para otra junta.</li>
+<li><strong>Pide que el acta recoja el nombre de cada vecino que vota a favor</strong>, porque eso decide quién paga y quién recibe energía.</li>
+</ol>
+<p>Si en la junta preguntan qué pasa con lo que sobra, el excedente se compensa en la factura de cada participante según su coeficiente. Lo tienes explicado en <a href="/tarifas-luz/excedentes-placas-solares-precio/">cuánto pagan por los excedentes</a>.</p>
+
+<h2 id="compensa">9. Cuándo compensa</h2>
 <ul>
 <li><strong>Compensa más</strong> si el tejado tiene buena orientación y sin sombras, si hay vecinos en casa de día y si la comunidad aprovecha las ayudas. Las tienes en la guía de <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>.</li>
 <li><strong>Para usos comunes</strong>, compensa en edificios con ascensor, garaje o mucha iluminación común que funcione de día.</li>
@@ -131,7 +169,7 @@ fuentes:
 <li><strong>Si la comunidad no se pone de acuerdo</strong>, un <a href="/placas-solares/kit-solar-balcon/">kit solar de balcón</a> puede ser una alternativa para tu piso.</li>
 </ul>
 
-<h2 id="errores">8. Errores frecuentes</h2>
+<h2 id="errores">10. Errores frecuentes</h2>
 <ul>
 <li><strong>Pensar que hace falta unanimidad.</strong> Basta un tercio.</li>
 <li><strong>No dejar claro en el acta quién vota a favor</strong> y, por tanto, quién paga y quién participa.</li>
@@ -144,3 +182,6 @@ fuentes:
 <strong>Mi consejo</strong>
 <p>Antes de llevarlo a la junta, consigue tres presupuestos y una estimación de ahorro por vivienda. Con números concretos es mucho más fácil que un tercio de los vecinos se apunte, y el acta quedará clara desde el principio.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>Para poner placas solares en tu comunidad no necesitas convencer a todos: basta un tercio de los propietarios y de las cuotas, y entonces solo pagan y se benefician quienes votan a favor. Si la instalación es para toda la comunidad y el coste anual, con ayudas, cabe en doce mensualidades, basta la mayoría simple. La energía se reparte con coeficientes que firman los participantes, y el excedente se compensa en la factura de cada uno. Lleva a la junta tres presupuestos, el ahorro por vivienda y una propuesta de reparto, y deja en el acta quién vota a favor. Si quieres ver cuánto cuesta una instalación por vatio, mira el <a href="/placas-solares/precio-placas-solares/">precio de las placas solares</a>.</p>
