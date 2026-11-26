@@ -165,7 +165,7 @@ fuentes:
 <ul>
 <li>El tejado está orientado al sur, al este o al oeste y sin sombras.</li>
 <li>Consumes una parte importante de la luz durante el día.</li>
-<li>Puedes aprovechar la deducción del IRPF y la bonificación del IBI de tu municipio.</li>
+<li>Puedes aprovechar la <a href="/subvenciones/deduccion-irpf-placas-solares/">deducción del IRPF</a> y la bonificación del IBI de tu municipio.</li>
 <li>Vas a quedarte en la casa muchos años.</li>
 </ul>
 <p><strong>Compensan menos si:</strong></p>
