@@ -4,7 +4,7 @@ h1: "Legalizar placas solares en España: boletín, CIE y trámites paso a paso"
 descripcion: "Los trámites para legalizar unas placas solares en casa: memoria técnica, permiso municipal e ICIO, permisos de acceso, certificado de instalación eléctrica (CIE), registro y compensación de excedentes, según la guía del IDAE."
 categoria: placas-solares
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -24,6 +24,8 @@ faq:
     a: "<p>No en los casos más habituales de una casa: las instalaciones sin excedentes están exentas, y las que tienen excedentes también si no pasan de 15 kW y están en suelo urbanizado.</p>"
   - q: "¿Tengo que inscribirme yo en el registro de autoconsumo?"
     a: "<p>En baja tensión y por debajo de 100 kW, la comunidad autónoma hace la inscripción de oficio con los datos del certificado de instalación. No tienes que hacer un trámite aparte.</p>"
+  - q: "¿Cuánto tarda en activarse la compensación después de instalar?"
+    a: "<p>Según la guía del IDAE, una vez que el instalador registra el CIE, la comunidad autónoma envía los datos a la distribuidora en 10 días y esta modifica el contrato de acceso en 5 días. A eso se suma lo que tarde tu comercializadora en aplicar la compensación. Cuenta con algunas semanas y revisa la primera factura.</p>"
 fuentes:
   - nombre: "IDAE — Guía IDAE 021: Guía profesional de tramitación del autoconsumo (edición v.6, julio de 2024)"
     url: "https://libreria.miteco.gob.es/ebook/416/free_download"
@@ -34,6 +36,15 @@ fuentes:
 ---
 
 <div class="answer"><p>Para legalizar unas placas solares en una vivienda normal (en baja tensión y hasta 10 kW) necesitas cinco cosas: una <strong>memoria técnica de diseño</strong> que hace el instalador, el <strong>permiso municipal</strong> (declaración responsable, comunicación previa o licencia, según tu ayuntamiento) con su ICIO, el <strong>código CAU</strong> de la distribuidora, el <strong>Certificado de Instalación Eléctrica (CIE)</strong> o boletín, y el cambio de contrato para compensar excedentes. Los permisos de acceso y conexión no hacen falta si no viertes excedentes o si tu instalación tiene hasta 15 kW en suelo urbanizado, y el registro lo hace de oficio la comunidad autónoma.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>La diferencia entre instalar con o sin excedentes, y por qué decide los trámites.</li>
+<li>Cuándo basta una memoria técnica y cuándo hace falta proyecto.</li>
+<li>El permiso del ayuntamiento, el ICIO y cuándo no necesitas permisos de acceso.</li>
+<li>Quién hace cada trámite, con un resumen paso a paso.</li>
+<li>Los documentos que debes guardar y los errores que más cuestan.</li>
+</ul>
 
 <table class="keydata">
 <caption>Los trámites de unas placas en casa (baja tensión, hasta 10 kW)</caption>
@@ -56,7 +67,10 @@ fuentes:
 <li><a href="#contrato">El contrato y la compensación de excedentes</a></li>
 <li><a href="#resumen">Resumen paso a paso</a></li>
 <li><a href="#ejemplo">Un ejemplo con números</a></li>
+<li><a href="#guardar">Los documentos que debes guardar</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
+<li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
 
@@ -139,7 +153,21 @@ fuentes:
 </ul>
 <p>La diferencia entre pedir o no la bonificación del ICIO, en este supuesto, es de 228 €: pregunta siempre si tu ayuntamiento la tiene y cuándo hay que pedirla.</p>
 
-<h2 id="errores">10. Errores frecuentes</h2>
+<h2 id="guardar">10. Los documentos que debes guardar</h2>
+<p>Cuando la instalación esté terminada, pide al instalador una copia de todo y guárdala en una carpeta, en papel y en digital. Te hará falta para las bonificaciones, para la Renta, para reclamar una garantía y si algún día vendes la casa:</p>
+<ul>
+<li>La <strong>memoria técnica de diseño</strong> o el proyecto.</li>
+<li>El <strong>permiso municipal</strong> presentado y el justificante de pago del ICIO, con la bonificación si la pediste.</li>
+<li>El <strong>código CAU</strong> de la instalación.</li>
+<li>El <strong>CIE (boletín)</strong> con el sello o justificante de registro de la comunidad autónoma.</li>
+<li>El <strong>contrato de compensación de excedentes</strong> o la primera factura en la que ya aparece la compensación.</li>
+<li>Las <strong>facturas y los justificantes de pago por banco</strong> de la instalación, que necesitas para la <a href="/subvenciones/deduccion-irpf-placas-solares/">deducción del IRPF</a>.</li>
+<li>Las <strong>fichas técnicas y garantías</strong> de los paneles, el inversor y, si la hay, la batería.</li>
+</ul>
+<p>Revisa la primera factura después del alta: si no aparece la línea de excedentes compensados, reclama a tu comercializadora. Cuánto te deberían pagar lo tienes en <a href="/tarifas-luz/excedentes-placas-solares-precio/">el precio de los excedentes</a>.</p>
+<p><strong>Te puede interesar:</strong> <a href="/placas-solares/precio-placas-solares/">cuánto cuestan las placas solares en 2026</a>, con la legalización incluida en el presupuesto.</p>
+
+<h2 id="errores">11. Errores frecuentes</h2>
 <ul>
 <li><strong>Empezar la obra sin el permiso municipal.</strong> Aunque la declaración responsable permita empezar de inmediato, hay que presentarla antes.</li>
 <li><strong>No pedir la bonificación del ICIO a tiempo.</strong> Muchos ayuntamientos la piden con la solicitud de la obra.</li>
@@ -153,3 +181,6 @@ fuentes:
 <strong>Mi consejo</strong>
 <p>Pide que el presupuesto del instalador incluya por escrito toda la legalización: memoria técnica, CAU, CIE y la gestión con la distribuidora. Tú encárgate de dos cosas que nadie hará por ti: comprobar el permiso de tu ayuntamiento y pedir las bonificaciones del ICIO y del IBI.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>Legalizar unas placas solares en una vivienda es más sencillo de lo que parece si el instalador se encarga de la parte técnica: memoria técnica, código CAU y boletín. Tú tienes que asegurarte de presentar el permiso municipal antes de empezar, pedir a tiempo las bonificaciones del ICIO y del IBI y comprobar que la compensación de excedentes aparece en tu factura. Hasta 15 kW en suelo urbanizado no necesitas permisos de acceso y conexión, y el registro lo hace de oficio la comunidad autónoma. Pide que el presupuesto incluya toda la legalización por escrito y guarda cada documento.</p>

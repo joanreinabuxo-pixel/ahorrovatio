@@ -4,7 +4,7 @@ h1: "Ayudas para aerotermia por comunidad autónoma en 2026: qué hay abierto y 
 descripcion: "Las ayudas autonómicas para instalar aerotermia en 2026, comprobadas en los boletines oficiales: Andalucía, Navarra, Galicia y País Vasco, con importes, plazos y cómo combinarlas con el IRPF."
 categoria: subvenciones
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -22,6 +22,10 @@ faq:
     a: "<p>Sí, pero la subvención se descuenta de la base de la deducción del IRPF. Solo te deduces por la parte que pagas tú.</p>"
   - q: "¿Dónde busco las ayudas de mi comunidad?"
     a: "<p>En la web de la agencia de la energía de tu comunidad y en su boletín oficial. También en la Base de Datos Nacional de Subvenciones (BDNS), donde cada convocatoria tiene un número propio.</p>"
+  - q: "¿Hay ayudas para poner aerotermia en un edificio de vecinos?"
+    a: "<p>Sí. Las convocatorias de Andalucía y Navarra y el programa del EVE admitían a comunidades de propietarios; la de Navarra llegaba hasta 100.000 € por instalación colectiva. Además, cada propietario puede aplicar la deducción del IRPF del 60 % para obras en edificios residenciales, con pagos hasta el 31 de diciembre de 2027.</p>"
+  - q: "¿La ayuda se pide antes o después de instalar la aerotermia?"
+    a: "<p>Depende de la convocatoria. Algunas exigen presentar la solicitud antes de empezar la obra y otras se tramitan a través del instalador adherido, como la de Galicia de 2026. Lee la convocatoria de tu comunidad antes de firmar el contrato con el instalador.</p>"
 fuentes:
   - nombre: "BOJA núm. 187, de 25/09/2026 — Convocatoria de incentivos para el uso eficiente de la energía en el sector residencial (Agencia Andaluza de la Energía), resolución de 21/09/2026"
     url: "https://www.juntadeandalucia.es/boja/2026/187/BOJA26-187-00028-12408-01_00343638.pdf"
@@ -38,6 +42,15 @@ fuentes:
 ---
 
 <div class="answer"><p>En 2026 no hay una ayuda estatal directa para la aerotermia: las subvenciones las convocan las <strong>comunidades autónomas</strong>, cada una con sus importes y plazos. De las que he comprobado en boletines oficiales, <strong>Andalucía</strong> admite solicitudes hasta el 30 de septiembre de 2027 (hasta el 50 % del coste), mientras que <strong>Navarra</strong> (500 €/kW, hasta 4.000 €), <strong>Galicia</strong> (50 %, hasta 2.500 €) y el <strong>País Vasco</strong> ya han cerrado sus convocatorias de 2026. A cualquier ayuda autonómica se le puede sumar la deducción del IRPF, restando la subvención de la base.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Las ayudas autonómicas para aerotermia comprobadas en boletines oficiales.</li>
+<li>Importes y plazos de Andalucía, Navarra, Galicia y el País Vasco.</li>
+<li>Cómo buscar la de tu comunidad en diez minutos.</li>
+<li>Cómo se suma con la deducción del IRPF, con tres ejemplos en euros.</li>
+<li>Qué cambia si la obra es de una comunidad de vecinos.</li>
+</ul>
 
 <table class="keydata">
 <caption>Ayudas autonómicas para aerotermia comprobadas (a 24/11/2026)</caption>
@@ -59,8 +72,11 @@ fuentes:
 <li><a href="#resto">El resto de comunidades: cómo buscar</a></li>
 <li><a href="#irpf">Cómo se combina con el IRPF</a></li>
 <li><a href="#ejemplos">Ejemplos con números</a></li>
+<li><a href="#vecinos">Si la obra es de una comunidad de vecinos</a></li>
 <li><a href="#compensa">Cuándo compensa esperar a una ayuda</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
+<li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
 
@@ -106,7 +122,7 @@ fuentes:
 <p>El Ente Vasco de la Energía (EVE) tenía un programa de ayudas para el autoconsumo y la <strong>electrificación de los consumos térmicos</strong>, que incluía bombas de calor de aerotermia para personas físicas y comunidades de propietarios. Su fecha límite era el 30 de septiembre de 2026, o antes si se agotaba el presupuesto. El 9 de septiembre de 2026 el EVE avisó de que el dinero estaba a punto de agotarse y anunció un programa nuevo. Si vives en Euskadi, revisa su web antes de contratar.</p>
 
 <h2 id="resto">6. El resto de comunidades: cómo buscar</h2>
-<p>Para el resto de comunidades no doy importes porque no he podido leer una convocatoria oficial vigente. Te explico cómo comprobarlo tú en diez minutos:</p>
+<p>Si quieres ver todas las rebajas juntas, también las de placas solares, tienes la guía principal de <a href="/subvenciones/ayudas-placas-solares-aerotermia/">ayudas para placas solares y aerotermia</a>. Para el resto de comunidades no doy importes porque no he podido leer una convocatoria oficial vigente. Te explico cómo comprobarlo tú en diez minutos:</p>
 <ol>
 <li>Entra en la web de la <strong>agencia de la energía</strong> de tu comunidad y busca «aerotermia» o «bomba de calor».</li>
 <li>Busca la convocatoria en el <strong>boletín oficial</strong> autonómico y mira tres cosas: quién puede pedirla, el importe y el plazo.</li>
@@ -134,20 +150,34 @@ fuentes:
 <p>Fíjate en el caso de Navarra: como la ayuda autonómica baja lo que pagas por debajo del tope de 7.500 €, la deducción del IRPF también baja (6.700 × 40 % = 2.680 €). Aun así, el total de ayudas es el más alto de los tres casos. En los otros dos, lo que pagas supera el tope y la deducción se queda en el máximo de 3.000 €.</p>
 <p>Las tres cuentas suponen que tu cuota estatal del IRPF es suficiente para aplicar toda la deducción y que el certificado energético da el tramo del 40 %.</p>
 
-<h2 id="compensa">9. Cuándo compensa esperar a una ayuda</h2>
+<h2 id="vecinos">9. Si la obra es de una comunidad de vecinos</h2>
+<p>Varias de las convocatorias que he revisado admiten a <strong>comunidades de propietarios</strong>: la de Andalucía, la de Navarra (hasta 100.000 € por instalación colectiva) y el programa del EVE. Para un edificio con calefacción central de gasóleo, una aerotermia común puede ser la obra con más ayudas de todas, porque se suman tres cosas:</p>
+<ul>
+<li><strong>La ayuda autonómica</strong> para instalaciones colectivas, si hay convocatoria abierta.</li>
+<li><strong>La deducción del IRPF del 60 %</strong> para obras en edificios residenciales, con una base de 5.000 € al año y 15.000 € en total por vivienda, para pagos hasta el 31 de diciembre de 2027. Es el único tramo con plazo hasta 2027.</li>
+<li><strong>Los CAE</strong> por sustituir la caldera.</li>
+</ul>
+<p>Para aprobarla en la junta, la Ley de Propiedad Horizontal permite instalar aerotermia con el voto de un tercio de los propietarios, igual que las placas solares. Lo explico paso a paso en <a href="/placas-solares/placas-solares-comunidad-vecinos/">placas solares en una comunidad de vecinos</a>; las mayorías y los pasos sirven igual para la aerotermia.</p>
+<p><strong>Te puede interesar:</strong> <a href="/aerotermia/aerotermia-vs-caldera-gas/">aerotermia o caldera de gas: qué gasta menos</a>, antes de decidir si la obra compensa sin ayudas.</p>
+
+<h2 id="compensa">10. Cuándo compensa esperar a una ayuda</h2>
 <p>Compensa esperar si tu comunidad tiene una convocatoria anunciada o abierta y la ayuda se pide antes de la obra. Con 2.500 o 4.000 € en juego, unas semanas de espera tienen sentido.</p>
 <p>No compensa tanto si no hay nada abierto y tu obra es en una vivienda: la deducción del IRPF exige pagos hasta el 31 de diciembre de 2026, y esperar una convocatoria hipotética puede hacerte perder una ayuda segura de hasta 3.000 €.</p>
 
-<h2 id="errores">10. Errores frecuentes</h2>
+<h2 id="errores">11. Errores frecuentes</h2>
 <ul>
 <li><strong>Fiarse de listas sin fuente.</strong> Muchas webs repiten importes de convocatorias ya cerradas.</li>
 <li><strong>Empezar la obra antes de pedir la ayuda</strong> cuando la convocatoria lo exige al revés.</li>
 <li><strong>No mirar la zona.</strong> La de Galicia, por ejemplo, solo valía en parroquias rurales o intermedias.</li>
 <li><strong>Olvidar restar la subvención en la Renta.</strong> Deducirse sobre el precio completo es un error que Hacienda puede corregir.</li>
 <li><strong>Elegir un equipo que no cumple.</strong> Algunas excluyen los equipos aire-aire o piden un rendimiento mínimo.</li>
+<li><strong>Pensar solo en la ayuda y no en el equipo.</strong> Una ayuda no arregla un equipo mal elegido para tus radiadores: mira antes <a href="/aerotermia/aerotermia-radiadores-convencionales/">si la aerotermia funciona con tus radiadores</a> y <a href="/aerotermia/que-es-aerotermia-precio/">cuánto se ahorra de verdad</a>.</li>
 </ul>
 
 <div class="callout">
 <strong>Mi consejo</strong>
 <p>Primero mira si tu comunidad tiene una convocatoria abierta en su boletín oficial. Si no la hay y la obra es en tu vivienda, no esperes: asegura la deducción del IRPF antes de que acabe 2026 y suma los CAE si tu instalador los tramita.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>Las ayudas para aerotermia las dan las comunidades autónomas, cada una con su importe y su plazo, y muchas convocatorias de 2026 ya han cerrado. De las que he comprobado, Andalucía sigue abierta hasta el 30 de septiembre de 2027 si no se agota antes. Si tu comunidad no tiene nada abierto y la obra es en tu vivienda, la ayuda segura es la deducción del IRPF, con pagos hasta el 31 de diciembre de 2026, más los CAE. Si es un edificio, el tramo del 60 % llega a 2027. Antes de contratar, mira el boletín oficial de tu comunidad y no firmes nada hasta saber si la ayuda se pide antes de la obra.</p>
