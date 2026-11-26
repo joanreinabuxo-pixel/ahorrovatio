@@ -4,7 +4,7 @@ h1: "¿Merece la pena poner batería física en 2026 o es mejor la batería virt
 descripcion: "Batería física o virtual para tus placas solares: qué hace cada una, cuánto cuestan, cuántos años tarda en pagarse una batería y en qué casos compensa cada opción, con números."
 categoria: placas-solares
 fecha: 2026-11-24
-actualizado: 2026-11-24
+actualizado: 2026-11-26
 publicado: true
 pilar: false
 relacionados:
@@ -20,6 +20,10 @@ faq:
     a: "<p>Según la OCU, muchas comercializadoras la ofrecen sin coste adicional y otras cobran una cuota de entre 2 y 5 € al mes. Endesa, por ejemplo, cobra 2 € al mes. Algunas limitan la caducidad del saldo a 2 o 5 años.</p>"
   - q: "¿Con batería física tengo luz en un apagón?"
     a: "<p>No necesariamente. La OCU advierte que la mayoría de instalaciones conectadas a la red se apagan durante un corte. Para tener luz en un apagón el equipo tiene que estar preparado para funcionar aislado. Pregúntalo al instalador.</p>"
+  - q: "¿La batería física da años extra de bonificación del IBI?"
+    a: "<p>Depende del municipio. En Madrid capital, la ordenanza de 2026 suma dos años a los cinco de bonificación del 50 % si la instalación incluye baterías, también si se añaden después. En Barcelona, en cambio, las baterías no cuentan en el coste de la instalación que limita la bonificación.</p>"
+  - q: "¿Qué capacidad de batería necesito?"
+    a: "<p>La que puedas llenar con tu excedente diario y vaciar con tu consumo de noche. Mira en el área de tu distribuidora cuánto consumes de noche y en tu factura de verano cuánto viertes. Si una de las dos cifras es pequeña, una batería grande no se aprovechará.</p>"
 fuentes:
   - nombre: "OCU — Baterías físicas para sistemas solares (12/03/2026)"
     url: "https://www.ocu.org/vivienda-y-energia/paneles-fotovoltaicos/consejos/baterias-fisicas-sistemas-solares"
@@ -34,6 +38,14 @@ fuentes:
 ---
 
 <div class="answer"><p>Para la mayoría de casas con placas, en 2026 lo que mejor compensa es la <strong>batería virtual</strong>: según la OCU, muchas comercializadoras la dan sin coste y otras cobran <strong>2–5 € al mes</strong>. Una <strong>batería física</strong> de litio dura unos <strong>15-20 años</strong> según la OCU, pero en mi ejemplo, con un precio supuesto de 4.500 € y 3 kWh aprovechados al día, tardaría <strong>entre 25 y 39 años</strong> en pagarse solo con el ahorro. No son incompatibles: la física sirve para la noche y la virtual para los meses en que sobra excedente.</p></div>
+
+<p><strong>En este artículo encontrarás:</strong></p>
+<ul>
+<li>Qué hace cada una y en qué se diferencian.</li>
+<li>Los datos de la OCU sobre baterías de litio y plomo, y las condiciones de la batería virtual.</li>
+<li>La cuenta de cuántos años tarda en pagarse una batería física, con y sin impuestos.</li>
+<li>Qué cambia con las ayudas y cuándo compensa cada opción.</li>
+</ul>
 
 <table class="keydata">
 <caption>Resumen rápido</caption>
@@ -51,8 +63,12 @@ fuentes:
 <li><a href="#fisica">La batería física: datos de la OCU</a></li>
 <li><a href="#virtual">La batería virtual: condiciones que hay que mirar</a></li>
 <li><a href="#cuenta">La cuenta: cuánto tarda en pagarse una batería</a></li>
+<li><a href="#impuestos">Con impuestos: cambia poco</a></li>
+<li><a href="#tamano">Cómo saber qué batería necesitas</a></li>
+<li><a href="#ayudas">Baterías y ayudas</a></li>
 <li><a href="#compensa">Cuándo compensa cada opción</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
+<li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
 </ol>
 </details>
@@ -91,7 +107,7 @@ fuentes:
 <li><strong>Qué descuenta el saldo:</strong> en algunas solo el término de energía, no la potencia ni otros conceptos.</li>
 <li><strong>Caducidad:</strong> algunas limitan el saldo a 5 años y otras, a 2.</li>
 <li><strong>Descuentos sobre el saldo:</strong> alguna comercializadora resta un porcentaje del crédito acumulado.</li>
-<li><strong>PVPC:</strong> no se puede tener batería virtual con la tarifa regulada.</li>
+<li><strong>PVPC:</strong> no se puede tener batería virtual con la tarifa regulada. Lo comparo en <a href="/tarifas-luz/pvpc-vs-mercado-libre-placas/">PVPC o mercado libre con placas</a>.</li>
 </ul>
 <p>Comparo las ofertas de Endesa, Repsol e Iberdrola en la guía de la <a href="/tarifas-luz/bateria-virtual-placas-solares/">batería virtual</a>.</p>
 
@@ -115,7 +131,28 @@ fuentes:
 <p>Con una vida de 15-20 años, solo el caso más favorable se acerca a pagarse. Y en invierno, con poca producción, la batería no llegará a cargar 3 kWh cada día, así que el ahorro real puede ser menor. Los impuestos (impuesto eléctrico e IVA) mejoran un poco las cifras, pero no cambian la conclusión.</p>
 <p>La batería virtual, en cambio, es fácil de pagar: en un agosto en que se pierden 10,81 € de excedente, como en el ejemplo de la guía de <a href="/tarifas-luz/tarifas-luz-compensacion-excedentes/">tarifas con compensación</a>, una cuota de 2 € al mes (24 € al año) se recupera con dos meses así.</p>
 
-<h2 id="compensa">5. Cuándo compensa cada opción</h2>
+<h2 id="impuestos">5. Con impuestos: cambia poco</h2>
+<p>Las cuentas anteriores van sin impuestos. Con el impuesto eléctrico (5,11269632 %) y el IVA (21 %), el kWh que la batería te evita comprar vale algo más, y el excedente que deja de compensarse también. El ahorro por kWh guardado pasa de 0,106 € a unos 0,135 €, y el de la batería del ejemplo, de 117 € a unos <strong>148 € al año</strong>. Con el precio supuesto de 4.500 €, tardaría unos <strong>30 años</strong> en pagarse en lugar de 39; si el excedente se perdía por el tope, unos 19 años en lugar de 25.</p>
+<p>Sigue siendo más que la vida útil de 15-20 años que da la OCU. Para la batería virtual, en cambio, los impuestos juegan a favor desde el primer mes, porque el saldo descuenta energía que llevaría impuestos.</p>
+
+<h2 id="tamano">6. Cómo saber qué batería necesitas</h2>
+<p>Una batería solo ahorra si se llena de día y se vacía de noche. Para saber si en tu casa pasaría, necesitas dos datos que puedes sacar gratis:</p>
+<ol>
+<li><strong>Cuánto viertes al día en verano.</strong> En la factura aparece la energía vertida del mes: divídela entre los días. Lo explico en <a href="/tarifas-luz/factura-luz-autoconsumo/">cómo leer la factura con autoconsumo</a>.</li>
+<li><strong>Cuánto consumes por la noche.</strong> En el área de clientes de tu distribuidora puedes ver tu consumo hora a hora: suma lo que gastas desde que se pone el sol hasta que vuelve a salir.</li>
+</ol>
+<p>La batería útil es, como mucho, la más pequeña de esas dos cifras. Si viertes 6 kWh al día pero de noche solo gastas 2, una batería de 10 kWh nunca se vaciará. Y en invierno, el excedente diario puede ser casi cero. Si todavía no tienes placas, dimensiónalas primero con <a href="/placas-solares/cuantas-placas-casa-100m2/">cuántas placas necesita una casa de 100 m²</a>.</p>
+
+<h2 id="ayudas">7. Baterías y ayudas</h2>
+<p>Algunas ayudas tratan las baterías de forma distinta, y conviene saberlo antes de decidir:</p>
+<ul>
+<li><strong>IBI en Madrid capital:</strong> la ordenanza de 2026 suma dos años a los cinco de bonificación si la instalación incluye baterías, también si se añaden después. Lo detallo en <a href="/subvenciones/bonificacion-ibi-placas-solares-madrid/">el IBI por placas solares en Madrid</a>.</li>
+<li><strong>IBI en Barcelona:</strong> las baterías no cuentan en el coste de la instalación que sirve de tope a la bonificación, según su ordenanza. Lo explico en <a href="/subvenciones/bonificacion-ibi-placas-solares-barcelona/">el IBI en Barcelona</a>.</li>
+<li><strong>Otras ayudas:</strong> cada convocatoria dice si la batería entra o no. Pregúntalo antes de pedir el presupuesto.</li>
+</ul>
+<p>En Madrid, dos años más de un IBI de 800 € al año al 50 % son 800 € de descuento extra: ayuda, pero no paga una batería por sí solo. Haz la cuenta completa de tu instalación en <a href="/placas-solares/amortizacion-placas-solares/">cómo calcular la amortización</a>.</p>
+
+<h2 id="compensa">8. Cuándo compensa cada opción</h2>
 <p><strong>La batería virtual compensa si:</strong></p>
 <ul>
 <li>En verano el término de energía de tu factura queda a cero y aún te sobra excedente.</li>
@@ -131,7 +168,7 @@ fuentes:
 </ul>
 <p><strong>Ninguna de las dos compensa</strong> si ya consumes casi todo lo que producen tus placas: el excedente es pequeño y la compensación normal lo absorbe.</p>
 
-<h2 id="errores">6. Errores frecuentes</h2>
+<h2 id="errores">9. Errores frecuentes</h2>
 <ul>
 <li><strong>Comprar batería física sin hacer la cuenta</strong> de años de recuperación frente a su vida útil.</li>
 <li><strong>Pensar que una batería da luz en un apagón.</strong> La mayoría de instalaciones conectadas a la red se apagan.</li>
@@ -141,6 +178,9 @@ fuentes:
 </ul>
 
 <div class="callout">
-<strong>Mi conclusión</strong>
+<strong>Mi consejo</strong>
 <p>Empieza por la batería virtual y por mover consumos a las horas de sol. Plantéate una batería física solo si, después de eso, sigues vertiendo mucho a diario y te ofrecen un precio que salga a cuenta en menos años de los que va a durar.</p>
 </div>
+
+<h2 id="conclusion">Conclusión</h2>
+<p>La batería virtual y la física no compiten: la virtual guarda en euros el excedente que no cabe en la factura, y la física guarda energía para la noche. La virtual cuesta poco o nada y se paga sola si en verano pierdes excedente. La física, con los datos de la OCU y los precios de esta guía, tarda más en pagarse que lo que dura, incluso contando los impuestos. Empieza por mover consumos a las horas de sol y, si sigues perdiendo excedente, contrata una batería virtual con buen precio de kWh y sin caducidad corta. Deja la batería física para cuando consumas mucho de noche todos los días, te ofrezcan un precio muy bajo o la quieras por motivos que no son solo de ahorro.</p>
