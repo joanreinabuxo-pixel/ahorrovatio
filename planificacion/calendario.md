@@ -37,7 +37,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 29 | L | 61 | Certificados de Ahorro Energético (CAE): cuánto te devuelven | certificados-ahorro-energetico-cae | subvenciones | certificados ahorro energetico cae | verificado |
 | 30 | L | 8 | Legalizar placas solares en España: boletín, CIE y trámites paso a paso | legalizar-placas-solares | placas-solares | legalizar placas solares | verificado |
 | 31 | L | 11 | Placas solares en días nublados o de lluvia: cuánto producen de verdad | placas-solares-dias-nublados | placas-solares | placas solares dias nublados | pendiente |
-| 32 | L | 24 | Aerotermia vs estufa de pellets: qué sale más barato al mes | aerotermia-vs-pellets | aerotermia | aerotermia vs pellets | pendiente |
+| 32 | L | 24 | Aerotermia vs estufa de pellets: qué sale más barato al mes | aerotermia-vs-pellets | aerotermia | aerotermia vs pellets | publicado |
 | 33 | L | 29 | Qué potencia eléctrica contratar si instalas aerotermia | potencia-contratada-aerotermia | aerotermia | potencia contratada aerotermia | pendiente |
 | 34 | L | 31 | Aerotermia con suelo radiante: precio y rendimiento | aerotermia-suelo-radiante | aerotermia | aerotermia suelo radiante precio | pendiente |
 | 35 | L | 50 | Bono social eléctrico 2026: requisitos y descuentos | bono-social-electrico | tarifas-luz | bono social electrico 2026 | pendiente |
