@@ -170,7 +170,7 @@ fuentes:
 
 <div class="callout">
 <strong>Mi consejo</strong>
-<p>Antes de pedir presupuestos, mide el espacio que tienes fuera y el hueco que podrías dejar dentro, y fíjate en la distancia entre los dos. Con esos datos, pide a cada instalador una propuesta con el tipo de equipo que recomienda y por qué, el carné con el que lo instalará y cómo protegerá las tuberías del frío. Si los dos tipos caben, la monobloc suele ser la opción más sencilla y barata.</p>
+<p>Antes de pedir presupuestos, mide el espacio que tienes fuera y el hueco que podrías dejar dentro, y fíjate en la distancia entre los dos. Con esos datos, pide a cada instalador una propuesta con el tipo de equipo que recomienda y por qué, el carné con el que lo instalará y cómo protegerá las tuberías del frío. Si los dos tipos caben, la monobloc suele ser la opción más sencilla y barata. Si solo cabe la bibloc, no te preocupes: rendirá igual, y el sobrecoste de la instalación es pequeño frente al ahorro de toda su vida útil.</p>
 </div>
 
 <h2 id="conclusion">Conclusión</h2>
