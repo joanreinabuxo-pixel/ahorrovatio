@@ -51,7 +51,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 43 | L+3 (laborable) | 12 | Orientación este-oeste vs sur: cuánta producción pierdes | orientacion-placas-solares | placas-solares | orientacion placas solares este oeste | programado 02/12/2026 |
 | 44 | L+4 (laborable) | 13 | ¿Cuántos años duran las placas solares y qué cubre la garantía? | vida-util-placas-solares | placas-solares | cuantos años duran las placas solares | programado 03/12/2026 |
 | 45 | L+5 (laborable) | 14 | Cómo limpiar las placas solares sin dañarlas y cada cuánto hacerlo | limpiar-placas-solares | placas-solares | limpiar placas solares | programado 04/12/2026 |
-| 46 | L+6 (laborable) | 25 | Aerotermia monobloc vs bibloc: diferencias, espacio y precios | aerotermia-monobloc-vs-bibloc | aerotermia | aerotermia monobloc o bibloc | pendiente |
+| 46 | L+6 (laborable) | 25 | Aerotermia monobloc vs bibloc: diferencias, espacio y precios | aerotermia-monobloc-vs-bibloc | aerotermia | aerotermia monobloc o bibloc | programado 07/12/2026 |
 | 47 | L+7 (laborable) | 87 | Ventajas y desventajas de la aerotermia | aerotermia-ventajas-desventajas | aerotermia | aerotermia ventajas y desventajas | pendiente |
 | 48 | L+8 (laborable) | 91 | Calefacción más barata para un piso: comparativa de costes | calefaccion-mas-barata | ahorro-hogar | calefaccion mas barata piso | pendiente |
 | 49 | L+9 (laborable) | 26 | Aerotermia solo para ACS vs aerotermia integral | aerotermia-acs-vs-integral | aerotermia | aerotermia solo acs | pendiente |
