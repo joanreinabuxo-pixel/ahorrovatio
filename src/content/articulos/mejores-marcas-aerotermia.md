@@ -190,6 +190,7 @@ fuentes:
 <li><strong>No mirar el rendimiento en frío</strong> si vives en una zona fría.</li>
 <li><strong>Olvidar el ruido</strong> de la unidad exterior.</li>
 <li><strong>No preguntar por el servicio técnico</strong> en tu provincia.</li>
+<li><strong>Pagar mucho más por un equipo algo más eficiente</strong> sin hacer la cuenta: a veces la diferencia de rendimiento tarda décadas en pagarse, y otras se paga en pocos años. Depende de cuánto calor necesite tu casa.</li>
 <li><strong>Pensar que una buena marca arregla una mala instalación.</strong> El dimensionado, los emisores y la programación pesan tanto como el equipo.</li>
 </ul>
 
