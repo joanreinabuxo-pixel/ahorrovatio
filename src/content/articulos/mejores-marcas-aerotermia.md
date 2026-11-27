@@ -47,6 +47,9 @@ fuentes:
   - nombre: "Vaillant — Ficha técnica de la bomba de calor aroTHERM pure"
     url: "https://cdn.autosolar.es/pdf/fichas-tecnicas/Ficha-tecnica-Bomba-de-Calor-Aerotermia-Monobloc-4kW-Vaillant-AroTHERM-Pure.pdf"
     consultado: 2026-11-27
+  - nombre: "Endesa — Endesa Solar Plus (precios de energía y potencia)"
+    url: "https://www.endesa.com/es/luz-y-gas/catalogo-solar/endesa-solar-plus"
+    consultado: 2026-11-27
   - nombre: "Saunier Duval — Nueva generación de aerotermia R290 (GeniaAir)"
     url: "https://saunierduval.es/downloads/geniaair/nueva-generacin-de-aerotermia-r290-3141308.pdf"
     consultado: 2026-11-27
@@ -79,6 +82,7 @@ fuentes:
 <li><a href="#ocu">Qué modelos analizó la OCU</a></li>
 <li><a href="#como-analiza">Cómo puntúa la OCU una aerotermia</a></li>
 <li><a href="#ficha">Lo que importa más que la marca: la ficha técnica</a></li>
+<li><a href="#pagar-mas">Cuándo compensa pagar más por un equipo más eficiente</a></li>
 <li><a href="#servicio">Servicio técnico, garantía y repuestos</a></li>
 <li><a href="#comparar">Cómo comparar presupuestos de distintas marcas</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
@@ -137,7 +141,21 @@ fuentes:
 </ol>
 <p><strong>Te puede interesar:</strong> <a href="/aerotermia/aerotermia-radiadores-convencionales/">aerotermia con radiadores convencionales</a>, porque la temperatura del agua que piden tus radiadores es clave para elegir modelo.</p>
 
-<h2 id="servicio">5. Servicio técnico, garantía y repuestos</h2>
+<h2 id="pagar-mas">5. Cuándo compensa pagar más por un equipo más eficiente</h2>
+<p>Un equipo con mejor rendimiento suele costar más. Para saber si compensa, compara lo que ahorra cada año. Este ejemplo es ilustrativo: una casa que necesita 6.500 kWh de calor al año y paga la luz a unos 0,235 €/kWh con impuestos (Endesa Solar Plus):</p>
+<div class="table-scroll">
+<table class="table">
+<thead><tr><th>SCOP del equipo</th><th>Electricidad al año</th><th>Coste al año</th></tr></thead>
+<tbody>
+<tr><td>3,4</td><td>Unos 1.912 kWh</td><td>Unos 449 €</td></tr>
+<tr><td>4,0</td><td>Unos 1.625 kWh</td><td>Unos 382 €</td></tr>
+<tr><td>4,6</td><td>Unos 1.413 kWh</td><td>Unos 332 €</td></tr>
+</tbody>
+</table>
+</div>
+<p>Pasar de un SCOP de 3,4 a uno de 4,0 ahorra unos 67 € al año; en 15 años, unos 1.000 €. Si el equipo más eficiente cuesta 500 € más, compensa; si cuesta 2.000 € más, probablemente no. Haz la cuenta con la demanda de tu casa, que te debe dar el instalador, y con el SCOP de cada modelo a la misma temperatura de agua.</p>
+
+<h2 id="servicio">6. Servicio técnico, garantía y repuestos</h2>
 <p>Una aerotermia dura muchos años y en algún momento necesitará una revisión o una reparación. Antes de elegir, pregunta:</p>
 <ul>
 <li><strong>¿Hay servicio técnico oficial cerca de casa?</strong> Una marca muy buena sin técnicos en tu provincia puede dejarte semanas sin calefacción.</li>
@@ -147,7 +165,7 @@ fuentes:
 </ul>
 <p>Pide que todo esto conste por escrito en el presupuesto. Te ayudará también a calcular el coste a largo plazo, que explico en el <a href="/aerotermia/precio-aerotermia-casa-120m2/">precio de la aerotermia en una casa de 120 m²</a>.</p>
 
-<h2 id="comparar">6. Cómo comparar presupuestos de distintas marcas</h2>
+<h2 id="comparar">7. Cómo comparar presupuestos de distintas marcas</h2>
 <p>Si te ofrecen marcas distintas, compara con esta tabla. Rellénala con los datos de cada presupuesto:</p>
 <div class="table-scroll">
 <table class="table">
@@ -165,7 +183,7 @@ fuentes:
 </div>
 <p>Con estos datos, calcula el gasto anual de cada opción: divide la demanda de calor de tu casa entre el SCOP y multiplica por el precio de tu luz. Te explico cómo en <a href="/aerotermia/consumo-aerotermia-mes/">cuánto consume la aerotermia al mes</a>. Y no olvides la potencia eléctrica que pide cada equipo: lo explico en <a href="/aerotermia/potencia-contratada-aerotermia/">qué potencia contratar con aerotermia</a>.</p>
 
-<h2 id="errores">7. Errores frecuentes</h2>
+<h2 id="errores">8. Errores frecuentes</h2>
 <ul>
 <li><strong>Elegir por la marca y no por el modelo.</strong> Dentro de una marca hay gamas muy distintas.</li>
 <li><strong>Fiarse del COP máximo del folleto.</strong> Compara el SCOP a la temperatura de agua que vas a usar.</li>
