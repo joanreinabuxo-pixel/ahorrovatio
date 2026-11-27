@@ -188,7 +188,7 @@ fuentes:
 
 <div class="callout">
 <strong>Mi consejo</strong>
-<p>Antes de decidir, apunta cuánto gastaste el último año en calefacción y agua caliente con tu sistema actual. Si vienes del gasóleo, del propano o de radiadores eléctricos, la aerotermia casi seguro te compensa. Si vienes del gas natural con una caldera moderna, valora la aerotermia solo si tienes placas solares, si tu caldera ya hay que cambiarla o si también quieres frío en verano.</p>
+<p>Antes de decidir, apunta cuánto gastaste el último año en calefacción y agua caliente con tu sistema actual. Si vienes del gasóleo, del propano o de radiadores eléctricos, la aerotermia casi seguro te compensa. Si vienes del gas natural con una caldera moderna, valora la aerotermia solo si tienes placas solares, si tu caldera ya hay que cambiarla o si también quieres frío en verano. En cualquier caso, pide que el presupuesto incluya el cálculo de consumo anual con tu casa y tu clima, no con un ejemplo genérico.</p>
 </div>
 
 <h2 id="conclusion">Conclusión</h2>
