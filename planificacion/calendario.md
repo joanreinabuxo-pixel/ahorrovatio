@@ -53,7 +53,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 45 | L+5 (laborable) | 14 | Cómo limpiar las placas solares sin dañarlas y cada cuánto hacerlo | limpiar-placas-solares | placas-solares | limpiar placas solares | programado 04/12/2026 |
 | 46 | L+6 (laborable) | 25 | Aerotermia monobloc vs bibloc: diferencias, espacio y precios | aerotermia-monobloc-vs-bibloc | aerotermia | aerotermia monobloc o bibloc | programado 07/12/2026 |
 | 47 | L+7 (laborable) | 87 | Ventajas y desventajas de la aerotermia | aerotermia-ventajas-desventajas | aerotermia | aerotermia ventajas y desventajas | programado 08/12/2026 |
-| 48 | L+8 (laborable) | 91 | Calefacción más barata para un piso: comparativa de costes | calefaccion-mas-barata | ahorro-hogar | calefaccion mas barata piso | pendiente |
+| 48 | L+8 (laborable) | 91 | Calefacción más barata para un piso: comparativa de costes | calefaccion-mas-barata | ahorro-hogar | calefaccion mas barata piso | programado 09/12/2026 |
 | 49 | L+9 (laborable) | 26 | Aerotermia solo para ACS vs aerotermia integral | aerotermia-acs-vs-integral | aerotermia | aerotermia solo acs | pendiente |
 | 50 | L+10 (laborable) | 27 | Mejores marcas de aerotermia: Daikin vs Mitsubishi vs Vaillant | mejores-marcas-aerotermia | aerotermia | mejores marcas aerotermia | pendiente |
 | 51 | L+11 (laborable) | 28 | ¿Hace ruido la aerotermia? Decibelios reales y normativa vecinal | ruido-aerotermia | aerotermia | ruido aerotermia | pendiente |
