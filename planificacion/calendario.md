@@ -61,7 +61,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 53 | L+13 (laborable) | 42 | Octopus vs Próxima Energía vs Repsol: comparativa de batería virtual | comparativa-bateria-virtual | tarifas-luz | comparativa bateria virtual | pendiente |
 | 54 | L+14 (laborable) | 43 | ¿Factura de la luz a 0 € con batería virtual? La letra pequeña | factura-cero-bateria-virtual | tarifas-luz | factura luz 0 euros bateria virtual | pendiente |
 | 55 | L+15 (laborable) | 86 | Cuánto produce una placa solar al día (por mes y por ciudad) | cuanto-produce-placa-solar | placas-solares | cuanto produce una placa solar al dia | pendiente |
-| 56 | L+16 (laborable) | 45 | Tarifa indexada: qué es, riesgos y cuándo compensa | tarifa-indexada-luz | tarifas-luz | tarifa indexada luz | pendiente |
+| 56 | L+16 (laborable) | 45 | Tarifa indexada: qué es, riesgos y cuándo compensa | tarifa-indexada-luz | tarifas-luz | tarifa indexada luz | programado 16/12/2026 |
 | 57 | L+17 (laborable) | 46 | Autoconsumo colectivo con reparto dinámico: cómo pedirlo | autoconsumo-colectivo-reparto-dinamico | tarifas-luz | autoconsumo colectivo reparto dinamico | pendiente |
 | 58 | L+18 (laborable) | 56 | Bonificación del IBI por placas solares en Sevilla y Málaga | bonificacion-ibi-placas-solares-sevilla-malaga | subvenciones | bonificacion ibi placas solares sevilla | pendiente |
 | 59 | L+19 (laborable) | 57 | Bonificación del IBI por placas solares en Zaragoza | bonificacion-ibi-placas-solares-zaragoza | subvenciones | bonificacion ibi placas solares zaragoza | pendiente |
