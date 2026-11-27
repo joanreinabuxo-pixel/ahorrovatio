@@ -79,6 +79,7 @@ fuentes:
 <li><a href="#ejemplo">Ejemplo: cuándo se recupera la inversión</a></li>
 <li><a href="#cuando">En qué casas compensa y en cuáles no</a></li>
 <li><a href="#reducir">Cómo reducir sus inconvenientes</a></li>
+<li><a href="#mitos">Mitos sobre la aerotermia</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
 <li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
@@ -166,7 +167,16 @@ fuentes:
 <li><strong>Consumo:</strong> controla el gasto real mes a mes con la guía de <a href="/aerotermia/consumo-aerotermia-mes/">cuánto consume la aerotermia al mes</a>.</li>
 </ul>
 
-<h2 id="errores">7. Errores frecuentes</h2>
+<h2 id="mitos">7. Mitos sobre la aerotermia</h2>
+<ul>
+<li><strong>«La aerotermia es energía gratis».</strong> No. Funciona con electricidad y la pagas en la factura de la luz. Lo que pasa es que aprovecha el calor del aire y, por eso, con cada kWh de luz da de 3 a 4 kWh de calor.</li>
+<li><strong>«Solo sirve para casas nuevas».</strong> Tampoco. Se puede poner en una casa existente, a menudo aprovechando los radiadores, si calientan bien con agua a unos 50-55 °C. Lo explico en <a href="/aerotermia/aerotermia-radiadores-convencionales/">aerotermia con radiadores convencionales</a>.</li>
+<li><strong>«No funciona en invierno».</strong> Funciona, aunque rinde menos cuando hace mucho frío. Por eso hay que dimensionar bien el equipo para tu zona.</li>
+<li><strong>«Siempre ahorra frente a cualquier caldera».</strong> Frente al gasóleo o la electricidad directa, sí; frente a una caldera de gas de condensación, el gasto anual es muy parecido en el ejemplo de la OCU.</li>
+<li><strong>«Con aerotermia la factura de la luz se dispara».</strong> Sube, porque ahora calientas con electricidad, pero baja o desaparece la del gasóleo o del gas. Lo que hay que comparar es la suma de las dos.</li>
+</ul>
+
+<h2 id="errores">8. Errores frecuentes</h2>
 <ul>
 <li><strong>Dar por hecho que ahorra siempre.</strong> Frente a una caldera de gas moderna, el ahorro anual es casi nulo.</li>
 <li><strong>Mantener los radiadores a 65-70 °C</strong> con la aerotermia.</li>
