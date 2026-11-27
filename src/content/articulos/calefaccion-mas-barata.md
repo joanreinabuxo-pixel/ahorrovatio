@@ -41,6 +41,9 @@ fuentes:
   - nombre: "Endesa — Endesa Solar Plus (precios de energía y potencia)"
     url: "https://www.endesa.com/es/luz-y-gas/catalogo-solar/endesa-solar-plus"
     consultado: 2026-11-27
+  - nombre: "Vaillant — Ficha técnica de la bomba de calor aroTHERM pure"
+    url: "https://cdn.autosolar.es/pdf/fichas-tecnicas/Ficha-tecnica-Bomba-de-Calor-Aerotermia-Monobloc-4kW-Vaillant-AroTHERM-Pure.pdf"
+    consultado: 2026-11-27
   - nombre: "Agencia Tributaria — Deducciones por obras de mejora de la eficiencia energética en viviendas"
     url: "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c16-deducciones-generales-cuota/deducciones-obras-mejora-eficiencia-energetica-viviendas.html"
     consultado: 2026-11-27
@@ -71,6 +74,7 @@ fuentes:
 <ol>
 <li><a href="#comparativa">El gasto anual de cada calefacción</a></li>
 <li><a href="#total">Instalación y coste total a diez años</a></li>
+<li><a href="#kwh">Cuánto cuesta cada kWh de calor</a></li>
 <li><a href="#sistemas">Qué tiene de bueno y de malo cada sistema</a></li>
 <li><a href="#tienes">Si ya tienes calefacción: cuándo cambiar</a></li>
 <li><a href="#alquiler">Si vives de alquiler o no puedes hacer obras</a></li>
@@ -117,7 +121,22 @@ fuentes:
 </div>
 <p>La aerotermia queda la última por su instalación, pero hay matices. Si la obra cumple los requisitos de la deducción del 40 % del IRPF, con un máximo de 3.000 € para pagos hasta el 31 de diciembre de 2026, su total bajaría a unos 10.400 €. Además, la aerotermia da también el agua caliente y, si es reversible, el frío. Y la estufa de pellets suele calentar solo una parte de la casa. Lo comparo con detalle en <a href="/aerotermia/aerotermia-vs-pellets/">aerotermia o pellets</a>.</p>
 
-<h2 id="sistemas">3. Qué tiene de bueno y de malo cada sistema</h2>
+<h2 id="kwh">3. Cuánto cuesta cada kWh de calor</h2>
+<p>Como la OCU no publica sus precios, hago una cuenta propia con datos que sí se pueden comprobar. Uso precios sin impuestos, porque la luz y el gas pagan impuestos distintos: la luz a 0,1849 €/kWh (Endesa Solar Plus) y el gas a 0,0525 €/kWh (TUR 1 desde el 1 de octubre de 2026, según el BOE). Para el rendimiento, tomo el 0,95 que la OCU da para una caldera de gas y el rendimiento estacional de la Vaillant aroTHERM pure para la aerotermia:</p>
+<div class="table-scroll">
+<table class="table">
+<thead><tr><th>Sistema</th><th>Cálculo</th><th>Coste por kWh de calor (sin impuestos)</th></tr></thead>
+<tbody>
+<tr><td>Radiador eléctrico</td><td>0,1849 ÷ 1</td><td>Unos 0,185 €</td></tr>
+<tr><td>Caldera de gas</td><td>0,0525 ÷ 0,95</td><td>Unos 0,055 €</td></tr>
+<tr><td>Aerotermia con radiadores (agua a 55 °C)</td><td>0,1849 ÷ 3,41</td><td>Unos 0,054 €</td></tr>
+<tr><td>Aerotermia con suelo radiante (agua a 35 °C)</td><td>0,1849 ÷ 4,62</td><td>Unos 0,040 €</td></tr>
+</tbody>
+</table>
+</div>
+<p>Los resultados cuadran con la comparativa de la OCU: con radiadores, la aerotermia y el gas cuestan casi lo mismo por kWh de calor, y el radiador eléctrico cuesta más del triple. Al gas hay que sumarle además el término fijo, unos 3,83 € al mes en la TUR 1, que pagas aunque no enciendas la calefacción. Tus precios pueden ser distintos: haz la misma cuenta con los de tus facturas.</p>
+
+<h2 id="sistemas">4. Qué tiene de bueno y de malo cada sistema</h2>
 <ul>
 <li><strong>Bomba de calor aire-aire:</strong> la más barata de usar y de las más baratas de instalar. Da también frío en verano. En contra: calienta el aire, no el agua, y reparte peor el calor en pisos con muchas habitaciones si no tiene varias unidades o conductos.</li>
 <li><strong>Caldera de gas de condensación:</strong> barata de instalar y de usar, y da agua caliente. En contra: depende del gas, con un término fijo que se paga todo el año, y la OCU recuerda que las calderas de combustibles fósiles dejarán de venderse a partir de 2035.</li>
@@ -127,7 +146,7 @@ fuentes:
 <li><strong>Gasóleo y radiadores eléctricos:</strong> los más caros de usar. Si tienes uno de ellos, es el sistema con más margen de ahorro.</li>
 </ul>
 
-<h2 id="tienes">4. Si ya tienes calefacción: cuándo cambiar</h2>
+<h2 id="tienes">5. Si ya tienes calefacción: cuándo cambiar</h2>
 <p>Cambiar solo compensa si el ahorro anual paga la instalación nueva en un tiempo razonable. Con las cifras de la OCU:</p>
 <div class="table-scroll">
 <table class="table">
@@ -143,16 +162,17 @@ fuentes:
 <p>Si vienes de radiadores eléctricos, el cambio a una bomba de calor es de los que más rápido se pagan; lo detallo en <a href="/ahorro-hogar/bomba-calor-vs-radiadores-electricos/">bomba de calor o radiadores eléctricos</a>. Si tienes gas, la aerotermia solo compensa en casos concretos, como explico en <a href="/aerotermia/aerotermia-vs-caldera-gas/">aerotermia o caldera de gas</a>.</p>
 <p><strong>Te puede interesar:</strong> <a href="/ahorro-hogar/termo-electrico-vs-calentador-gas/">termo eléctrico o calentador de gas</a>, porque el agua caliente también pesa en la factura.</p>
 
-<h2 id="alquiler">5. Si vives de alquiler o no puedes hacer obras</h2>
+<h2 id="alquiler">6. Si vives de alquiler o no puedes hacer obras</h2>
 <p>Si no puedes cambiar el sistema, la clave es usar bien lo que tienes:</p>
 <ul>
 <li><strong>Si tienes aire acondicionado con bomba de calor</strong>, úsalo para calentar: en la comparativa de la OCU gasta cuatro veces menos que los radiadores eléctricos.</li>
 <li><strong>Si solo tienes radiadores eléctricos</strong>, calienta solo las habitaciones que usas y con termostato. Te explico cuánto gastan en <a href="/ahorro-hogar/consumo-radiador-electrico/">cuánto gasta un radiador eléctrico al mes</a>.</li>
 <li><strong>Si tienes acumuladores</strong>, comprueba que cargan en las horas valle. Tienes los horarios en <a href="/tarifas-luz/horarios-luz-punta-llano-valle/">los horarios de la luz</a>.</li>
 <li><strong>Si quieres poner un split</strong>, habla con el propietario: la instalación queda en la vivienda y necesitas su permiso.</li>
+<li><strong>Si el piso tiene caldera de gas individual</strong>, ajusta la temperatura del agua de la caldera y programa los horarios: es de los sistemas más baratos de usar y no necesitas cambiar nada para ahorrar.</li>
 </ul>
 
-<h2 id="gastar-menos">6. Cómo gastar menos con la calefacción que tienes</h2>
+<h2 id="gastar-menos">7. Cómo gastar menos con la calefacción que tienes</h2>
 <ol>
 <li><strong>Baja un grado el termostato.</strong> Es el gesto más rápido y no cuesta nada.</li>
 <li><strong>Programa los horarios</strong> para no calentar la casa vacía.</li>
@@ -163,7 +183,7 @@ fuentes:
 </ol>
 <p>Si tienes aerotermia, un buen termostato también ayuda: lo explico en <a href="/ahorro-hogar/termostatos-inteligentes-aerotermia/">termostatos inteligentes para aerotermia</a>.</p>
 
-<h2 id="errores">7. Errores frecuentes</h2>
+<h2 id="errores">8. Errores frecuentes</h2>
 <ul>
 <li><strong>Elegir solo por el precio de instalación</strong>: los radiadores eléctricos son baratos de poner y carísimos de usar.</li>
 <li><strong>Elegir solo por el gasto anual</strong> sin sumar la instalación: la aerotermia gasta poco, pero cuesta mucho poner.</li>
