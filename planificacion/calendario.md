@@ -47,7 +47,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 39 | L | 74 | Termo eléctrico vs calentador de gas: consumo anual | termo-electrico-vs-calentador-gas | ahorro-hogar | termo electrico vs calentador gas | publicado |
 | 40 | L | 89 | Cuánto gasta un radiador eléctrico al mes | consumo-radiador-electrico | ahorro-hogar | cuanto gasta un radiador electrico | publicado |
 | 41 | L+1 (laborable) | 9 | Placas solares de 450 W vs 550 W: cuál conviene en una vivienda | placas-450w-vs-550w | placas-solares | placas 450w o 550w | programado 30/11/2026 |
-| 42 | L+2 (laborable) | 10 | Microinversores vs inversor string: ventajas, precios y cuándo elegir cada uno | microinversores-vs-inversor-string | placas-solares | microinversores vs inversor | pendiente |
+| 42 | L+2 (laborable) | 10 | Microinversores vs inversor string: ventajas, precios y cuándo elegir cada uno | microinversores-vs-inversor-string | placas-solares | microinversores vs inversor | programado 01/12/2026 |
 | 43 | L+3 (laborable) | 12 | Orientación este-oeste vs sur: cuánta producción pierdes | orientacion-placas-solares | placas-solares | orientacion placas solares este oeste | pendiente |
 | 44 | L+4 (laborable) | 13 | ¿Cuántos años duran las placas solares y qué cubre la garantía? | vida-util-placas-solares | placas-solares | cuantos años duran las placas solares | pendiente |
 | 45 | L+5 (laborable) | 14 | Cómo limpiar las placas solares sin dañarlas y cada cuánto hacerlo | limpiar-placas-solares | placas-solares | limpiar placas solares | pendiente |
