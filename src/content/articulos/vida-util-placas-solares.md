@@ -80,6 +80,7 @@ fuentes:
 <li><a href="#averias">Las averías más habituales</a></li>
 <li><a href="#alargar">Cómo hacer que la instalación dure más</a></li>
 <li><a href="#final">Qué pasa al final de su vida</a></li>
+<li><a href="#reclamar">Cómo reclamar una garantía</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
 <li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
@@ -159,7 +160,18 @@ fuentes:
 <p>Cuando una placa ya no compensa, no se tira a la basura. La OCU explica que los paneles se consideran aparatos eléctricos y electrónicos y deben gestionarse por una empresa especializada. El vidrio y el aluminio se reciclan en un 90-100 %, y hasta el 80 % de las obleas de silicio suelen poder reutilizarse. Las normas europeas ponen esta responsabilidad en los fabricantes.</p>
 <p>La OCU también recuerda que una placa devuelve la energía que costó fabricarla en 3 a 6 años, así que a lo largo de su vida produce mucha más energía de la que consumió.</p>
 
-<h2 id="errores">8. Errores frecuentes</h2>
+<h2 id="reclamar">8. Cómo reclamar una garantía</h2>
+<p>Si notas que la producción baja más de lo normal o ves un daño en una placa, sigue estos pasos:</p>
+<ol>
+<li><strong>Reúne los datos:</strong> la producción de los últimos meses en la aplicación, comparada con los mismos meses del año anterior, y fotos de cualquier daño visible.</li>
+<li><strong>Avisa primero al instalador.</strong> Es quien tiene el contacto con el fabricante y quien responde de la instalación durante su garantía.</li>
+<li><strong>Pide una revisión por escrito</strong> que diga qué falla y por qué. Sin un diagnóstico, el fabricante no acepta la reclamación.</li>
+<li><strong>Presenta la factura y el número de serie</strong> de la placa o el inversor afectado.</li>
+<li><strong>Pregunta quién paga la mano de obra</strong> y el desplazamiento: si no tienes garantía de servicio, puede que solo te cambien la pieza.</li>
+</ol>
+<p>Si el instalador ha cerrado, puedes dirigirte directamente al fabricante con la misma documentación. Por eso conviene elegir marcas con presencia en España.</p>
+
+<h2 id="errores">9. Errores frecuentes</h2>
 <ul>
 <li><strong>Confundir la vida útil con la garantía.</strong> La placa puede durar 30 años aunque la garantía de producto sea de 12.</li>
 <li><strong>Mirar solo la garantía de rendimiento</strong> y olvidar la de producto, que es la que cubre las averías.</li>
