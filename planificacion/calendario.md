@@ -44,7 +44,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 36 | L | 44 | Cómo bajar la potencia contratada (P1 y P2) para ahorrar | bajar-potencia-contratada | tarifas-luz | bajar potencia contratada | publicado |
 | 37 | L | 88 | Horarios de la luz en 2026: horas punta, llano y valle | horarios-luz-punta-llano-valle | tarifas-luz | horarios luz punta llano valle | publicado |
 | 38 | L | 82 | Bomba de calor aire-aire vs radiadores eléctricos: qué gasta menos | bomba-calor-vs-radiadores-electricos | ahorro-hogar | bomba de calor vs radiadores electricos | publicado |
-| 39 | L | 74 | Termo eléctrico vs calentador de gas: consumo anual | termo-electrico-vs-calentador-gas | ahorro-hogar | termo electrico vs calentador gas | pendiente |
+| 39 | L | 74 | Termo eléctrico vs calentador de gas: consumo anual | termo-electrico-vs-calentador-gas | ahorro-hogar | termo electrico vs calentador gas | publicado |
 | 40 | L | 89 | Cuánto gasta un radiador eléctrico al mes | consumo-radiador-electrico | ahorro-hogar | cuanto gasta un radiador electrico | publicado |
 | 41 | L+1 (laborable) | 9 | Placas solares de 450 W vs 550 W: cuál conviene en una vivienda | placas-450w-vs-550w | placas-solares | placas 450w o 550w | pendiente |
 | 42 | L+2 (laborable) | 10 | Microinversores vs inversor string: ventajas, precios y cuándo elegir cada uno | microinversores-vs-inversor-string | placas-solares | microinversores vs inversor | pendiente |
