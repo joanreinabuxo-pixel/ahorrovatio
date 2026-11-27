@@ -56,7 +56,7 @@ Estados: borrador · verificado (datos y fuentes comprobados, sin [VERIFICAR]) �
 | 48 | L+8 (laborable) | 91 | Calefacción más barata para un piso: comparativa de costes | calefaccion-mas-barata | ahorro-hogar | calefaccion mas barata piso | programado 09/12/2026 |
 | 49 | L+9 (laborable) | 26 | Aerotermia solo para ACS vs aerotermia integral | aerotermia-acs-vs-integral | aerotermia | aerotermia solo acs | programado 10/12/2026 |
 | 50 | L+10 (laborable) | 27 | Mejores marcas de aerotermia: qué dice la OCU y cómo elegir | mejores-marcas-aerotermia | aerotermia | mejores marcas aerotermia | programado 11/12/2026 |
-| 51 | L+11 (laborable) | 28 | ¿Hace ruido la aerotermia? Decibelios reales y normativa vecinal | ruido-aerotermia | aerotermia | ruido aerotermia | pendiente |
+| 51 | L+11 (laborable) | 28 | ¿Hace ruido la aerotermia? Decibelios reales y normativa vecinal | ruido-aerotermia | aerotermia | ruido aerotermia | programado 14/12/2026 |
 | 52 | L+12 (laborable) | 30 | Temperatura de impulsión ideal para gastar menos | temperatura-impulsion-aerotermia | aerotermia | temperatura impulsion aerotermia | pendiente |
 | 53 | L+13 (laborable) | 42 | Octopus vs Próxima Energía vs Repsol: comparativa de batería virtual | comparativa-bateria-virtual | tarifas-luz | comparativa bateria virtual | pendiente |
 | 54 | L+14 (laborable) | 43 | ¿Factura de la luz a 0 € con batería virtual? La letra pequeña | factura-cero-bateria-virtual | tarifas-luz | factura luz 0 euros bateria virtual | pendiente |
