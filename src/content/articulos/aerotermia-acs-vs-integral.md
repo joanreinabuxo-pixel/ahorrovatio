@@ -79,6 +79,7 @@ fuentes:
 <li><a href="#espacio">Espacio e instalación</a></li>
 <li><a href="#integral">Qué añade la aerotermia integral</a></li>
 <li><a href="#cuando">Cuál te conviene según lo que tienes ahora</a></li>
+<li><a href="#comprar">Qué mirar antes de comprar un termo de aerotermia</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
 <li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
@@ -169,7 +170,18 @@ fuentes:
 </div>
 <p>Si tienes placas solares, un termo de aerotermia que caliente el agua en las horas de sol aprovecha energía que, si no, venderías a pocos céntimos. Lo explico en <a href="/tarifas-luz/excedentes-placas-solares-precio/">cuánto pagan por los excedentes</a>. Si no tienes placas, prográmalo en <a href="/tarifas-luz/horarios-luz-punta-llano-valle/">las horas valle</a>.</p>
 
-<h2 id="errores">7. Errores frecuentes</h2>
+<h2 id="comprar">7. Qué mirar antes de comprar un termo de aerotermia</h2>
+<ol>
+<li><strong>La capacidad.</strong> Elige los litros según las personas de la casa. Como referencia, la OCU recomienda para termos eléctricos 80 litros para dos personas, 100 para tres y 150 para cuatro.</li>
+<li><strong>El rendimiento.</strong> Pide el COP del aparato en condiciones parecidas a las de tu casa, no solo el máximo del folleto. Cuanto más alto, menos gasta.</li>
+<li><strong>Dónde va a ir.</strong> Mide el cuarto y comprueba que cumple el volumen mínimo del fabricante, o que se pueden poner conductos.</li>
+<li><strong>La resistencia de apoyo.</strong> Casi todos llevan una resistencia eléctrica para los días fríos o para calentar más deprisa. Pregunta cuándo entra y cuánta potencia tiene, porque gasta como un termo normal.</li>
+<li><strong>La programación.</strong> Comprueba que permite elegir horarios, para calentar en las horas valle o con el sol de tus placas.</li>
+<li><strong>El ruido.</strong> Mira los decibelios en la ficha técnica si va cerca de una zona de descanso.</li>
+<li><strong>La garantía</strong> del depósito y de la bomba de calor, que pueden ser distintas.</li>
+</ol>
+
+<h2 id="errores">8. Errores frecuentes</h2>
 <ul>
 <li><strong>Comprar una aerotermia integral solo para el agua caliente.</strong> Para eso basta un termo de aerotermia, mucho más barato.</li>
 <li><strong>Poner el termo de aerotermia en un armario cerrado</strong> sin el volumen de aire que pide el fabricante.</li>
