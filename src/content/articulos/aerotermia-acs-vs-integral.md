@@ -193,7 +193,7 @@ fuentes:
 
 <div class="callout">
 <strong>Mi consejo</strong>
-<p>Si tu problema es solo el termo eléctrico, cambia el termo: un termo de aerotermia bien colocado es de las mejoras que más rápido se pagan en una casa. Si además vas a cambiar la calefacción, pide presupuestos de aerotermia integral y compara con la suma de un termo de aerotermia y un split. Pide siempre el precio instalado, el rendimiento del equipo y el espacio que necesita.</p>
+<p>Si tu problema es solo el termo eléctrico, cambia el termo: un termo de aerotermia bien colocado es de las mejoras que más rápido se pagan en una casa. Si además vas a cambiar la calefacción, pide presupuestos de aerotermia integral y compara con la suma de un termo de aerotermia y un split. Pide siempre el precio instalado, el rendimiento del equipo y el espacio que necesita. Y antes de firmar, comprueba con tus facturas cuánto te cuesta hoy el agua caliente: es la cifra que te dirá cuánto vas a ahorrar de verdad.</p>
 </div>
 
 <h2 id="conclusion">Conclusión</h2>
