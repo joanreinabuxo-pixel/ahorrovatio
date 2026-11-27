@@ -111,6 +111,8 @@ fuentes:
 <p>Sobre la lluvia, la OCU recoge que hacen falta unos 20 mm por metro cuadrado para arrastrar el polvo: unos 40 minutos de lluvia suave o 10 de lluvia fuerte. Pero la lluvia no se lleva los excrementos de pájaros ni los líquenes.</p>
 <p>La mejor forma de decidir es mirar la producción en la aplicación del inversor. Compárala con la del mismo mes del año anterior o con días parecidos: si baja sin que haya más nubes, toca limpiar. Ten en cuenta que en invierno es normal producir menos; lo explico en <a href="/placas-solares/placas-solares-dias-nublados/">cuánto producen las placas en días nublados</a>.</p>
 
+<p><strong>Te puede interesar:</strong> <a href="/placas-solares/microinversores-vs-inversor-string/">microinversores o inversor string</a>, porque con microinversores ves la producción de cada placa por separado y detectas enseguida cuál está más sucia o tiene una sombra nueva. Con un inversor string solo ves el total de la instalación.</p>
+
 <h2 id="como">3. Cómo limpiarlas paso a paso</h2>
 <p>Si tus placas están a una altura segura, como en un kit de balcón, una pérgola o una cubierta plana con acceso, puedes limpiarlas tú. Siguiendo las recomendaciones de la OCU, Repsol y Endesa:</p>
 <ol>
