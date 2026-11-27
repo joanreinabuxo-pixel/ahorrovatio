@@ -44,6 +44,9 @@ fuentes:
   - nombre: "Selectra — Opiniones sobre la aerotermia (actualizado el 03/07/2026)"
     url: "https://climate.selectra.com/es/aerotermia/opiniones"
     consultado: 2026-11-27
+  - nombre: "El Español — La ley por la que el ayuntamiento puede multarte si tu aire acondicionado hace demasiado ruido (14/06/2026)"
+    url: "https://www.elespanol.com/omicrono/20260614/vigor-ley-ayuntamiento-puede-multarte-aire-acondicionado-hace-demasiado-ruido/1003744280343_0.html"
+    consultado: 2026-11-27
   - nombre: "BOE — Real Decreto 1367/2007, que desarrolla la Ley 37/2003 del Ruido"
     url: "https://www.boe.es/eli/es/rd/2007/10/19/1367"
     consultado: 2026-11-27
@@ -78,6 +81,7 @@ fuentes:
 <li><a href="#distancia">Cómo baja el ruido con la distancia</a></li>
 <li><a href="#normativa">Normativa y vecinos: qué dice la ley</a></li>
 <li><a href="#colocar">Cómo colocar la unidad exterior para que no moleste</a></li>
+<li><a href="#molesta">Qué hacer si te molesta la aerotermia de un vecino</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
 <li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
@@ -152,7 +156,17 @@ fuentes:
 </ol>
 <p>Ten en cuenta que alejar la unidad de la casa tiene un límite: en una monobloc, los tramos largos de tubería de agua pierden calor. Y bajar el ruido con un modo silencioso puede reducir algo la potencia; mira lo que gasta en <a href="/aerotermia/consumo-aerotermia-mes/">cuánto consume la aerotermia al mes</a>.</p>
 
-<h2 id="errores">7. Errores frecuentes</h2>
+<h2 id="molesta">7. Qué hacer si te molesta la aerotermia de un vecino</h2>
+<p>Si el problema es al revés y es la unidad de un vecino la que no te deja dormir, El Español resume un camino por pasos, de menos a más:</p>
+<ol>
+<li><strong>Habla con el vecino.</strong> Muchas veces basta con activar el modo nocturno, cambiar un soporte o reorientar la salida de aire.</li>
+<li><strong>Avisa al presidente de la comunidad</strong>, sobre todo si la unidad está en un elemento común, como un patio o la fachada.</li>
+<li><strong>Pide una medición oficial.</strong> La policía local puede medir con un sonómetro si se superan los límites de la ordenanza.</li>
+<li><strong>Acude a los tribunales</strong> como último recurso. La OCU recuerda que la Ley de Propiedad Horizontal permite a la comunidad pedir el cese de una actividad molesta.</li>
+</ol>
+<p>Apunta los días y las horas en que el ruido molesta y, si puedes, grábalo. Te servirá en cualquiera de los pasos.</p>
+
+<h2 id="errores">8. Errores frecuentes</h2>
 <ul>
 <li><strong>Comparar la potencia sonora de un equipo con la presión sonora de otro.</strong></li>
 <li><strong>Instalar en un patio de luces</strong> sin pensar en el rebote del sonido.</li>
