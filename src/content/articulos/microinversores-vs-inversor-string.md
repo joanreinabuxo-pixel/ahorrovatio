@@ -75,6 +75,7 @@ fuentes:
 <li><a href="#bateria">Si piensas poner batería</a></li>
 <li><a href="#otros">Monitorización, seguridad, averías y ampliaciones</a></li>
 <li><a href="#cuando">Cuándo conviene cada uno</a></li>
+<li><a href="#preguntas">Qué preguntar al instalador</a></li>
 <li><a href="#errores">Errores frecuentes</a></li>
 <li><a href="#conclusion">Conclusión</a></li>
 <li><a href="#faq">Preguntas frecuentes</a></li>
@@ -154,7 +155,19 @@ fuentes:
 </div>
 <p>Los <a href="/placas-solares/kit-solar-balcon/">kits solares de balcón</a> funcionan precisamente con un microinversor, porque son una o dos placas que se enchufan a la red de la casa.</p>
 
-<h2 id="errores">7. Errores frecuentes</h2>
+<h2 id="preguntas">7. Qué preguntar al instalador</h2>
+<p>Para comparar propuestas con inversores distintos, pide que cada presupuesto responda a estas preguntas por escrito:</p>
+<ol>
+<li><strong>¿Qué producción anual calculas</strong> con esta opción en mi tejado, teniendo en cuenta las sombras? Si te ofrecen microinversores, deberían mostrarte cuánto ganas frente a un inversor string.</li>
+<li><strong>¿Qué modelo exacto de inversor o de microinversor</strong> vas a poner, y qué potencia máxima admite por placa?</li>
+<li><strong>¿Cuántas entradas independientes (MPPT) tiene el inversor</strong> y cómo vas a repartir las placas entre ellas?</li>
+<li><strong>¿Puedo añadir una batería más adelante?</strong> ¿Qué batería sería compatible y qué habría que cambiar?</li>
+<li><strong>¿Qué garantía tiene el inversor</strong> o cada microinversor, y quién se encarga de cambiarlo si falla?</li>
+<li><strong>¿Incluye la monitorización</strong>, con la pasarela o el equipo de comunicación, y la aplicación para ver la producción?</li>
+</ol>
+<p>Si un instalador no sabe explicarte por qué elige un tipo de inversor para tu tejado concreto, es una mala señal. Las respuestas a estas preguntas te dirán más que la marca.</p>
+
+<h2 id="errores">8. Errores frecuentes</h2>
 <ul>
 <li><strong>Pagar microinversores en un tejado sin sombras</strong> y con una sola orientación, donde apenas mejoran la producción.</li>
 <li><strong>Elegir microinversores sin pensar en la batería.</strong> Añadirla después puede salir más caro.</li>
